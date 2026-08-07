@@ -1,6 +1,7 @@
 from uuid import UUID
 from fastapi import APIRouter, Depends, Request, HTTPException, status
 from langgraph.checkpoint.memory import MemorySaver
+from datetime import datetime, timedelta, timezone
 from sqlalchemy.ext.asyncio import AsyncSession
 from app.api.dependencies import current_user
 from app.db.session import get_db
@@ -21,7 +22,7 @@ async def orchestrate_event(event_id:UUID,request:Request,db:AsyncSession=Depend
     result=await graph.ainvoke({"workflow_id":str(event_id),"event":{"event_type":event.event_type,"source":event.source,"title":event.title,"description":event.description,"severity":event.severity,"payload":event.payload}},config)
     interrupt=result.get("__interrupt__")
     if interrupt:
-        approval=Approval(event_id=event.id,requested_by=UUID(user["sub"]),proposed_action=result.get("recommendations",{})); db.add(approval); await db.commit()
+        approval=Approval(event_id=event.id,requested_by=UUID(user["sub"]),expires_at=datetime.now(timezone.utc)+timedelta(minutes=30),urgency="critical" if event.severity=="critical" else "normal",proposed_action=result.get("recommendations",{})); db.add(approval); await db.commit()
     return {"event_id":str(event_id),"status":result.get("status"),"interrupt":bool(interrupt),"state":result}
 @router.get("/{event_id}",response_model=EventRead)
 async def get_event(event_id:UUID,db:AsyncSession=Depends(get_db),user=Depends(current_user)):

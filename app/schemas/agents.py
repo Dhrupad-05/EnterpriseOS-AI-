@@ -17,6 +17,13 @@ class VendorRecommendation(BaseModel):
     delivery_days: int = Field(ge=0)
     confidence: float = Field(ge=0, le=1)
     risk_flags: list[str] = Field(default_factory=list)
+    reasoning: str = ""
+class VendorRankingOutput(BaseModel):
+    primary_vendor: VendorRecommendation
+    alternatives: list[VendorRecommendation] = Field(default_factory=list)
+    recommendation: str
+    total_cost_estimate: float = 0
+    implementation_timeline_days: int = 0
 
 class VendorQuery(BaseModel):
     category: str

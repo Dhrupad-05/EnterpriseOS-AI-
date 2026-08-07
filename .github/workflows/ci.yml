@@ -8,5 +8,5 @@ jobs:
       - uses: astral-sh/setup-uv@v5
       - run: uv sync
       - run: uv run ruff check .
-      - run: uv run pytest --cov=app --cov-report=term-missing --cov-fail-under=75
+      - run: uv run pytest --cov=app --cov-report=term-missing --cov-fail-under=85
       - run: docker build -t enterpriseos-ai .

@@ -1,4 +1,5 @@
 from uuid import UUID
+from datetime import datetime, timezone
 from fastapi import APIRouter, Depends, HTTPException, Request
 from langgraph.types import Command
 from sqlalchemy import select
@@ -12,7 +13,7 @@ router=APIRouter(prefix="/approvals",tags=["Approvals"])
 @router.get("")
 async def list_pending(db:AsyncSession=Depends(get_db),user=Depends(current_user)):
     rows=(await db.execute(select(Approval).where(Approval.status==ApprovalStatus.PENDING,Approval.is_deleted.is_(False)))).scalars().all()
-    return [{"id":str(row.id),"event_id":str(row.event_id),"action":row.proposed_action,"status":row.status} for row in rows]
+    return [{"id":str(row.id),"event_id":str(row.event_id),"action":row.proposed_action,"status":row.status,"expires_at":row.expires_at,"expired":bool(row.expires_at and row.expires_at<=datetime.now(timezone.utc))} for row in rows]
 @router.post("/{approval_id}/decision")
 async def decide(approval_id:UUID,data:ApprovalDecision,request:Request,db:AsyncSession=Depends(get_db),user=Depends(current_user)):
     approval=await db.get(Approval,approval_id)

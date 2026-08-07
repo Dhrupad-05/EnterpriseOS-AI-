@@ -15,3 +15,7 @@ class ApprovalQueue:
         if datetime.now(timezone.utc)>req.expires_at: req.decision="expired"
         else: req.decision=decision; req.comment=comment
         return req
+    async def check_and_escalate_expired(self):
+        now=datetime.now(timezone.utc)
+        for req in self.pending.values():
+            if req.decision is None and req.expires_at<=now: req.decision="expired"
