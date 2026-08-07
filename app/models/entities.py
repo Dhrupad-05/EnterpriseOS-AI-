@@ -1,0 +1,25 @@
+import enum, uuid
+from typing import Any
+from sqlalchemy import String, Text, Float, Integer, ForeignKey, JSON, Enum, Index
+from sqlalchemy.orm import Mapped, mapped_column, relationship
+from app.models.base import TimestampedModel
+class RoleName(str, enum.Enum): CEO="CEO"; MANAGER="Manager"; EMPLOYEE="Employee"; FINANCE="Finance"; OPERATIONS="Operations"; COMPLIANCE="Compliance"; ADMIN="Admin"
+class EventStatus(str, enum.Enum): CREATED="created"; CLASSIFIED="classified"; PLANNING="planning"; AWAITING_APPROVAL="awaiting_approval"; APPROVED="approved"; EXECUTING="executing"; MONITORING="monitoring"; COMPLETED="completed"; ARCHIVED="archived"; REJECTED="rejected"
+class ApprovalStatus(str, enum.Enum): PENDING="pending"; APPROVED="approved"; REJECTED="rejected"; MODIFIED="modified"
+class Role(TimestampedModel):
+    __tablename__="roles"; name: Mapped[RoleName] = mapped_column(Enum(RoleName), unique=True, index=True); description: Mapped[str|None] = mapped_column(Text)
+class User(TimestampedModel):
+    __tablename__="users"; email: Mapped[str] = mapped_column(String(320), unique=True, index=True); full_name: Mapped[str] = mapped_column(String(200)); password_hash: Mapped[str] = mapped_column(String(255)); is_active: Mapped[bool] = mapped_column(default=True); role_id: Mapped[uuid.UUID] = mapped_column(ForeignKey("roles.id")); role: Mapped[Role] = relationship()
+class BusinessEvent(TimestampedModel):
+    __tablename__="business_events"; event_type: Mapped[str] = mapped_column(String(100), index=True); title: Mapped[str] = mapped_column(String(255)); description: Mapped[str] = mapped_column(Text); status: Mapped[EventStatus] = mapped_column(Enum(EventStatus), default=EventStatus.CREATED, index=True); severity: Mapped[str] = mapped_column(String(30), default="medium"); payload: Mapped[dict[str,Any]] = mapped_column(JSON, default=dict); created_by: Mapped[uuid.UUID] = mapped_column(ForeignKey("users.id")); workflow_id: Mapped[uuid.UUID|None] = mapped_column(ForeignKey("workflows.id")); workflow: Mapped["Workflow|None"] = relationship(back_populates="events", foreign_keys=[workflow_id]); creator: Mapped[User] = relationship(foreign_keys=[created_by])
+    __table_args__=(Index("ix_events_type_status","event_type","status"),)
+class Workflow(TimestampedModel):
+    __tablename__="workflows"; name: Mapped[str] = mapped_column(String(150), index=True); version: Mapped[int] = mapped_column(Integer, default=1); definition: Mapped[dict[str,Any]] = mapped_column(JSON); is_active: Mapped[bool] = mapped_column(default=True); events: Mapped[list[BusinessEvent]] = relationship(back_populates="workflow", foreign_keys="BusinessEvent.workflow_id"); steps: Mapped[list["WorkflowStep"]] = relationship(cascade="all, delete-orphan")
+class WorkflowStep(TimestampedModel):
+    __tablename__="workflow_steps"; workflow_id: Mapped[uuid.UUID] = mapped_column(ForeignKey("workflows.id"), index=True); name: Mapped[str] = mapped_column(String(150)); step_type: Mapped[str] = mapped_column(String(50)); config: Mapped[dict[str,Any]] = mapped_column(JSON, default=dict); order_index: Mapped[int] = mapped_column(Integer, default=0); timeout_seconds: Mapped[int] = mapped_column(Integer, default=300); retry_limit: Mapped[int] = mapped_column(Integer, default=3)
+class Approval(TimestampedModel):
+    __tablename__="approvals"; event_id: Mapped[uuid.UUID] = mapped_column(ForeignKey("business_events.id"), index=True); requested_by: Mapped[uuid.UUID] = mapped_column(ForeignKey("users.id")); decided_by: Mapped[uuid.UUID|None] = mapped_column(ForeignKey("users.id")); status: Mapped[ApprovalStatus] = mapped_column(Enum(ApprovalStatus), default=ApprovalStatus.PENDING, index=True); comment: Mapped[str|None] = mapped_column(Text); proposed_action: Mapped[dict[str,Any]] = mapped_column(JSON, default=dict)
+class AuditLog(TimestampedModel):
+    __tablename__="audit_logs"; event_id: Mapped[uuid.UUID|None] = mapped_column(ForeignKey("business_events.id"), index=True); actor_id: Mapped[uuid.UUID|None] = mapped_column(ForeignKey("users.id")); action: Mapped[str] = mapped_column(String(120), index=True); prompt: Mapped[str|None] = mapped_column(Text); response: Mapped[str|None] = mapped_column(Text); decision: Mapped[dict[str,Any]|None] = mapped_column(JSON); confidence: Mapped[float|None] = mapped_column(Float); latency_ms: Mapped[int|None] = mapped_column(Integer); tokens: Mapped[int|None] = mapped_column(Integer); correlation_id: Mapped[str|None] = mapped_column(String(100), index=True)
+class Notification(TimestampedModel):
+    __tablename__="notifications"; user_id: Mapped[uuid.UUID] = mapped_column(ForeignKey("users.id"), index=True); event_id: Mapped[uuid.UUID|None] = mapped_column(ForeignKey("business_events.id")); channel: Mapped[str] = mapped_column(String(30)); subject: Mapped[str] = mapped_column(String(255)); body: Mapped[str] = mapped_column(Text); status: Mapped[str] = mapped_column(String(30), default="pending")
