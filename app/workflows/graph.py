@@ -20,7 +20,7 @@ class WorkflowOrchestrator:
         async def specialists(state):
             event=BusinessEventInput.model_validate(state["event"]); name="crisis" if event.event_type.lower() in {"factoryfire","cyberattack","supplierbankruptcy","poweroutage","machinefailure","vendorbankruptcy"} else "procurement" if event.event_type.lower() in {"purchaserequest","vendordelay"} else "operations"; result=await self.agents.get(name).execute(event); return {"status":"awaiting_approval","recommendations":{name:result.model_dump() if hasattr(result,"model_dump") else result}}
         async def approval(state):
-            decision=interrupt({"workflow_id":state.get("workflow_id"),"action":"approve_recommendation","context":state.get("recommendations",{}),"expires_minutes":30}); return {"status":"approved" if decision.get("decision")=="approved" else "rejected","approval":decision}
+            decision=interrupt({"workflow_id":state.get("workflow_id"),"action":"approve_recommendation","context":state.get("recommendations",{}),"expires_minutes":30}); return {"status":"approved" if decision.get("decision") in {"approved","modified"} else "rejected","approval":decision}
         async def execute(state): return {"status":"executing","execution":{"executed":True,"critical_action":"delegated_to_external_executor"}}
         async def audit(state): return {"status":"completed","audit":[*state.get("audit",[]),{"action":"completed","snapshot":dict(state)}]}
         def route_policy(state)->Literal["reject","specialists"]: return "reject" if state.get("policy",{}).get("status")=="rejected" else "specialists"

@@ -1,0 +1,77 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+.venv/
+venv/
+env/
+ENV/
+
+# uv / tooling
+.uv/
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+.pyre/
+.pytype/
+
+# Local databases and runtime data
+*.db
+*.sqlite
+*.sqlite3
+instance/
+var/
+logs/
+*.log
+
+# Docker and local infrastructure
+.docker/
+docker-data/
+postgres_data/
+redis_data/
+
+# IDE and OS files
+.vscode/
+.idea/
+*.iml
+*.suo
+*.user
+*.userossc
+.DS_Store
+Thumbs.db
+
+# Generated reports and artifacts
+coverage.xml
+junit.xml
+reports/
+
+# Frontend dependencies if a frontend is added later
+node_modules/
+.npm/
+.yarn/
+.pnpm-store/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~

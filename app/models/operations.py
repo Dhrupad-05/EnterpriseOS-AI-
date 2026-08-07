@@ -8,7 +8,7 @@ class Asset(TimestampedModel):
 class Inventory(TimestampedModel):
     __tablename__="inventory"; sku: Mapped[str]=mapped_column(String(100),unique=True,index=True); quantity: Mapped[int]=mapped_column(Integer,default=0); reorder_point: Mapped[int]=mapped_column(Integer,default=0); location: Mapped[str]=mapped_column(String(120))
 class Vendor(TimestampedModel):
-    __tablename__="vendors"; name: Mapped[str]=mapped_column(String(200),index=True); risk_score: Mapped[float]=mapped_column(Float,default=0); metadata_: Mapped[dict[str,Any]]=mapped_column("metadata",JSON,default=dict)
+    __tablename__="vendors"; name: Mapped[str]=mapped_column(String(200),index=True); category: Mapped[str]=mapped_column(String(100),default="general",index=True); risk_score: Mapped[float]=mapped_column(Float,default=0); performance_score: Mapped[float]=mapped_column(Float,default=0); on_time_delivery_rate: Mapped[float]=mapped_column(Float,default=0); avg_unit_cost: Mapped[float]=mapped_column(Float,default=0); avg_delivery_days: Mapped[int]=mapped_column(Integer,default=0); late_deliveries_90d: Mapped[int]=mapped_column(Integer,default=0); metadata_: Mapped[dict[str,Any]]=mapped_column("metadata",JSON,default=dict)
 class PurchaseOrder(TimestampedModel):
     __tablename__="purchase_orders"; vendor_id: Mapped[uuid.UUID]=mapped_column(ForeignKey("vendors.id")); amount: Mapped[float]=mapped_column(Float); currency: Mapped[str]=mapped_column(String(3),default="USD"); status: Mapped[str]=mapped_column(String(40),default="draft"); line_items: Mapped[list[Any]]=mapped_column(JSON,default=list)
 class Incident(TimestampedModel):
