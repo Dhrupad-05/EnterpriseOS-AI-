@@ -1,17 +1,26 @@
-# Environment and secrets
+# -----------------------------------------------------------------------------
+# Environment, credentials, and local configuration
+# -----------------------------------------------------------------------------
 .env
 .env.*
 !.env.example
 *.pem
 *.key
+*.crt
+*.p12
+*.pfx
 secrets/
+credentials/
 
+# -----------------------------------------------------------------------------
 # Python
+# -----------------------------------------------------------------------------
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
 .Python
+__pypackages__/
 build/
 dist/
 *.egg-info/
@@ -22,18 +31,29 @@ venv/
 env/
 ENV/
 
-# uv / tooling
+# -----------------------------------------------------------------------------
+# Tooling, tests, static analysis, and coverage
+# -----------------------------------------------------------------------------
 .uv/
 .pytest_cache/
+.hypothesis/
+.tox/
+.nox/
 .coverage
 .coverage.*
+coverage.xml
 htmlcov/
+junit.xml
+reports/
 .mypy_cache/
 .ruff_cache/
 .pyre/
 .pytype/
+.pyright/
 
-# Local databases and runtime data
+# -----------------------------------------------------------------------------
+# Runtime state, local databases, and logs
+# -----------------------------------------------------------------------------
 *.db
 *.sqlite
 *.sqlite3
@@ -41,14 +61,31 @@ instance/
 var/
 logs/
 *.log
+*.pid
+*.seed
 
-# Docker and local infrastructure
+# -----------------------------------------------------------------------------
+# Docker and local infrastructure volumes
+# -----------------------------------------------------------------------------
 .docker/
 docker-data/
 postgres_data/
 redis_data/
+pgdata/
 
-# IDE and OS files
+# -----------------------------------------------------------------------------
+# Frontend artifacts if a client is added later
+# -----------------------------------------------------------------------------
+node_modules/
+.npm/
+.yarn/
+.pnpm-store/
+.next/
+out/
+
+# -----------------------------------------------------------------------------
+# IDEs and operating systems
+# -----------------------------------------------------------------------------
 .vscode/
 .idea/
 *.iml
@@ -57,21 +94,19 @@ redis_data/
 *.userossc
 .DS_Store
 Thumbs.db
+Desktop.ini
 
-# Generated reports and artifacts
-coverage.xml
-junit.xml
-reports/
-
-# Frontend dependencies if a frontend is added later
-node_modules/
-.npm/
-.yarn/
-.pnpm-store/
-
-# Temporary files
+# -----------------------------------------------------------------------------
+# Temporary and editor files
+# -----------------------------------------------------------------------------
 *.tmp
 *.temp
 *.swp
 *.swo
 *~
+
+# Intentionally tracked: uv.lock, Alembic migrations, .env.example
+
+__pycache__/
+*.pyc
+.coverage

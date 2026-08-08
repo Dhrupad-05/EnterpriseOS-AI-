@@ -10,5 +10,5 @@ from app.services.llm import LLMService
 class AgentOrchestrator:
     def __init__(self,llm_service=None):
         llm=llm_service or LLMService(); vendor=VendorIntelligenceAgent(llm_service=llm)
-        self.agents={a.name:a for a in [COOAgent(),CrisisAgent(vendor_agent=vendor),FinanceAgent(),ComplianceAgent(),OperationsAgent(),PlannerAgent(),ProcurementAgent()]}; self.agents[vendor.name]=vendor
+        self.agents={a.name:a for a in [COOAgent(),CrisisAgent(vendor_agent=vendor,llm_service=llm),FinanceAgent(),ComplianceAgent(),OperationsAgent(),PlannerAgent(),ProcurementAgent()]}; self.agents[vendor.name]=vendor
     def get(self,name): return self.agents[name]
