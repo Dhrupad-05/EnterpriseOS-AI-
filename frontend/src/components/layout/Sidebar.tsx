@@ -5,6 +5,8 @@ import {
 } from "lucide-react"
 import { useState } from "react"
 import { cn } from "@/lib/utils"
+import { useApp } from "@/context/AppContext"
+import { canAccess } from "@/lib/access"
 
 const nav = [
   { to: "/app", label: "Dashboard", icon: LayoutGrid, end: true },
@@ -20,6 +22,8 @@ const nav = [
 
 export function Sidebar() {
   const [collapsed, setCollapsed] = useState(false)
+  const { role } = useApp()
+  const visibleNav = nav.filter((item) => canAccess(role, item.to))
 
   return (
     <aside
@@ -36,7 +40,7 @@ export function Sidebar() {
       </div>
 
       <nav className="flex-1 overflow-y-auto py-3 px-2 space-y-0.5">
-        {nav.map((item) => (
+        {visibleNav.map((item) => (
           <NavLink
             key={item.to}
             to={item.to}
