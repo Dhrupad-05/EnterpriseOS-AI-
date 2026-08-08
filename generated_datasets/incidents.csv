@@ -1,0 +1,501 @@
+incident_id,event_id,incident_type,severity,affected_department,estimated_loss,response_time_minutes,root_cause,resolved,resolution_time_minutes
+INC197BBAC3,EVTE3708E9F,Cyber Attack,Critical,HR,69673,28,External Factor,No,
+INC7ECE4825,EVT12542E18,Transportation Delay,Warning,Quality,4603,25,Security Breach,Yes,167.0
+INC92FB8DD6,EVTDF9678C1,Warehouse Accident,Critical,HR,6470,61,Maintenance Issue,No,
+INCB4C8CF05,EVT55ED9682,Factory Fire,Critical,Logistics,361550,21,System Failure,Yes,21.0
+INCD1350875,EVTDABFCAC7,Factory Fire,Critical,Procurement,394024,51,Maintenance Issue,Yes,95.0
+INCEC08DD13,EVT1A738619,Power Failure,Warning,Logistics,68304,68,Environmental Factor,Yes,88.0
+INCC72C2427,EVTB2DA4568,Flood,Critical,Logistics,271878,11,Human Error,Yes,59.0
+INCFF83793B,EVT2C391455,Power Failure,Critical,Logistics,81854,21,Human Error,No,
+INC0DE352FE,EVT631911B3,Machine Failure,Critical,Sales,6841,6,External Factor,Yes,173.0
+INC1882C0C4,EVT4952B9F8,Transportation Delay,Warning,Sales,9862,27,Security Breach,Yes,128.0
+INC294D3D76,EVT6C548E5A,Server Outage,Critical,Procurement,67946,33,System Failure,Yes,116.0
+INCD0A477AC,EVTB250BE3F,Cyber Attack,Critical,Quality,170341,49,Infrastructure Failure,No,
+INCF7E96227,EVTE3593891,Server Outage,Critical,Quality,73993,21,Infrastructure Failure,Yes,169.0
+INC718A7E71,EVT1299EB93,Flood,Critical,Marketing,39556,23,System Failure,Yes,102.0
+INCA23CD4E5,EVTB003B6EE,Warehouse Accident,Critical,Logistics,17476,41,External Factor,Yes,122.0
+INC9FF301EB,EVT72E0CC8C,Supplier Bankruptcy,Critical,Quality,6029,19,Environmental Factor,Yes,64.0
+INC57397FDA,EVTCC9ABADD,Power Failure,Critical,Manufacturing,90103,5,Environmental Factor,Yes,81.0
+INC6773BFA6,EVT6896BBB3,Network Failure,Critical,Quality,70142,27,Supplier Issue,Yes,240.0
+INC19F50D92,EVT37D2208E,Flood,Warning,HR,256072,54,Human Error,Yes,102.0
+INCE7CF0A7E,EVT0C027BF0,Supplier Bankruptcy,Normal,Marketing,16234,28,Security Breach,Yes,125.0
+INC84255799,EVT0EAFEC6C,Supplier Bankruptcy,Critical,Procurement,31531,5,External Factor,No,
+INCC1253D9C,EVTA2F954E4,Cyber Attack,Critical,HR,131320,55,Supplier Issue,Yes,156.0
+INC31931A3F,EVT89172726,Supplier Bankruptcy,Normal,Logistics,13286,47,Human Error,Yes,100.0
+INC54997A4E,EVTE3716D00,Supplier Bankruptcy,Warning,IT,14462,30,Maintenance Issue,Yes,188.0
+INCB3B0E750,EVT173A231A,Transportation Delay,Normal,Finance,6255,34,Security Breach,Yes,26.0
+INCCFFA98AD,EVT279ABEE0,Power Failure,Critical,Finance,93955,36,Environmental Factor,Yes,97.0
+INC02843D75,EVT1248AE13,Transportation Delay,Warning,IT,1983,27,Human Error,No,
+INCD2AD41F0,EVT860C785B,Server Outage,Warning,Logistics,67273,5,Infrastructure Failure,Yes,28.0
+INCB3C20B7B,EVT5E05EA17,Power Failure,Critical,Marketing,69463,34,Security Breach,No,
+INC2A5EAEDA,EVTF4999D40,Power Failure,Critical,Quality,22075,33,Environmental Factor,No,
+INC825A2BA9,EVT77546695,Power Failure,Critical,Finance,62952,68,External Factor,Yes,238.0
+INCE31A1F15,EVT74F77571,Network Failure,Critical,IT,11266,16,External Factor,Yes,136.0
+INCD9A730C7,EVT25026353,Machine Failure,Warning,Finance,40132,18,Supplier Issue,No,
+INC69279E42,EVTEDC425B6,Warehouse Accident,Normal,HR,3382,5,Human Error,Yes,193.0
+INC14830C0A,EVT1A024B8A,Factory Fire,Critical,Finance,214580,73,System Failure,No,
+INCE4E8838B,EVTAD500FE9,Power Failure,Critical,Manufacturing,32323,35,Maintenance Issue,Yes,75.0
+INCD93275A3,EVT47493E3C,Supplier Bankruptcy,Critical,Operations,9511,56,Infrastructure Failure,Yes,181.0
+INCBDDFA5CD,EVT4154B09F,Network Failure,Critical,Sales,77693,38,Environmental Factor,Yes,112.0
+INCD1FFC4E4,EVTBA17F51E,Factory Fire,Warning,Procurement,128191,5,Security Breach,No,
+INC3D0228C2,EVT56449568,Machine Failure,Normal,Procurement,47906,56,External Factor,Yes,131.0
+INC5C03308F,EVT99EDF256,Cyber Attack,Critical,HR,159830,9,External Factor,Yes,112.0
+INC540B01C0,EVT581A47D0,Warehouse Accident,Warning,Procurement,26793,5,Supplier Issue,Yes,20.0
+INC97A43541,EVT3334E996,Server Outage,Critical,Quality,48956,84,Human Error,Yes,61.0
+INCC70D18A9,EVT5AB79E40,Server Outage,Critical,Marketing,69257,33,Supplier Issue,Yes,128.0
+INCECE83492,EVT446AB7E8,Server Outage,Warning,Procurement,42481,5,Environmental Factor,Yes,262.0
+INC4C193A13,EVTEE46618A,Flood,Critical,Marketing,94557,5,Environmental Factor,No,
+INCAE5E3FC2,EVT5925AB28,Server Outage,Critical,Procurement,40222,5,System Failure,No,
+INC28CD7A53,EVT7D1B4072,Factory Fire,Warning,Procurement,82534,27,Human Error,Yes,203.0
+INC5214C792,EVT7D9BD00B,Server Outage,Critical,Sales,50910,30,Human Error,Yes,73.0
+INCE6435D94,EVT0888B55C,Flood,Critical,Marketing,128671,34,Security Breach,Yes,171.0
+INC8FC1884B,EVTE0D23BFE,Cyber Attack,Critical,Quality,86296,36,External Factor,No,
+INC98CF0DF0,EVT319E8A3C,Supplier Bankruptcy,Warning,Sales,49390,42,Human Error,Yes,94.0
+INC471E2828,EVT2A474D95,Machine Failure,Critical,Manufacturing,40585,32,External Factor,Yes,109.0
+INCC4290601,EVTCB5FC51F,Machine Failure,Critical,Sales,8511,34,Infrastructure Failure,Yes,169.0
+INC9FA22A73,EVTA8C11011,Supplier Bankruptcy,Warning,Operations,49152,47,Environmental Factor,Yes,202.0
+INC9A783B0B,EVT7B66AFF6,Power Failure,Normal,Finance,41413,24,Supplier Issue,Yes,135.0
+INC7F4FC1E4,EVTACBFCB4C,Transportation Delay,Normal,Logistics,19294,28,External Factor,Yes,70.0
+INC7525E262,EVTD1AEC91D,Power Failure,Critical,Marketing,49017,36,Security Breach,Yes,113.0
+INCABB396D2,EVTFD7FE7AC,Cyber Attack,Critical,IT,37025,42,Supplier Issue,Yes,185.0
+INCE1DF1284,EVT11AD7F78,Flood,Critical,Sales,74429,34,Human Error,Yes,143.0
+INC868D569D,EVTF8988CD2,Machine Failure,Critical,Logistics,40794,17,System Failure,Yes,10.0
+INCEA09AAEE,EVTFFD68A8D,Supplier Bankruptcy,Critical,Quality,24452,16,Infrastructure Failure,No,
+INCACDDFCD0,EVT4DDDF459,Network Failure,Critical,Operations,67726,10,Supplier Issue,No,
+INCF95F828F,EVT6D79DD77,Factory Fire,Critical,Manufacturing,435404,14,External Factor,Yes,165.0
+INC34ACED45,EVT09AF7FC0,Power Failure,Critical,Marketing,51547,50,Human Error,Yes,116.0
+INC88571D65,EVTB0A38CCA,Machine Failure,Warning,Logistics,15738,10,Infrastructure Failure,Yes,119.0
+INC48D080BD,EVT993554A4,Transportation Delay,Warning,Manufacturing,13268,30,Supplier Issue,Yes,31.0
+INC7D658947,EVT94BED574,Transportation Delay,Critical,Finance,802,38,Infrastructure Failure,Yes,124.0
+INCD4D0F05C,EVTC19F5BD0,Power Failure,Critical,Operations,68723,54,Environmental Factor,Yes,198.0
+INC1F802B91,EVTEF333FF1,Supplier Bankruptcy,Warning,Operations,25354,29,Security Breach,Yes,159.0
+INCA286C673,EVTFD0706C5,Server Outage,Critical,Finance,45307,58,System Failure,No,
+INCE6F1B83C,EVT20E3A769,Factory Fire,Warning,Procurement,127780,32,Security Breach,Yes,61.0
+INC4F07719E,EVT4763A9C1,Supplier Bankruptcy,Critical,Sales,16333,5,Maintenance Issue,Yes,125.0
+INC05386724,EVT84A2FACD,Warehouse Accident,Warning,Marketing,24399,52,Human Error,Yes,66.0
+INC090BEE7D,EVTD3336D3E,Power Failure,Critical,Logistics,9708,42,Security Breach,Yes,131.0
+INC80EFF8ED,EVTD9697F05,Flood,Critical,HR,127310,39,Human Error,Yes,72.0
+INC67B68DB6,EVTCB943B63,Power Failure,Normal,Marketing,43587,31,Infrastructure Failure,Yes,114.0
+INC32B6F422,EVTC18146E3,Warehouse Accident,Warning,Manufacturing,12230,24,Maintenance Issue,Yes,190.0
+INC51431E63,EVT2A4BF204,Flood,Critical,Finance,121135,5,Infrastructure Failure,Yes,236.0
+INC0C3CC483,EVT8688BCAC,Supplier Bankruptcy,Normal,Finance,31652,40,Maintenance Issue,Yes,155.0
+INCC14315C1,EVT86510F5D,Cyber Attack,Critical,IT,27212,42,Supplier Issue,Yes,31.0
+INCC90F2DA2,EVTE9518EFE,Flood,Critical,Procurement,233403,47,Maintenance Issue,Yes,63.0
+INC3B2B6510,EVT395AEE85,Transportation Delay,Warning,HR,11399,38,Human Error,Yes,49.0
+INC8DFDDF5F,EVTEC3D39F0,Supplier Bankruptcy,Critical,Quality,20594,9,Human Error,Yes,96.0
+INC579577E5,EVTACA6967B,Warehouse Accident,Warning,Finance,16791,40,Security Breach,Yes,57.0
+INC1046384F,EVT6E016484,Power Failure,Critical,Manufacturing,9494,37,Supplier Issue,No,
+INC9A8E3682,EVTE7373B9D,Warehouse Accident,Warning,Manufacturing,22274,47,Supplier Issue,No,
+INC55D6E19A,EVT89A55455,Supplier Bankruptcy,Critical,HR,30026,9,External Factor,Yes,55.0
+INC57BD88F3,EVTB6BD838A,Machine Failure,Normal,Procurement,20215,33,Environmental Factor,Yes,114.0
+INC86A0DA3A,EVTB8BA8727,Network Failure,Warning,Procurement,45462,58,External Factor,No,
+INCC3F8BC9A,EVTE8E531E4,Cyber Attack,Critical,Finance,171357,34,Security Breach,Yes,200.0
+INC8A292B48,EVTCB7A62E9,Network Failure,Critical,Finance,72753,9,Human Error,Yes,200.0
+INCA34A7DD4,EVT94C5FEC1,Flood,Critical,Marketing,234586,45,Supplier Issue,Yes,181.0
+INC1D2859AA,EVT3AB3FE41,Network Failure,Normal,IT,63394,57,External Factor,No,
+INC84F4FB7B,EVTD13E4E62,Flood,Critical,IT,145781,48,Infrastructure Failure,Yes,78.0
+INCBA6B2A56,EVT7E3D6E1F,Power Failure,Warning,IT,6035,47,Human Error,Yes,172.0
+INCB11B887C,EVT0B31BF81,Network Failure,Critical,Procurement,69310,51,Security Breach,Yes,102.0
+INCF133A874,EVT94C5FEC1,Server Outage,Normal,Sales,57115,64,Supplier Issue,No,
+INCBF3C281F,EVT08AC1EF2,Server Outage,Critical,Operations,47029,8,Supplier Issue,Yes,134.0
+INC44A61D8E,EVT321BE452,Machine Failure,Critical,IT,47637,20,Infrastructure Failure,Yes,84.0
+INC9A1E44C8,EVT2A28E8CF,Supplier Bankruptcy,Critical,Manufacturing,8243,28,External Factor,Yes,216.0
+INCFA596F7D,EVT088A0792,Cyber Attack,Normal,Quality,184314,57,Maintenance Issue,No,
+INC5138FD3E,EVTC948EFE8,Machine Failure,Warning,Quality,24035,55,External Factor,Yes,103.0
+INC452A5E35,EVTCC9C4256,Power Failure,Warning,IT,42797,49,Human Error,Yes,48.0
+INC56096665,EVTBFAA6668,Supplier Bankruptcy,Warning,Procurement,48103,57,Supplier Issue,Yes,153.0
+INCFD39B4B9,EVT5C2013B9,Power Failure,Critical,Finance,67139,16,Environmental Factor,Yes,139.0
+INC891CE634,EVT8C82424D,Warehouse Accident,Warning,Sales,5426,8,Environmental Factor,Yes,52.0
+INC8D261001,EVT982151A8,Power Failure,Critical,IT,36083,37,External Factor,Yes,109.0
+INC7D06C5FD,EVTD822F520,Transportation Delay,Critical,Procurement,18390,17,Environmental Factor,Yes,73.0
+INCB43E328A,EVT78EF69ED,Server Outage,Critical,Procurement,17142,40,Security Breach,No,
+INCF2863A3B,EVT791385FA,Network Failure,Warning,Sales,48654,10,Supplier Issue,Yes,181.0
+INC4DEE21BE,EVTA27C9CC4,Machine Failure,Warning,Logistics,7872,22,Infrastructure Failure,Yes,163.0
+INC2115682F,EVTE020C3A0,Server Outage,Normal,Logistics,22946,19,Maintenance Issue,Yes,127.0
+INCEEA0876C,EVTA5EF09D5,Flood,Critical,Operations,264274,45,Security Breach,Yes,116.0
+INCA84CBCB4,EVT4997A069,Transportation Delay,Critical,Marketing,14474,33,External Factor,Yes,114.0
+INC8C81F7F2,EVT317B3D4D,Cyber Attack,Critical,HR,113592,47,Infrastructure Failure,Yes,129.0
+INCFECFAC80,EVT85842B23,Transportation Delay,Normal,Marketing,15261,68,External Factor,Yes,115.0
+INCE1232687,EVT169B757D,Power Failure,Critical,IT,51764,55,System Failure,Yes,164.0
+INCF4CA287E,EVT2A90C510,Network Failure,Critical,Logistics,13632,21,Human Error,Yes,134.0
+INC7FCDBA8E,EVT76A4C971,Machine Failure,Warning,HR,38091,20,Maintenance Issue,No,
+INC5BC5AF35,EVTC9D85025,Machine Failure,Critical,Logistics,17265,44,Environmental Factor,Yes,83.0
+INC8005DB50,EVT98C8CED8,Cyber Attack,Critical,HR,121788,22,Maintenance Issue,Yes,191.0
+INCED4B99DD,EVT391CCBFA,Supplier Bankruptcy,Warning,Operations,6745,42,Supplier Issue,Yes,157.0
+INC321117ED,EVT50F44C6A,Transportation Delay,Warning,Manufacturing,2108,58,Infrastructure Failure,No,
+INCFBF7588C,EVTDABD98BC,Network Failure,Critical,Quality,27209,38,Security Breach,Yes,147.0
+INC9135939F,EVTEDFD4E92,Warehouse Accident,Critical,Sales,2852,40,Supplier Issue,No,
+INC4966397B,EVT43760C7C,Machine Failure,Warning,Logistics,34003,61,Security Breach,Yes,10.0
+INC5BACADB2,EVT86997DB5,Factory Fire,Critical,IT,358918,26,Environmental Factor,Yes,17.0
+INC42353302,EVT571DAE0A,Flood,Critical,Sales,83097,30,System Failure,Yes,128.0
+INC93556E48,EVT915D59B0,Supplier Bankruptcy,Normal,Finance,22944,24,System Failure,Yes,82.0
+INC7F35ADBD,EVT577F876A,Network Failure,Warning,Sales,67849,47,System Failure,Yes,13.0
+INCABEB8070,EVT7D54771A,Machine Failure,Critical,Marketing,4151,67,Infrastructure Failure,Yes,80.0
+INC28E7A4EE,EVTBB8A7C2A,Factory Fire,Critical,Procurement,415376,34,External Factor,No,
+INCB1B00DA6,EVT488C6C0B,Transportation Delay,Warning,Marketing,15690,13,Environmental Factor,Yes,158.0
+INCA35979B5,EVT90CEA34E,Flood,Critical,Quality,174048,59,External Factor,Yes,34.0
+INCCB616AA8,EVT581A47D0,Warehouse Accident,Critical,Finance,13916,12,Human Error,Yes,70.0
+INC09C6DFA4,EVT8E8DC042,Factory Fire,Critical,IT,388081,14,Maintenance Issue,Yes,148.0
+INC4804DC0E,EVTC0E0B5CF,Machine Failure,Warning,Marketing,43903,20,Infrastructure Failure,Yes,84.0
+INC78727D17,EVT8122F4B2,Network Failure,Critical,IT,52817,5,External Factor,Yes,10.0
+INC756E0D1A,EVT819F1DA2,Warehouse Accident,Critical,Operations,2750,9,Security Breach,Yes,22.0
+INC3E34F7D1,EVTFEF8F963,Flood,Critical,IT,57050,71,Maintenance Issue,Yes,10.0
+INCF6D687F1,EVT382CE4DB,Power Failure,Critical,Manufacturing,43260,48,Maintenance Issue,No,
+INC4B1C9E45,EVT7305A552,Power Failure,Critical,Operations,18614,5,Security Breach,Yes,37.0
+INC6518092A,EVTFFD998A2,Network Failure,Warning,Finance,25328,24,Environmental Factor,Yes,223.0
+INCADD01486,EVT415A1B08,Machine Failure,Warning,Quality,46511,22,Environmental Factor,No,
+INCC0CFDF40,EVTB42FA2E0,Power Failure,Critical,Manufacturing,18187,41,Environmental Factor,Yes,187.0
+INC693C8EFA,EVT26D87929,Transportation Delay,Warning,Sales,12324,29,Infrastructure Failure,Yes,176.0
+INCA5B91480,EVT69B891C9,Warehouse Accident,Warning,Finance,11674,5,Supplier Issue,Yes,82.0
+INC3E5A41D3,EVT38CC57B8,Network Failure,Critical,Finance,6405,26,Environmental Factor,Yes,240.0
+INCA077489F,EVTBFBF7F26,Server Outage,Critical,Finance,95289,18,System Failure,Yes,99.0
+INC0CD6F084,EVT42B3B277,Network Failure,Critical,Sales,74703,23,Maintenance Issue,Yes,193.0
+INC91304266,EVT3BB3AA5A,Network Failure,Warning,Finance,46821,51,Infrastructure Failure,Yes,121.0
+INC47F7C54F,EVTDEF9E159,Flood,Critical,Procurement,223929,27,Supplier Issue,Yes,146.0
+INC62F79D1E,EVTEE71EE3D,Power Failure,Critical,HR,23462,45,Environmental Factor,No,
+INC82585790,EVT8939EF0A,Cyber Attack,Critical,Sales,37414,5,Human Error,Yes,83.0
+INCC30F8555,EVT3C7316D1,Machine Failure,Normal,Procurement,10356,35,Infrastructure Failure,No,
+INC58ABADBC,EVTB45F92F7,Server Outage,Normal,Procurement,91305,10,Maintenance Issue,No,
+INC1BC6F58D,EVT95CF3A93,Cyber Attack,Critical,Logistics,53142,46,Environmental Factor,Yes,132.0
+INCF206909B,EVT62E00199,Transportation Delay,Warning,Operations,11110,24,Infrastructure Failure,No,
+INC0DC8B3F8,EVTC5CB1B93,Transportation Delay,Warning,Quality,14914,40,External Factor,Yes,167.0
+INC11200D13,EVT08AC1EF2,Transportation Delay,Warning,HR,8390,5,Maintenance Issue,No,
+INC087A8251,EVT8965A3B7,Factory Fire,Critical,Finance,198363,56,Environmental Factor,Yes,102.0
+INC18F10D6E,EVT20C20EA8,Network Failure,Critical,Marketing,68275,5,Supplier Issue,No,
+INC8E384619,EVTBC4D0678,Power Failure,Critical,Manufacturing,21626,5,Supplier Issue,Yes,94.0
+INCC161E9E3,EVTB543D6E3,Flood,Critical,Operations,261928,5,Environmental Factor,No,
+INCD0AB517A,EVTAEE53531,Transportation Delay,Critical,HR,2549,45,Environmental Factor,No,
+INC7078FC4C,EVTEB590F1F,Flood,Critical,IT,173875,32,External Factor,Yes,169.0
+INC4830661F,EVTACF01657,Power Failure,Warning,Logistics,51020,45,External Factor,Yes,209.0
+INC92F4F442,EVT9F6A5B3D,Warehouse Accident,Critical,Operations,21142,34,Infrastructure Failure,Yes,118.0
+INCE8A3C077,EVT99D66A04,Supplier Bankruptcy,Critical,Marketing,12996,28,Maintenance Issue,Yes,158.0
+INC92BDAEF2,EVTA274EBE2,Supplier Bankruptcy,Critical,Marketing,12175,14,Maintenance Issue,Yes,205.0
+INC11BEA8B6,EVTA14B28F2,Flood,Critical,Marketing,252685,38,Environmental Factor,Yes,10.0
+INC0816B927,EVTC1349BD7,Power Failure,Critical,HR,48811,51,Human Error,Yes,110.0
+INC3AE65704,EVTBFEA24B5,Server Outage,Critical,IT,89621,72,External Factor,No,
+INCE2D99DB4,EVT001F0ADF,Warehouse Accident,Warning,Sales,8715,44,Security Breach,Yes,162.0
+INC1A952EDA,EVT135D29C2,Supplier Bankruptcy,Critical,Procurement,10751,33,Supplier Issue,Yes,99.0
+INC0BBD2871,EVT74607627,Cyber Attack,Critical,IT,68470,5,Maintenance Issue,Yes,201.0
+INC6C11B121,EVT60ECF9E2,Power Failure,Critical,Operations,15692,32,External Factor,Yes,155.0
+INCFCF337E0,EVTA2F954E4,Cyber Attack,Critical,HR,129965,39,Environmental Factor,Yes,132.0
+INC3AAB5003,EVTF87F9458,Transportation Delay,Warning,Finance,7767,22,External Factor,Yes,80.0
+INC50A97122,EVT54D596E7,Flood,Warning,IT,174463,28,Environmental Factor,Yes,45.0
+INCDE53C27A,EVTD6A63016,Flood,Warning,Procurement,116621,11,Supplier Issue,Yes,113.0
+INCEE1F6F68,EVT255E714E,Power Failure,Normal,Sales,26787,37,External Factor,Yes,71.0
+INCD6E11A3D,EVT18D3F5ED,Machine Failure,Normal,Quality,32890,48,Environmental Factor,No,
+INC199E1CF5,EVT2B769879,Power Failure,Normal,Quality,30954,38,System Failure,Yes,89.0
+INC007F40B9,EVT23800214,Flood,Warning,Procurement,70818,15,Environmental Factor,Yes,101.0
+INCB97D5523,EVT01CE9EF2,Cyber Attack,Critical,Sales,125146,38,Human Error,Yes,26.0
+INC73C99A9C,EVTA93682A4,Server Outage,Critical,Finance,93867,24,Security Breach,Yes,106.0
+INCC2E94103,EVT1CD47EAA,Factory Fire,Warning,HR,204729,13,External Factor,Yes,133.0
+INCBFD6C6AF,EVTACBFCB4C,Factory Fire,Critical,HR,483495,17,Human Error,Yes,21.0
+INC9BA747BC,EVT415DDDF7,Supplier Bankruptcy,Critical,Finance,26334,45,Security Breach,No,
+INCBD77CF83,EVTB3D2CD6B,Flood,Critical,Finance,284706,49,Environmental Factor,Yes,195.0
+INCC30C539E,EVTC991EEF6,Power Failure,Normal,Quality,12614,30,Maintenance Issue,Yes,114.0
+INC1388BE68,EVT50547E85,Power Failure,Warning,Quality,39101,48,Environmental Factor,Yes,76.0
+INC3DA28D34,EVTE8A25F57,Server Outage,Critical,Operations,30918,33,Maintenance Issue,Yes,44.0
+INC598E4699,EVTA353954A,Flood,Critical,Quality,121686,20,Maintenance Issue,Yes,148.0
+INC2B43F21A,EVT1248AE13,Cyber Attack,Warning,Procurement,27979,20,Human Error,No,
+INCAED42188,EVTDF0C8F56,Server Outage,Critical,Finance,41068,5,System Failure,Yes,128.0
+INC74FC19D1,EVT10AFC134,Factory Fire,Critical,Operations,109666,25,Maintenance Issue,No,
+INC65E76029,EVTE48C79FF,Power Failure,Critical,Operations,78342,5,Environmental Factor,Yes,68.0
+INCDFB5783B,EVTC14FC3BB,Machine Failure,Normal,Finance,34103,11,External Factor,Yes,184.0
+INC69FF2CFB,EVT0C3ACF2D,Server Outage,Critical,Procurement,75866,29,Security Breach,Yes,151.0
+INC4C68849A,EVT56ED37AD,Warehouse Accident,Critical,Operations,12255,62,Security Breach,No,
+INC4B0D3CED,EVTED49960C,Cyber Attack,Critical,Finance,118736,62,Maintenance Issue,Yes,51.0
+INCFFDC91BF,EVTBD4114B6,Server Outage,Critical,Manufacturing,96850,25,System Failure,Yes,42.0
+INC1B1B7B19,EVT77546695,Machine Failure,Warning,Operations,46912,58,Security Breach,Yes,102.0
+INCCF712AF7,EVT03AD37F6,Network Failure,Critical,Operations,41593,21,Security Breach,Yes,213.0
+INC036E5079,EVTAD500FE9,Network Failure,Critical,Logistics,14872,34,Infrastructure Failure,Yes,50.0
+INCF7AC4797,EVT3B16F163,Supplier Bankruptcy,Normal,Quality,25515,5,System Failure,Yes,113.0
+INC444FC0A0,EVT0DA9ECF9,Server Outage,Critical,Marketing,39764,6,Supplier Issue,Yes,109.0
+INC0FAE3D11,EVT82F4DA9F,Flood,Critical,Manufacturing,120894,36,Security Breach,Yes,46.0
+INCC1A2AD7A,EVTFFCBA148,Cyber Attack,Critical,Quality,190426,31,Human Error,No,
+INC0F22BBD6,EVT7903C6BE,Cyber Attack,Critical,Finance,150008,37,System Failure,Yes,17.0
+INC91CC5866,EVTD8347D95,Supplier Bankruptcy,Critical,IT,11445,27,System Failure,No,
+INC93DF3377,EVT2E7C37FA,Network Failure,Critical,Finance,43513,5,External Factor,Yes,87.0
+INC3A0E3A85,EVTC2F7650C,Power Failure,Critical,Sales,45642,31,External Factor,Yes,131.0
+INCC5B5DF2D,EVT613F021A,Server Outage,Warning,Logistics,68199,23,Supplier Issue,Yes,127.0
+INC714C1E92,EVTB88569A5,Transportation Delay,Critical,Manufacturing,19587,32,Supplier Issue,Yes,216.0
+INC3FCFD6D2,EVT0DCBC14E,Machine Failure,Warning,IT,20872,30,Environmental Factor,Yes,140.0
+INCE8FA256C,EVT2CEE16A8,Flood,Critical,HR,296428,40,System Failure,Yes,129.0
+INC6C7943F1,EVTF8E49DB8,Power Failure,Normal,IT,51498,40,Environmental Factor,No,
+INC9AE8DB9F,EVT515B64C8,Power Failure,Critical,Procurement,97600,29,Infrastructure Failure,Yes,171.0
+INCD833093E,EVTB45F92F7,Machine Failure,Critical,Finance,31995,60,Supplier Issue,No,
+INC7FD62C3F,EVTAAFD86A3,Factory Fire,Critical,Manufacturing,314002,16,Environmental Factor,Yes,62.0
+INC012CD4FD,EVT3334E996,Factory Fire,Critical,HR,269981,85,Supplier Issue,No,
+INCE3130038,EVT31426E18,Server Outage,Warning,Manufacturing,49388,51,Environmental Factor,Yes,106.0
+INCFE6AB42D,EVT850CBE57,Cyber Attack,Critical,HR,90338,35,Supplier Issue,Yes,66.0
+INCC87D419B,EVTA512AF61,Transportation Delay,Warning,Finance,18681,23,Supplier Issue,Yes,122.0
+INCC1AB0D39,EVT5A6F4DF8,Warehouse Accident,Warning,Logistics,5076,40,Infrastructure Failure,Yes,95.0
+INC7BBB7AC3,EVTDD93395B,Transportation Delay,Normal,IT,7600,26,System Failure,Yes,85.0
+INC742DA1DE,EVT84266F36,Transportation Delay,Normal,Sales,3488,36,Infrastructure Failure,Yes,47.0
+INC987D3F76,EVT0002E837,Server Outage,Warning,Operations,68519,32,Environmental Factor,Yes,58.0
+INC907F434E,EVTA24A15D9,Flood,Critical,IT,237738,48,System Failure,Yes,111.0
+INC09D2E8B8,EVTDC8EFF53,Supplier Bankruptcy,Warning,Operations,12837,56,System Failure,No,
+INC23B397D1,EVT14993C7F,Cyber Attack,Critical,Procurement,91333,5,Infrastructure Failure,No,
+INC2BDFB1F2,EVT757BD0A2,Network Failure,Critical,Logistics,79821,66,Security Breach,Yes,158.0
+INCB43FB7BF,EVT38EC6B8A,Warehouse Accident,Critical,Logistics,3556,5,System Failure,Yes,54.0
+INC5B9684B7,EVTCCBD54D4,Server Outage,Critical,Logistics,64197,27,External Factor,Yes,86.0
+INC4A713225,EVT452B2449,Flood,Critical,Manufacturing,160417,39,Security Breach,Yes,156.0
+INC031D3AB0,EVT9E189864,Power Failure,Critical,Finance,89020,42,System Failure,Yes,180.0
+INCBF2561DC,EVT76A4C971,Factory Fire,Critical,IT,205016,50,System Failure,Yes,116.0
+INCEFDC057A,EVTFDC720F7,Machine Failure,Critical,Sales,45661,21,Infrastructure Failure,No,
+INCD214C1ED,EVT8F67D29A,Factory Fire,Critical,HR,71317,29,Supplier Issue,Yes,96.0
+INC7160C316,EVTBDEA145F,Cyber Attack,Critical,Manufacturing,178929,27,Supplier Issue,Yes,127.0
+INC5EFF394A,EVT1B09AD9E,Flood,Critical,Logistics,153227,28,Supplier Issue,Yes,108.0
+INCF4E24995,EVTC29348AB,Flood,Warning,IT,277545,13,Supplier Issue,Yes,113.0
+INC542C28CC,EVTB42FA2E0,Factory Fire,Critical,HR,348119,38,External Factor,Yes,174.0
+INC7319D56B,EVTB8D2AEB8,Server Outage,Critical,Quality,56212,55,Supplier Issue,Yes,244.0
+INC888E6FEE,EVT20955D6E,Network Failure,Normal,Operations,28734,5,Maintenance Issue,Yes,105.0
+INC2B7F5776,EVT2F53F812,Warehouse Accident,Critical,IT,15466,16,Security Breach,No,
+INC3E205157,EVT776AE709,Transportation Delay,Warning,IT,7071,37,Security Breach,Yes,13.0
+INC6E672F9D,EVTEABAC42E,Supplier Bankruptcy,Critical,Manufacturing,47138,44,External Factor,Yes,62.0
+INC13AA4664,EVT5C2EBCC7,Supplier Bankruptcy,Critical,Logistics,32673,22,Human Error,Yes,82.0
+INC4B0B4DC7,EVTDF9678C1,Warehouse Accident,Critical,HR,12443,44,Supplier Issue,Yes,121.0
+INC7F4D33FC,EVT60E895F3,Machine Failure,Warning,IT,17118,15,Security Breach,Yes,162.0
+INC1BB71007,EVT56E4160B,Cyber Attack,Critical,Manufacturing,186412,22,Security Breach,Yes,96.0
+INCD1F90779,EVT01D0B2CC,Network Failure,Critical,Operations,45371,51,System Failure,No,
+INC670598DF,EVT850B2360,Warehouse Accident,Warning,IT,21313,27,Environmental Factor,Yes,97.0
+INCB2B6029B,EVT2B5FDF1A,Factory Fire,Critical,Quality,206233,44,External Factor,Yes,67.0
+INCD73077ED,EVT47493E3C,Network Failure,Critical,Manufacturing,74521,28,Maintenance Issue,No,
+INC6157E93F,EVT42C22E20,Flood,Critical,Manufacturing,138912,37,Maintenance Issue,Yes,169.0
+INCD5D39793,EVT50F44C6A,Power Failure,Warning,Quality,55015,44,Human Error,Yes,125.0
+INC38C97D42,EVT5AD6CEAA,Supplier Bankruptcy,Critical,Sales,25659,31,Supplier Issue,Yes,103.0
+INC1BF81968,EVTC0802C51,Warehouse Accident,Critical,Finance,13542,65,External Factor,Yes,138.0
+INC161E65D5,EVT30F627FA,Supplier Bankruptcy,Critical,Marketing,23855,23,Infrastructure Failure,Yes,143.0
+INC510871A8,EVT191B2189,Network Failure,Critical,HR,49186,32,System Failure,Yes,196.0
+INCBC871EE2,EVTC130CEAA,Supplier Bankruptcy,Critical,Procurement,43722,5,Maintenance Issue,Yes,61.0
+INCCFDF8587,EVT955D4F12,Warehouse Accident,Critical,Manufacturing,14217,36,Security Breach,Yes,115.0
+INC48B29530,EVTDE2073F5,Flood,Critical,Quality,111163,31,Human Error,No,
+INCF2B32558,EVTD181A2BF,Warehouse Accident,Critical,Marketing,24710,29,Infrastructure Failure,Yes,251.0
+INC7361A2A6,EVT643E6994,Machine Failure,Normal,Procurement,41212,45,Environmental Factor,Yes,158.0
+INC94780E41,EVT87D6F47B,Network Failure,Warning,Operations,39434,18,Maintenance Issue,Yes,77.0
+INC66A2274F,EVTEC3D39F0,Transportation Delay,Warning,Quality,7459,40,Environmental Factor,Yes,126.0
+INC94970E3D,EVT4952B9F8,Supplier Bankruptcy,Warning,Marketing,23026,57,Infrastructure Failure,Yes,37.0
+INCB43D6127,EVT8AD67168,Flood,Critical,IT,39903,67,System Failure,Yes,142.0
+INCA97C8B27,EVTCC636D73,Transportation Delay,Warning,Manufacturing,11953,39,Environmental Factor,Yes,128.0
+INCFC84A667,EVTB6473D9C,Power Failure,Warning,Marketing,40187,47,Environmental Factor,Yes,177.0
+INC1328856E,EVT63C5A5AF,Transportation Delay,Critical,Marketing,1878,61,Security Breach,No,
+INC2183F24E,EVT22706999,Server Outage,Critical,Procurement,51969,36,Maintenance Issue,Yes,83.0
+INC415074AB,EVTB479C30E,Cyber Attack,Critical,Quality,149390,32,Maintenance Issue,Yes,163.0
+INCA0CE3563,EVT39E9013C,Supplier Bankruptcy,Critical,Procurement,18288,5,Infrastructure Failure,Yes,125.0
+INC5F1B1AEE,EVTA20B7FF4,Flood,Critical,Manufacturing,220391,18,Infrastructure Failure,No,
+INC299798BC,EVTC37A29AB,Power Failure,Warning,Procurement,86822,78,Human Error,Yes,63.0
+INC6771F770,EVT5795A0EA,Power Failure,Critical,Operations,26952,47,Supplier Issue,Yes,174.0
+INC413E392E,EVT637044FE,Power Failure,Critical,IT,24455,7,Supplier Issue,Yes,98.0
+INC3CB970C3,EVTAF539039,Supplier Bankruptcy,Warning,Manufacturing,48694,6,Security Breach,Yes,143.0
+INC122165B0,EVTCF5AB24E,Network Failure,Warning,Procurement,75203,34,External Factor,Yes,98.0
+INC974075E6,EVT55723880,Factory Fire,Critical,IT,457760,24,Maintenance Issue,No,
+INC6E82475E,EVT66F85E03,Cyber Attack,Critical,HR,124874,35,Infrastructure Failure,Yes,115.0
+INC4846AA61,EVT50435894,Flood,Critical,Marketing,173154,41,External Factor,Yes,87.0
+INC1B3F84D8,EVTA5713290,Transportation Delay,Critical,Sales,10069,18,Human Error,Yes,90.0
+INC63DF32B0,EVT7DA17571,Factory Fire,Critical,HR,256601,43,Maintenance Issue,Yes,75.0
+INC952D77F6,EVT63553B7F,Cyber Attack,Critical,Quality,140260,21,Human Error,Yes,174.0
+INCFACAB97D,EVTA7BCA089,Network Failure,Critical,HR,73861,52,Supplier Issue,No,
+INC87E15C41,EVT26E0B470,Flood,Warning,Marketing,231911,22,Supplier Issue,Yes,236.0
+INCC5557CF9,EVTC9E1CC43,Flood,Critical,Quality,221119,44,Security Breach,Yes,122.0
+INCE343C04E,EVT143E32B3,Transportation Delay,Normal,HR,14610,71,Infrastructure Failure,Yes,81.0
+INCF77C16D8,EVT0BA6A035,Network Failure,Warning,Logistics,24725,31,System Failure,Yes,54.0
+INCE6896CE1,EVT628A88C1,Network Failure,Critical,Finance,54116,49,System Failure,No,
+INC15A304FE,EVT898FFC80,Supplier Bankruptcy,Critical,Procurement,35488,16,Maintenance Issue,Yes,97.0
+INC1BB36CF4,EVT33BA4ABA,Cyber Attack,Critical,HR,57771,69,Environmental Factor,Yes,216.0
+INC11DCAA8B,EVT577F987D,Server Outage,Critical,Marketing,27826,20,System Failure,Yes,77.0
+INC9F15D9A2,EVTC2BB7F15,Factory Fire,Critical,HR,62482,15,Environmental Factor,Yes,200.0
+INCDAC80A60,EVTB4DFFAC2,Supplier Bankruptcy,Critical,Marketing,47881,29,Infrastructure Failure,Yes,189.0
+INCCB1DEB26,EVTEA1E9248,Machine Failure,Normal,Finance,16465,30,System Failure,Yes,149.0
+INC6D4D4546,EVT9ED5AD7A,Machine Failure,Critical,Manufacturing,15074,48,Maintenance Issue,Yes,122.0
+INCE4FAA706,EVT3E3DCB70,Power Failure,Critical,Marketing,70917,13,Supplier Issue,Yes,86.0
+INC14E6395F,EVTA2CF43E9,Transportation Delay,Warning,Marketing,4746,30,External Factor,No,
+INCBA1FCA85,EVT950A68F8,Transportation Delay,Warning,HR,9777,12,Security Breach,No,
+INCB61F6F8D,EVTD470F2F2,Factory Fire,Critical,Logistics,177565,27,Infrastructure Failure,Yes,102.0
+INCDA4E4390,EVTD8D3547C,Machine Failure,Warning,IT,40258,13,Supplier Issue,Yes,178.0
+INCEC50EFB2,EVT3DDB12A2,Supplier Bankruptcy,Normal,IT,17441,13,System Failure,Yes,78.0
+INC1FCB6191,EVT88807FEA,Warehouse Accident,Warning,Procurement,6177,51,Human Error,Yes,110.0
+INC1FBD6F7C,EVT425BF9B0,Network Failure,Critical,Operations,37171,15,Environmental Factor,Yes,202.0
+INCEE711A63,EVT9C824D50,Flood,Warning,Procurement,261267,46,Infrastructure Failure,Yes,89.0
+INC57300EA6,EVT12E35533,Network Failure,Warning,IT,7256,5,External Factor,Yes,175.0
+INCBE04F6DD,EVT15918E3F,Server Outage,Critical,Finance,90206,16,Environmental Factor,Yes,100.0
+INC81B1BEB4,EVT5E6D1426,Server Outage,Critical,Quality,47668,45,External Factor,No,
+INCC9D7FF34,EVT2033CE52,Transportation Delay,Normal,Manufacturing,7177,52,External Factor,Yes,247.0
+INC7B009462,EVT439C07AC,Warehouse Accident,Critical,HR,8507,20,External Factor,Yes,118.0
+INC1C055F5C,EVTDC04D32F,Transportation Delay,Normal,IT,7772,5,Environmental Factor,Yes,156.0
+INC6ED0B3F3,EVTBFD0D56E,Server Outage,Critical,Quality,95639,5,Maintenance Issue,No,
+INC60CFFE9D,EVT86B46041,Flood,Critical,Manufacturing,283374,7,Environmental Factor,No,
+INC725AB9E0,EVTAF7862DB,Transportation Delay,Normal,HR,2659,17,Infrastructure Failure,No,
+INC83C225B0,EVT0D6560F9,Server Outage,Critical,Marketing,58647,51,Security Breach,Yes,31.0
+INC2DD1030B,EVT3AE94DFB,Flood,Critical,HR,42886,55,External Factor,No,
+INC8BB49F79,EVT14955998,Factory Fire,Critical,Manufacturing,240910,5,Supplier Issue,Yes,114.0
+INC5F698447,EVT2C7EBEED,Factory Fire,Critical,Manufacturing,254943,58,Environmental Factor,Yes,244.0
+INC85195CC5,EVT0FA06C55,Flood,Critical,Procurement,273447,29,Human Error,Yes,46.0
+INCA5890F77,EVT13BC2A01,Server Outage,Warning,HR,82458,55,Infrastructure Failure,Yes,73.0
+INC3C1B029D,EVT3913CB2E,Cyber Attack,Critical,Finance,106010,49,System Failure,No,
+INCE669F0F7,EVT8BF8B6B7,Factory Fire,Warning,Procurement,464805,58,Maintenance Issue,Yes,239.0
+INCB401DBDA,EVT7C82362E,Supplier Bankruptcy,Critical,Operations,36619,12,Maintenance Issue,Yes,213.0
+INC6581E757,EVT751073A6,Supplier Bankruptcy,Critical,Manufacturing,34652,36,Security Breach,Yes,107.0
+INC7B49330C,EVT9B9EEAA7,Transportation Delay,Warning,Finance,16800,38,Infrastructure Failure,No,
+INCA3650FC9,EVT2052324C,Warehouse Accident,Critical,Sales,23635,11,Security Breach,Yes,170.0
+INCFCA35A03,EVT4FDD320F,Network Failure,Warning,Operations,45288,38,Human Error,No,
+INC1E24AA84,EVTD4398ABA,Transportation Delay,Critical,Logistics,18259,11,Environmental Factor,Yes,113.0
+INC207C25C9,EVTF95AC814,Flood,Critical,Finance,58251,40,Human Error,Yes,158.0
+INCD7E3C8DD,EVTA09A2579,Warehouse Accident,Critical,HR,5407,58,System Failure,Yes,143.0
+INC3D26C653,EVT691D1D1B,Flood,Warning,Marketing,219170,10,Infrastructure Failure,No,
+INCC45C5217,EVT9E071210,Cyber Attack,Critical,Logistics,36307,5,Security Breach,Yes,109.0
+INC4EFB9E34,EVT5E7A5A69,Power Failure,Normal,Quality,31682,40,External Factor,Yes,127.0
+INC429D7D1E,EVTBAF59B71,Cyber Attack,Critical,Logistics,149412,19,External Factor,No,
+INCC6F0F548,EVT4C84FCF1,Machine Failure,Warning,Sales,16603,13,Supplier Issue,Yes,101.0
+INCD7F360D5,EVT50061939,Warehouse Accident,Warning,Manufacturing,22224,29,Maintenance Issue,Yes,70.0
+INCA7FD58C7,EVT503DA9F7,Flood,Warning,IT,79630,20,External Factor,Yes,52.0
+INCF509117B,EVTDC2CBB79,Warehouse Accident,Warning,Marketing,27669,40,Infrastructure Failure,Yes,217.0
+INC711EF596,EVT41AF95A7,Machine Failure,Critical,Marketing,36441,29,System Failure,No,
+INCC1EB3FE4,EVT30275BC5,Transportation Delay,Critical,HR,1479,5,Maintenance Issue,Yes,128.0
+INCBB42D85D,EVT78292B14,Warehouse Accident,Critical,Procurement,15448,49,Maintenance Issue,Yes,187.0
+INC30CC96DA,EVT8F04684E,Cyber Attack,Critical,Sales,23294,23,External Factor,Yes,127.0
+INCB7EC38B2,EVTE9320D0D,Power Failure,Critical,HR,58915,16,Supplier Issue,Yes,108.0
+INC15546FC3,EVT14260879,Warehouse Accident,Warning,Sales,28341,27,Maintenance Issue,Yes,72.0
+INCA569D910,EVTB5AAA267,Supplier Bankruptcy,Critical,Operations,5870,47,Infrastructure Failure,Yes,180.0
+INCABA24538,EVTFD8F54F9,Warehouse Accident,Critical,IT,23211,32,External Factor,Yes,169.0
+INCB70E820F,EVT20558635,Server Outage,Warning,IT,65264,46,System Failure,Yes,56.0
+INC94211254,EVT9E1D550D,Machine Failure,Warning,Marketing,7697,40,Environmental Factor,Yes,155.0
+INC3F7CC56F,EVT2034DD6C,Transportation Delay,Warning,HR,6162,5,Security Breach,Yes,155.0
+INC40679709,EVTA3E4625D,Flood,Critical,Procurement,43807,23,Supplier Issue,Yes,187.0
+INCE9D0DF27,EVTDEDFC0DD,Machine Failure,Critical,Operations,38390,36,System Failure,Yes,52.0
+INC28108725,EVTB2DA4568,Network Failure,Warning,IT,68811,31,System Failure,Yes,148.0
+INC034FF23A,EVT50F8E447,Cyber Attack,Critical,Marketing,181053,24,Supplier Issue,No,
+INC6F11D8CA,EVTC8455809,Factory Fire,Critical,Procurement,413150,22,Human Error,Yes,10.0
+INC9F524994,EVT625E650E,Supplier Bankruptcy,Critical,Logistics,13802,31,System Failure,Yes,118.0
+INC099C4D76,EVT00F1C688,Transportation Delay,Critical,Quality,6949,36,Maintenance Issue,Yes,99.0
+INC7E459D90,EVTA7F17403,Server Outage,Critical,Operations,47085,31,External Factor,No,
+INC726FB17F,EVT4FBD1A00,Transportation Delay,Critical,Sales,10746,21,Environmental Factor,No,
+INC2E9A6210,EVT3791D67F,Server Outage,Critical,IT,71699,23,System Failure,Yes,127.0
+INC6CC181DE,EVTB8D62FA4,Supplier Bankruptcy,Critical,Quality,23355,22,External Factor,Yes,190.0
+INC6926668F,EVTA7999D97,Warehouse Accident,Critical,Finance,22725,50,Human Error,No,
+INCF4F06707,EVT2E011651,Server Outage,Critical,Manufacturing,92240,50,Infrastructure Failure,Yes,58.0
+INCCDBC930C,EVT35B051A4,Power Failure,Normal,Procurement,34775,16,External Factor,Yes,154.0
+INC84C38339,EVT908B961A,Flood,Critical,Quality,59597,52,External Factor,No,
+INC63BBB0DE,EVTE6A1D9ED,Network Failure,Critical,Marketing,15380,20,Infrastructure Failure,No,
+INC9F805830,EVT0974BA8D,Warehouse Accident,Normal,HR,21564,36,Maintenance Issue,Yes,146.0
+INCF62CD472,EVT31732837,Supplier Bankruptcy,Critical,Sales,7936,28,System Failure,Yes,156.0
+INC118F3B71,EVTD470F2F2,Cyber Attack,Critical,Finance,85424,28,Supplier Issue,Yes,162.0
+INC161FD541,EVT43760C7C,Transportation Delay,Normal,Sales,18583,31,Supplier Issue,Yes,96.0
+INC4A7BB513,EVTE188EA69,Network Failure,Critical,Operations,12607,43,Maintenance Issue,Yes,120.0
+INCAE8D7748,EVTF14A4956,Cyber Attack,Critical,Operations,158794,51,Maintenance Issue,No,
+INC9E759BB6,EVT2026160F,Server Outage,Warning,HR,85519,34,System Failure,No,
+INCEFDF8CD5,EVT7816697A,Supplier Bankruptcy,Warning,Manufacturing,26273,27,Infrastructure Failure,Yes,144.0
+INC1EA64969,EVTE79FAE0A,Transportation Delay,Critical,Logistics,3803,8,System Failure,No,
+INC7A328B00,EVT295BA373,Server Outage,Critical,HR,31667,26,Infrastructure Failure,Yes,133.0
+INCB23CB95B,EVT0512C819,Warehouse Accident,Warning,HR,19213,35,Environmental Factor,Yes,75.0
+INC6AD37840,EVT2E7C37FA,Cyber Attack,Critical,Marketing,199445,55,Security Breach,Yes,70.0
+INC3020966C,EVTF89471F7,Flood,Critical,Quality,226348,47,Environmental Factor,Yes,204.0
+INC479B1250,EVTF679AC97,Factory Fire,Critical,Sales,97169,76,Environmental Factor,No,
+INCDD95D6AC,EVTBB0C1A1B,Network Failure,Critical,Marketing,53670,33,System Failure,No,
+INC65BA526C,EVT4C09A1CA,Power Failure,Warning,Logistics,77952,25,Security Breach,Yes,110.0
+INC3C4F18F8,EVT606D1405,Power Failure,Critical,Sales,80975,48,Maintenance Issue,Yes,86.0
+INC748C100C,EVTF1C30382,Supplier Bankruptcy,Normal,Logistics,24973,15,Maintenance Issue,Yes,37.0
+INC108A734F,EVT3EEA3E2E,Network Failure,Warning,Procurement,77975,38,Infrastructure Failure,Yes,153.0
+INC9EB3EC12,EVT26AA478F,Cyber Attack,Critical,IT,91896,30,External Factor,Yes,101.0
+INC372BF359,EVT5A82D6B6,Supplier Bankruptcy,Normal,Operations,26325,19,System Failure,Yes,97.0
+INCE7281464,EVT8DF2A4F0,Warehouse Accident,Warning,Quality,23609,24,External Factor,No,
+INC3DED2371,EVT9A214F76,Supplier Bankruptcy,Normal,Operations,36908,20,System Failure,Yes,56.0
+INCC0CAD96C,EVT28BB3790,Server Outage,Critical,Procurement,30766,38,Supplier Issue,Yes,72.0
+INC7259EF23,EVTE2D011D2,Supplier Bankruptcy,Critical,HR,30602,36,Security Breach,No,
+INCA2AF3757,EVTA376C5B8,Supplier Bankruptcy,Critical,Logistics,5030,30,Supplier Issue,Yes,21.0
+INCB84D219E,EVT9254CEC1,Server Outage,Critical,Operations,81993,70,Human Error,Yes,95.0
+INCAF3E712F,EVTE9518EFE,Power Failure,Critical,IT,28412,22,Maintenance Issue,Yes,116.0
+INC4CF855E4,EVT1A2D4B4C,Factory Fire,Critical,Operations,164951,6,Supplier Issue,No,
+INC5A9260C7,EVT314372E7,Power Failure,Critical,Manufacturing,25162,33,External Factor,Yes,133.0
+INC0FC0799A,EVT6E1C79DF,Transportation Delay,Warning,Logistics,15387,5,Supplier Issue,Yes,74.0
+INCE103ABDC,EVT1D8935B8,Supplier Bankruptcy,Critical,Quality,17215,39,External Factor,Yes,92.0
+INCEC236EB2,EVT01330DB7,Supplier Bankruptcy,Warning,Sales,45100,14,Security Breach,Yes,89.0
+INCCF0F66C7,EVTFD99F8F7,Factory Fire,Critical,Finance,228572,55,Human Error,No,
+INC2D46D225,EVT57474545,Flood,Critical,Finance,194585,29,Human Error,Yes,139.0
+INC87BC8ACA,EVTFB273E18,Flood,Critical,HR,185887,5,Environmental Factor,No,
+INCA1C27E3A,EVTCAC856F2,Flood,Warning,Logistics,111157,49,Human Error,Yes,82.0
+INCAA35E18D,EVT1DBC3D06,Cyber Attack,Critical,Marketing,95559,67,Maintenance Issue,Yes,139.0
+INC56F24EF5,EVTE2552CF1,Server Outage,Critical,Sales,49170,40,Infrastructure Failure,No,
+INC7C2F7B2C,EVTAC434D26,Machine Failure,Warning,Logistics,7130,43,System Failure,Yes,10.0
+INC9F523F32,EVTF1E6C566,Flood,Critical,IT,152912,12,Security Breach,Yes,182.0
+INC731CB8CF,EVT40CEA921,Network Failure,Warning,Finance,23192,7,Security Breach,Yes,161.0
+INC7469EEB5,EVT9339612E,Factory Fire,Critical,Logistics,62508,76,System Failure,Yes,101.0
+INC81EE7DEC,EVT15745162,Factory Fire,Critical,Sales,470426,41,Security Breach,Yes,160.0
+INC292FFA6D,EVT27F014FC,Supplier Bankruptcy,Critical,Quality,6906,78,Security Breach,Yes,10.0
+INC4AFC0BA1,EVT4F9A1B16,Factory Fire,Critical,Logistics,471217,34,Maintenance Issue,Yes,254.0
+INC6C92D42A,EVT135D29C2,Factory Fire,Critical,Logistics,147016,56,External Factor,No,
+INC89E6A707,EVT963DA82D,Supplier Bankruptcy,Critical,Procurement,16348,6,System Failure,Yes,235.0
+INC88CAF215,EVTA32C8F80,Flood,Critical,Manufacturing,222313,21,Supplier Issue,Yes,121.0
+INC86774E2B,EVT5B9AC078,Warehouse Accident,Critical,Manufacturing,15486,83,Human Error,No,
+INC7F86678F,EVTE90C1023,Transportation Delay,Warning,Marketing,7949,43,Security Breach,Yes,150.0
+INCE006DC60,EVT724E45F8,Supplier Bankruptcy,Critical,Procurement,10169,23,Supplier Issue,Yes,103.0
+INCAE5ACFB8,EVTCADE4CB9,Factory Fire,Critical,Procurement,476226,41,Human Error,No,
+INC3C9F07ED,EVT1C02614A,Cyber Attack,Critical,Quality,136892,15,System Failure,Yes,100.0
+INC0A08B08A,EVT31A2B47B,Network Failure,Critical,Quality,75524,30,Human Error,No,
+INC298A5902,EVTDB5F8199,Network Failure,Warning,Logistics,74031,5,External Factor,Yes,75.0
+INC1AC91437,EVTAB8FFAF4,Warehouse Accident,Normal,Quality,22540,5,Maintenance Issue,No,
+INC9741B260,EVTA2FC3C64,Factory Fire,Critical,HR,70124,36,Infrastructure Failure,Yes,145.0
+INCFC89EAF1,EVTE1E84363,Machine Failure,Warning,Finance,25917,11,Environmental Factor,Yes,174.0
+INC1D0E07BE,EVT57AC86EE,Cyber Attack,Warning,Sales,52971,20,Infrastructure Failure,Yes,133.0
+INCCE2A5406,EVT38143942,Machine Failure,Critical,Finance,13488,36,External Factor,Yes,41.0
+INC9270CD75,EVTF252DD8F,Machine Failure,Warning,Finance,49378,22,Infrastructure Failure,Yes,208.0
+INCF7BD878F,EVTB0EC9290,Supplier Bankruptcy,Warning,Sales,16285,20,Human Error,Yes,136.0
+INC83A2B5E4,EVT56861793,Flood,Critical,HR,143061,28,Security Breach,Yes,94.0
+INC966DE527,EVT7F57BE9A,Machine Failure,Warning,HR,43317,43,Human Error,Yes,101.0
+INCD5ACB4B6,EVTC0B2AA7B,Server Outage,Critical,Marketing,56588,33,Supplier Issue,Yes,106.0
+INC2478FDB2,EVT324F5056,Supplier Bankruptcy,Warning,Manufacturing,48578,74,Supplier Issue,Yes,34.0
+INC285F65F1,EVT8AFEB59D,Machine Failure,Warning,Logistics,49489,45,Human Error,Yes,178.0
+INC80017B8A,EVT2C7EBEED,Network Failure,Critical,Finance,61879,48,External Factor,Yes,244.0
+INCC8213526,EVT7E541AA8,Factory Fire,Critical,Logistics,76195,15,Infrastructure Failure,Yes,103.0
+INCD33579C2,EVTB67C15DA,Server Outage,Critical,Quality,97206,28,Human Error,Yes,18.0
+INCBD2B0B41,EVTB728176A,Supplier Bankruptcy,Warning,Quality,13670,87,System Failure,No,
+INCF1FF71FB,EVT60F2E504,Factory Fire,Critical,Finance,138243,49,External Factor,No,
+INC42381D07,EVTF91FCD30,Machine Failure,Warning,Quality,5014,30,Environmental Factor,Yes,177.0
+INCC9217B4E,EVTEFEFC0BB,Network Failure,Critical,Manufacturing,22340,14,Environmental Factor,Yes,62.0
+INC35ED960B,EVT769FF81C,Supplier Bankruptcy,Critical,Sales,12406,5,Supplier Issue,Yes,100.0
+INCC86653A5,EVT643C7BBA,Power Failure,Normal,IT,17482,19,Human Error,Yes,157.0
+INCD66F1FA3,EVT0432207D,Transportation Delay,Warning,Logistics,5623,26,External Factor,Yes,175.0
+INCF5C68CCE,EVT22162AA4,Factory Fire,Critical,HR,62606,21,Infrastructure Failure,Yes,91.0
+INCFA78F801,EVTEEB9825F,Machine Failure,Warning,Manufacturing,46895,22,Security Breach,Yes,156.0
+INC029FD88C,EVTE8A25F57,Transportation Delay,Normal,HR,14281,8,Environmental Factor,Yes,119.0
+INCA8E70E5B,EVTDF64936F,Cyber Attack,Critical,Logistics,89086,17,Security Breach,No,
+INC50977B5C,EVT53B155F7,Power Failure,Critical,HR,76169,33,Infrastructure Failure,Yes,112.0
+INC0DA06D79,EVTCBF94456,Cyber Attack,Critical,IT,126077,36,Infrastructure Failure,Yes,146.0
+INC3D4BBABA,EVT2052324C,Server Outage,Critical,Procurement,40289,5,Environmental Factor,Yes,193.0
+INCBEF932E8,EVT9ED41F82,Network Failure,Critical,IT,31064,27,Human Error,No,
+INC23479A1F,EVTACD1B008,Network Failure,Critical,Operations,40096,41,External Factor,Yes,94.0
+INC11826561,EVTDE627913,Server Outage,Critical,Sales,88691,23,Human Error,Yes,122.0
+INCA2A8F5B2,EVT94C5FEC1,Power Failure,Critical,Quality,55975,31,Supplier Issue,Yes,264.0
+INC95E61C53,EVTE2CAD671,Cyber Attack,Critical,Finance,192739,26,Supplier Issue,Yes,128.0
+INCBD5F6434,EVTA1539BCD,Cyber Attack,Critical,HR,138046,32,Environmental Factor,Yes,151.0
+INCA481BFDA,EVT4952B9F8,Supplier Bankruptcy,Critical,Quality,30095,5,Human Error,No,
+INCDECC04A8,EVT55B33264,Transportation Delay,Critical,Finance,19096,31,Security Breach,No,
+INC29041F54,EVT86F841C7,Warehouse Accident,Critical,Manufacturing,18276,42,Maintenance Issue,Yes,201.0
+INC212B4DE0,EVTB479C30E,Transportation Delay,Critical,Procurement,16157,70,Maintenance Issue,Yes,155.0
+INC83260A5E,EVT9482CB9F,Factory Fire,Critical,Quality,180822,19,Human Error,Yes,135.0
+INC0DEB0D57,EVT6EE180FE,Supplier Bankruptcy,Critical,Quality,21580,26,Supplier Issue,Yes,86.0
+INCE631D4AD,EVT4DD5DBD7,Server Outage,Critical,Operations,78333,29,Human Error,No,
+INCB0686C51,EVTE7C6B313,Machine Failure,Critical,Procurement,13749,37,External Factor,Yes,82.0
+INCAD130AC8,EVT95CF3A93,Cyber Attack,Critical,HR,180134,53,Human Error,Yes,172.0
+INC9B7B76C6,EVT18E10A22,Flood,Normal,IT,214904,8,Environmental Factor,Yes,157.0
+INC47604447,EVT62B23C92,Flood,Critical,Operations,209250,41,Human Error,Yes,250.0
+INC33F6FBBC,EVTD646CB5B,Cyber Attack,Critical,Marketing,87605,26,External Factor,No,
+INC7928F5DF,EVT9D249883,Power Failure,Warning,IT,96218,45,External Factor,Yes,26.0
+INCCC8BC364,EVT51EEAB26,Transportation Delay,Normal,HR,4308,29,System Failure,Yes,113.0
+INCD1B08AFE,EVTB42FA2E0,Factory Fire,Critical,Operations,350020,28,Security Breach,Yes,176.0
+INC9960B3BB,EVT3B953C2B,Network Failure,Critical,Operations,49329,17,Human Error,Yes,120.0
+INC34642C89,EVTAD5240D9,Cyber Attack,Warning,Sales,131556,36,Human Error,No,
+INCEBF44FE0,EVT96C0BF56,Network Failure,Critical,Marketing,14616,19,Infrastructure Failure,Yes,64.0
+INCC519F43A,EVT1EF58869,Network Failure,Warning,Quality,60136,43,Infrastructure Failure,Yes,90.0
+INC3EF13D2B,EVTB364337E,Server Outage,Critical,HR,67105,58,Human Error,Yes,148.0
+INCF04E643E,EVT564F1A5C,Transportation Delay,Warning,Marketing,3735,27,Security Breach,Yes,119.0
+INCB05237B6,EVTE9FCC71D,Transportation Delay,Critical,Finance,16234,34,Human Error,Yes,131.0
+INCAFC70EA8,EVTB7E5781A,Warehouse Accident,Critical,HR,20413,25,External Factor,Yes,105.0
+INCE043FB65,EVT27AF21B7,Supplier Bankruptcy,Warning,HR,11752,5,Security Breach,Yes,58.0
+INC959A328C,EVT98646397,Cyber Attack,Critical,Logistics,141886,44,Supplier Issue,No,
+INC46566D42,EVT029472B4,Factory Fire,Normal,IT,488650,5,Maintenance Issue,Yes,112.0
+INCB74910D2,EVT5204EA6A,Warehouse Accident,Warning,Manufacturing,13179,18,Security Breach,Yes,42.0
+INC20210B5C,EVT25026353,Flood,Critical,Procurement,265999,27,System Failure,No,
+INC3D86EDF7,EVT60698363,Machine Failure,Warning,Sales,20106,20,Maintenance Issue,Yes,222.0
+INC76D97B1C,EVT6A5B5955,Cyber Attack,Critical,HR,26138,34,Security Breach,No,
+INC4A40914D,EVTA409546F,Network Failure,Critical,Procurement,60640,18,Supplier Issue,Yes,89.0
+INC094CA32F,EVT7EB28AC9,Supplier Bankruptcy,Warning,HR,41171,56,Maintenance Issue,Yes,101.0
+INC0E65AC69,EVTB9088749,Cyber Attack,Critical,HR,160994,59,Maintenance Issue,Yes,217.0
+INCAD7AA0E7,EVTD58A1929,Network Failure,Critical,Logistics,28858,49,External Factor,Yes,177.0

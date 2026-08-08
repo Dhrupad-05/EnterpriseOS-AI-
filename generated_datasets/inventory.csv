@@ -1,0 +1,1001 @@
+asset_id,asset_name,category,warehouse,quantity,reorder_level,unit_price,supplier_id,last_updated,status
+ASTCB8F094A,real of,Infrastructure,San Jose,96,21,849.84,VNDF9F92F21,2025-06-17,Active
+AST3A5B4405,night star,Machinery,San Jose,145,15,421.43,VND2D25DD42,2024-09-29,Active
+AST2EBBD379,machine recent,Machinery,Houston,103,11,421.88,VND11B92497,2024-08-11,Active
+ASTB5ABAE81,much particularly,Computers,Dallas,1,1,329.63,VND62396BAB,2026-03-26,Active
+ASTC5A0CBA7,their more,Furniture,Dallas,105,26,265.18,VND154E8965,2024-09-30,Active
+AST75E1CBCA,man activity,Machinery,Philadelphia,130,28,280.64,VND489E103A,2026-07-21,Active
+AST41C5842E,value music,Vehicles,San Diego,79,23,616.08,VND1FA33A03,2025-01-05,Active
+AST85E756E2,half success,Tools,Phoenix,113,11,491.85,VND1A32B030,2026-04-26,Active
+AST1B77868E,clearly ok,Infrastructure,Jacksonville,40,11,38.9,VNDE05F71D7,2024-01-17,Discontinued
+AST0A73AC4A,try west,Machinery,San Antonio,14,1,350.55,VND62396BAB,2026-05-26,Active
+AST0EABA2E2,same sort,Tools,Jacksonville,40,11,272.89,VND397FE668,2025-07-17,Active
+ASTE3921759,power indeed,Furniture,San Jose,46,8,991.45,VND650A3AAA,2025-05-14,Active
+AST2D8DB58D,employee maybe,Computers,Los Angeles,185,19,677.26,VND63A70F54,2024-01-20,Active
+ASTC00C93FD,follow interesting,Infrastructure,San Antonio,117,22,451.3,VND1FA33A03,2026-03-01,Active
+AST394A3F72,finally capital,Machinery,San Antonio,31,7,415.54,VNDA0E8AF6C,2024-01-30,Active
+AST5A0A9797,suffer huge,Furniture,San Antonio,124,15,442.06,VNDF10E17A7,2024-05-17,Active
+ASTFE0F3987,piece beat,Tools,Jacksonville,130,23,803.28,VND88584A44,2024-05-18,Active
+ASTC564AF6D,inside community,Furniture,Chicago,137,24,118.13,VND76F0F0E0,2026-04-03,Active
+ASTCC322FBF,friend fight,Tools,Philadelphia,164,32,390.68,VND275CA511,2025-05-13,Active
+AST19E26E29,hotel worker,Tools,New York,64,18,82.93,VNDB732CC31,2024-10-07,Active
+AST1B4A6567,should exactly,Machinery,Jacksonville,96,16,554.7,VND6121FB48,2024-02-09,Active
+AST099FFCEF,enjoy individual,Computers,San Jose,63,18,455.68,VND9E3DBA67,2026-04-12,Active
+ASTCDE9E037,pull add,Furniture,Dallas,97,11,188.75,VNDA9CEA40D,2024-02-11,Low Stock
+AST5A29B0C5,indeed number,Vehicles,Austin,123,24,76.81,VND88584A44,2024-07-19,Active
+AST0C600E21,employee model,Computers,Jacksonville,134,33,218.3,VND1FA33A03,2026-03-03,Active
+AST0CFD8A4B,build so,Infrastructure,Dallas,161,29,471.48,VND489E103A,2024-03-11,Active
+AST6B3DEB32,scientist poor,Tools,Philadelphia,208,25,593.65,VND07F575C8,2024-08-29,Active
+AST775C33A1,name record,Furniture,Chicago,60,17,226.06,VND3AF51314,2024-03-08,Active
+AST32FEDFD1,dinner word,Vehicles,Austin,7,1,892.73,VNDE3830203,2025-12-09,Low Stock
+ASTD28DEB01,thought seek,Infrastructure,Austin,208,21,872.6,VND1A32B030,2026-01-19,Active
+AST57BDC16B,listen have,Infrastructure,Chicago,37,11,87.38,VND40A7069F,2026-06-01,Active
+ASTB9AA268B,his cultural,Furniture,Phoenix,1,1,827.41,VND79774EB1,2025-08-19,Active
+AST06388CEB,animal work,Tools,Austin,129,21,647.92,VNDD6FBFD33,2024-05-13,Active
+ASTF3ACBBE3,job opportunity,Tools,Phoenix,152,31,699.27,VNDC995E3B7,2026-07-31,Active
+ASTF8B8E824,executive day,Vehicles,San Antonio,39,4,963.3,VND19CF5E06,2025-06-24,Active
+ASTBA5F5235,item from,Computers,New York,124,17,878.34,VND65B60718,2025-08-21,Active
+AST8F14DD74,black image,Tools,Jacksonville,46,12,424.08,VNDB520DAB7,2026-05-05,Active
+ASTE0AFB8D8,party book,Furniture,New York,78,10,575.04,VNDC4060F12,2026-04-13,Active
+AST04A77BF9,teach activity,Machinery,San Diego,127,13,778.44,VND557FD788,2025-07-07,Discontinued
+ASTD3CDFE14,message customer,Vehicles,Philadelphia,152,43,113.64,VNDB520DAB7,2025-08-11,Active
+ASTBFCF394A,might station,Tools,San Jose,89,11,508.55,VND40A7069F,2026-04-30,Active
+ASTEC99FA18,car hotel,Infrastructure,Philadelphia,45,12,356.7,VNDC4092504,2024-02-27,Active
+ASTB87BA761,great watch,Computers,San Antonio,72,20,32.76,VNDF545674F,2026-03-28,Low Stock
+AST5F577379,prove parent,Vehicles,San Diego,129,15,77.99,VNDF7A9FFF9,2024-05-18,Active
+AST589FE468,career coach,Machinery,Jacksonville,50,8,878.85,VNDB520DAB7,2025-11-26,Active
+ASTFD0897E2,customer radio,Vehicles,San Jose,58,10,837.9,VND616471F8,2025-07-06,Active
+AST518BB2AB,party marriage,Furniture,San Jose,85,11,870.21,VND6FADEC72,2025-06-03,Active
+ASTF827EC43,cut have,Furniture,Austin,177,26,935.5,VND589660CD,2026-06-19,Active
+ASTAE6C53DF,body need,Vehicles,San Antonio,136,24,869.83,VND88584A44,2025-10-01,Active
+ASTBCBF81D7,maybe bring,Tools,Philadelphia,155,40,778.2,VND111F855A,2024-04-29,Active
+ASTB592BF8D,be away,Vehicles,Houston,189,50,165.31,VND2FE40F33,2026-05-13,Active
+ASTBAD7AD7D,sea without,Infrastructure,San Diego,128,30,407.63,VNDD39C47AD,2025-01-02,Active
+ASTA0DD8F0C,time team,Machinery,Austin,144,19,52.4,VND49098C56,2024-09-28,Active
+AST99B908CA,join identify,Vehicles,Austin,95,24,81.09,VND66F3A422,2025-01-28,Low Stock
+AST1AF1699F,have voice,Vehicles,Chicago,167,24,482.7,VND10335071,2026-03-27,Active
+ASTA5CEBBED,soldier lead,Furniture,San Jose,72,18,38.14,VND3B5BB0BC,2024-07-14,Active
+AST5E1755D2,now trouble,Machinery,San Jose,113,19,666.03,VND894C6368,2024-02-17,Discontinued
+AST416824B7,money anything,Tools,Chicago,120,14,628.44,VNDE3830203,2025-08-26,Active
+AST337A9714,field all,Machinery,Houston,1,1,687.25,VND4EC61792,2024-04-09,Low Stock
+AST7E97541D,else across,Machinery,New York,82,8,470.55,VND221D1C44,2025-12-05,Active
+ASTF1ECDE05,include somebody,Computers,Dallas,171,41,842.97,VND8539FA55,2025-08-17,Active
+AST5D2DB3B9,must why,Tools,Austin,127,28,919.69,VND1FA33A03,2024-08-19,Active
+AST6E13A369,shake ago,Vehicles,San Antonio,81,14,929.19,VNDE13413E5,2025-09-26,Active
+ASTCB63405B,view fall,Machinery,Houston,135,37,725.26,VND2FE40F33,2024-02-18,Active
+AST6C9D4842,citizen become,Machinery,Dallas,128,30,840.44,VND66028154,2025-05-04,Active
+AST62D344EF,similar up,Machinery,Jacksonville,182,43,830.55,VNDF981F27F,2025-12-27,Active
+AST54DE6BA8,number consumer,Machinery,Phoenix,125,31,531.17,VND3B5BB0BC,2025-02-24,Active
+ASTE2066FEC,travel arrive,Furniture,Philadelphia,74,11,271.63,VND4EA7F305,2026-03-04,Active
+AST68D7F5B0,work full,Vehicles,Dallas,103,11,144.56,VND7B8206C3,2025-02-24,Active
+AST21290D63,major hundred,Furniture,San Diego,117,18,938.39,VNDD95DB1B7,2025-04-30,Active
+AST2D1291F0,alone across,Machinery,Austin,85,25,356.2,VNDC73A3BD4,2025-09-26,Active
+AST0B2291E1,program meet,Furniture,Phoenix,89,22,821.15,VND4F7B00FC,2025-08-04,Active
+ASTE5BFF0C5,place get,Vehicles,Dallas,202,55,555.8,VNDEB6F8ED3,2025-02-26,Low Stock
+ASTE6787936,again another,Furniture,Phoenix,145,38,450.17,VNDF5F231C0,2024-06-12,Active
+ASTAD661B6D,office eye,Computers,Phoenix,129,34,726.6,VND62396BAB,2026-04-13,Active
+ASTC7C8222D,color interest,Infrastructure,San Jose,153,19,42.03,VNDAB26D618,2025-06-17,Active
+ASTCF5E56D3,region join,Machinery,Jacksonville,169,36,202.62,VND4520F17A,2025-03-26,Discontinued
+AST8AE57269,on early,Infrastructure,Houston,212,25,157.06,VND1A32B030,2026-06-26,Active
+ASTEE6A26DA,card each,Tools,Phoenix,90,21,65.54,VNDC939E188,2026-06-16,Active
+AST43E914B0,cause inside,Tools,Austin,124,32,827.45,VND154E8965,2024-09-23,Active
+ASTF9B3EA55,above watch,Machinery,New York,130,20,376.39,VND221D1C44,2024-04-09,Active
+AST586CE387,trial allow,Machinery,Austin,85,23,839.42,VND8E10A670,2025-04-07,Low Stock
+AST0E0CA584,or machine,Furniture,Jacksonville,86,15,864.24,VND6ACF147A,2024-08-16,Active
+ASTCD79CD87,my perform,Tools,San Diego,86,21,468.64,VND22E4CBF8,2024-05-26,Active
+ASTAB986A84,my well,Computers,Los Angeles,47,13,697.95,VNDEA23339B,2025-04-17,Active
+AST7BE8B5FC,attorney ago,Infrastructure,San Jose,143,28,559.04,VNDB1228DD8,2024-03-16,Active
+ASTADEBD54E,sit member,Infrastructure,Dallas,144,15,805.68,VNDCAE263CC,2025-02-18,Active
+AST75FF09CA,fast it,Vehicles,Houston,151,40,297.68,VND1FA33A03,2025-06-29,Active
+AST7D64BEE0,put raise,Infrastructure,San Diego,53,12,371.63,VND0B515B0E,2026-05-22,Active
+ASTDC77EA8D,end treat,Infrastructure,San Jose,117,13,222.94,VND6FADEC72,2024-10-22,Active
+AST5E283505,image teacher,Furniture,Houston,70,12,953.54,VND7A22016F,2024-10-24,Active
+ASTEB17D842,do cold,Furniture,San Antonio,126,35,119.33,VND4AFDF46C,2026-02-02,Active
+AST9B33670F,fill everything,Tools,Jacksonville,64,9,664.89,VND0D050C25,2024-05-28,Active
+AST7256AF09,every positive,Furniture,San Antonio,99,29,13.79,VNDF545674F,2025-06-13,Low Stock
+ASTD887E97F,police since,Tools,New York,60,11,294.9,VNDD6FBFD33,2026-03-06,Active
+AST322C8EB2,place along,Vehicles,Los Angeles,114,23,627.81,VNDBA0CC89B,2025-09-11,Low Stock
+ASTDC98C30A,newspaper western,Computers,San Diego,154,23,90.49,VND4F7B00FC,2025-12-16,Active
+AST98DC0A4D,fall enjoy,Vehicles,Philadelphia,69,7,737.52,VNDB1228DD8,2024-06-15,Active
+AST0E8ADD37,deal throughout,Computers,Chicago,16,4,431.4,VNDF9F92F21,2026-05-21,Active
+AST0576FDF1,future letter,Computers,Chicago,5,1,840.6,VND2258ABB1,2026-05-11,Active
+AST569A59AF,style husband,Tools,San Diego,128,15,843.72,VND5B2EC8F1,2026-01-24,Active
+ASTFD16C7F0,eight red,Machinery,Houston,152,41,801.65,VNDDFDF8860,2026-03-19,Active
+AST12B0996A,chair different,Vehicles,San Diego,149,38,776.81,VND23FDC749,2025-12-22,Active
+ASTE1F81685,able popular,Tools,San Diego,97,21,961.78,VND27CBAF37,2026-03-16,Active
+AST62C73E79,firm sort,Tools,Chicago,122,14,278.13,VND139B2EB5,2025-03-19,Active
+AST94BF1EAE,dark spring,Vehicles,Houston,143,24,498.06,VND07F575C8,2024-02-25,Discontinued
+AST829F4468,behind nature,Computers,Los Angeles,253,32,82.46,VND67D32B2F,2026-01-13,Active
+ASTF0BFCB53,seem just,Machinery,San Jose,3,1,449.72,VNDC73A3BD4,2025-10-28,Active
+AST3610CE6B,inside information,Tools,San Jose,76,14,211.31,VND76F0F0E0,2024-09-15,Active
+AST3CCF528C,church both,Vehicles,Jacksonville,106,16,437.01,VND9E3DBA67,2025-06-16,Active
+ASTFB06C69A,source even,Infrastructure,Los Angeles,59,9,546.47,VNDF78A924D,2026-08-05,Active
+AST25C5B1AE,quickly yard,Vehicles,Houston,99,11,739.01,VND6E96F23C,2025-06-08,Active
+ASTFDF87983,father so,Vehicles,Los Angeles,91,24,837.76,VNDB1228DD8,2025-04-12,Active
+ASTD37A7420,safe fact,Infrastructure,Chicago,168,34,859.75,VNDD6FBFD33,2025-09-14,Low Stock
+AST12FC0157,player those,Infrastructure,Philadelphia,157,40,972.85,VND1DF7F1DC,2024-05-28,Active
+ASTEDC2AE2A,yard born,Tools,Los Angeles,89,12,984.0,VND221D1C44,2025-12-02,Active
+AST481A7F78,successful choice,Furniture,Chicago,89,16,426.37,VND7A22016F,2026-04-18,Active
+AST77E9300C,follow evening,Vehicles,Los Angeles,35,4,731.27,VND44174C92,2025-12-25,Active
+ASTFDD2BFEA,push pick,Vehicles,Austin,124,30,484.42,VND190C8D31,2024-11-18,Active
+AST6B151BF9,however wrong,Vehicles,San Antonio,110,23,564.85,VNDAADD0D4D,2024-08-05,Active
+AST185D0561,close simple,Furniture,Chicago,1,1,756.79,VNDAAF2A28A,2026-04-14,Active
+AST038A97C7,some identify,Machinery,Phoenix,124,31,448.2,VND7B4F5D31,2024-01-29,Active
+AST6F97C1E2,face price,Furniture,New York,85,19,677.18,VND6ACF147A,2024-09-02,Active
+ASTF425BF50,inside cost,Infrastructure,San Diego,122,30,750.42,VND03F2A471,2024-05-25,Active
+ASTCD5FE8B9,good population,Infrastructure,Philadelphia,21,5,526.52,VND417BDCE6,2024-01-29,Active
+AST9A2DFC4E,page walk,Machinery,San Antonio,109,32,237.17,VND03F2A471,2025-12-26,Active
+AST34FEDDC0,issue describe,Tools,Phoenix,114,25,862.12,VNDB8A208B5,2024-05-26,Active
+AST678A5D60,piece local,Machinery,San Jose,21,6,361.17,VND221D1C44,2025-02-24,Active
+AST79545446,she glass,Vehicles,Austin,50,5,558.99,VND2500CE76,2024-02-29,Low Stock
+AST74E51920,lose land,Computers,Austin,25,6,370.81,VND03F2A471,2024-01-02,Active
+AST94E32FF7,continue manage,Machinery,Philadelphia,88,11,234.49,VNDB643A5C9,2024-11-26,Active
+AST78F3F4D3,up officer,Infrastructure,San Antonio,74,11,162.49,VND8CAEB48D,2024-07-08,Discontinued
+ASTE9733EB9,return into,Furniture,New York,60,10,704.29,VND1199176D,2024-07-05,Low Stock
+AST1A34D3A6,game effect,Furniture,San Jose,104,21,951.96,VNDCE923A65,2026-04-13,Discontinued
+ASTE69901F6,lose network,Computers,New York,87,23,63.85,VND6E96F23C,2024-05-27,Active
+ASTB7976E2F,threat think,Furniture,New York,40,4,752.19,VND5FBBF7E5,2025-01-20,Active
+AST7F702636,garden candidate,Furniture,Austin,59,10,391.1,VND768A7583,2025-09-17,Active
+ASTD000E709,attention soon,Furniture,Los Angeles,113,11,541.48,VND4520F17A,2025-12-19,Active
+ASTEA4EE8A4,per way,Furniture,San Diego,47,8,896.46,VND38095B8C,2025-04-09,Active
+AST1D547F3B,though half,Tools,Chicago,20,4,629.82,VND154E8965,2026-06-05,Active
+AST6D1856F2,ground on,Machinery,Phoenix,119,19,849.61,VNDEA23339B,2026-01-03,Active
+AST1F037A39,wrong newspaper,Tools,Los Angeles,37,6,746.97,VND9DFC7925,2024-03-22,Low Stock
+ASTF5375070,step interview,Infrastructure,Philadelphia,85,11,146.62,VND9DFC7925,2025-03-13,Active
+AST7B5AFE94,week always,Vehicles,Chicago,107,29,622.47,VND1FA33A03,2025-03-06,Active
+AST59D4120B,claim describe,Tools,Austin,86,21,891.11,VND97FA9A66,2026-03-17,Active
+ASTB092FE55,recent also,Tools,Jacksonville,178,36,739.29,VNDE6A4DD03,2025-07-04,Active
+AST3B24D2C0,culture card,Computers,Austin,84,14,305.82,VNDD39C47AD,2025-09-19,Active
+AST0CCE1D0A,thank reason,Vehicles,Dallas,1,1,230.1,VND111F855A,2025-11-27,Active
+ASTBF7E5CD8,painting make,Vehicles,San Antonio,1,1,181.95,VNDBA0CC89B,2025-06-04,Active
+AST828B1D39,group parent,Machinery,Dallas,119,17,315.23,VNDE6A4DD03,2025-04-30,Active
+ASTB0D076C8,including what,Machinery,Dallas,80,17,261.41,VND139B2EB5,2025-07-06,Active
+AST18C1E607,away challenge,Computers,Philadelphia,69,17,762.24,VNDE3830203,2026-01-01,Active
+AST53A65D4B,over task,Machinery,San Jose,84,11,41.26,VND1DF449E3,2024-08-11,Active
+AST6ADB8FD7,system still,Infrastructure,San Jose,82,23,73.22,VNDB8A208B5,2024-12-09,Active
+AST2327C401,number list,Vehicles,San Antonio,64,15,295.3,VNDC73A3BD4,2024-06-17,Active
+ASTCE29466D,senior gas,Furniture,San Antonio,160,46,54.85,VND9724A5FF,2025-07-29,Active
+AST35B0248D,decade activity,Computers,Dallas,112,30,617.28,VND8BC82E76,2025-12-26,Active
+AST31160663,treat bank,Infrastructure,Los Angeles,92,14,79.17,VNDF7742C98,2024-03-19,Active
+AST60A7723E,create something,Furniture,Philadelphia,111,28,878.81,VND389A891A,2026-06-01,Active
+AST29920098,into them,Infrastructure,Los Angeles,107,20,927.83,VND2D25DD42,2025-04-01,Active
+ASTE8277F76,difficult here,Vehicles,San Antonio,133,22,874.61,VNDE1A395FA,2025-07-02,Active
+AST7C33187C,stop eat,Tools,New York,73,14,515.79,VND109E5C6F,2026-04-05,Active
+ASTCAD6E2FB,heavy identify,Machinery,Jacksonville,169,22,37.4,VND5FBBF7E5,2025-12-21,Active
+AST8248D504,bring amount,Vehicles,Phoenix,66,11,300.31,VND154E8965,2026-01-27,Low Stock
+AST1372D849,force hand,Computers,Los Angeles,8,1,114.44,VND1FA33A03,2024-06-20,Active
+AST4CD2870C,that behavior,Vehicles,Dallas,107,22,946.21,VND0D050C25,2025-03-01,Active
+AST2EBF11A6,yard drop,Infrastructure,Jacksonville,83,17,757.81,VNDEA23339B,2025-07-31,Active
+ASTA62A9425,many mouth,Computers,San Antonio,135,29,335.95,VND10335071,2026-04-08,Low Stock
+AST5DDB151C,seven rate,Infrastructure,Phoenix,101,11,416.41,VNDEB6F8ED3,2025-06-20,Low Stock
+AST762ADD32,such huge,Tools,Austin,86,11,783.84,VND0D050C25,2024-05-29,Active
+ASTB110F61C,alone bed,Tools,San Antonio,117,13,52.96,VND8E10A670,2026-05-04,Active
+AST36F9B304,father yourself,Infrastructure,Austin,87,12,726.75,VNDAAF2A28A,2026-01-15,Active
+AST15B19AE5,wind make,Computers,San Diego,67,8,903.67,VND7290C297,2024-01-08,Active
+ASTA3D6349F,upon fight,Computers,New York,129,34,689.15,VND07A84740,2024-05-07,Active
+AST247D9F2A,clearly safe,Vehicles,San Diego,55,9,58.68,VNDB3180A0E,2026-01-03,Active
+ASTBE691347,deep none,Furniture,San Antonio,60,17,368.2,VNDA68A83A5,2026-03-16,Discontinued
+ASTCA8DCEB2,itself carry,Infrastructure,San Jose,128,25,315.6,VND97FA9A66,2025-02-22,Active
+AST77FFFB0F,region thus,Furniture,San Jose,170,45,462.0,VNDD2BB8334,2026-03-25,Low Stock
+AST9B4319BB,follow outside,Machinery,San Jose,96,16,606.31,VND4520F17A,2025-07-17,Active
+AST22698DB7,write performance,Machinery,Houston,94,23,70.51,VNDF78A924D,2025-01-20,Active
+AST9DB37B14,be mouth,Infrastructure,Los Angeles,133,35,730.47,VND97E5802F,2024-12-14,Active
+AST934BCBE8,both develop,Vehicles,New York,61,10,255.59,VND557FD788,2025-06-05,Active
+AST66BEF96E,at opportunity,Infrastructure,San Jose,117,21,925.56,VND1306F6E1,2025-03-04,Active
+AST5EC963AF,use actually,Infrastructure,New York,75,17,921.8,VNDC4092504,2025-04-01,Low Stock
+AST7F11C356,business and,Machinery,San Diego,150,44,626.57,VND6F35B3AD,2024-03-08,Active
+AST087A713B,compare activity,Computers,Chicago,131,27,736.39,VNDEB6F8ED3,2025-05-22,Active
+AST78849CEE,hot first,Computers,Phoenix,54,9,635.19,VNDC995E3B7,2024-02-06,Discontinued
+ASTCAD6FAD6,marriage green,Machinery,Austin,92,23,101.84,VNDF549E284,2026-04-06,Active
+ASTB6F0F0A5,fact course,Furniture,Dallas,29,7,965.02,VND49098C56,2024-02-11,Active
+AST421C9903,recent push,Tools,Phoenix,1,1,651.24,VND79774EB1,2024-11-11,Active
+ASTF3A8F53D,three show,Furniture,Houston,89,16,408.22,VND5B2EC8F1,2025-07-25,Active
+AST4D70A833,subject young,Vehicles,Jacksonville,147,41,939.84,VNDF464A966,2025-06-03,Active
+AST4B4D121B,hard doctor,Machinery,Los Angeles,33,9,259.26,VND3FC620C0,2025-11-21,Active
+AST8571E2BF,argue support,Vehicles,Philadelphia,62,11,792.95,VNDF549E284,2025-10-27,Active
+AST6596721D,the sound,Furniture,New York,118,17,960.71,VND65B60718,2024-12-19,Active
+AST264DCD76,pull improve,Tools,Chicago,71,15,376.06,VND417BDCE6,2024-10-09,Low Stock
+AST8A64344C,drive ask,Computers,San Jose,48,8,764.86,VNDF909C443,2026-05-13,Active
+AST5ACEB920,against wind,Infrastructure,Chicago,80,17,637.73,VND19CF5E06,2026-07-01,Low Stock
+ASTDA323F7E,process since,Vehicles,San Diego,150,18,358.44,VND557FD788,2024-07-15,Active
+AST39C721C2,stuff nature,Machinery,Los Angeles,124,24,298.1,VNDA0E8AF6C,2024-06-09,Active
+AST1E021DA1,give interesting,Vehicles,Jacksonville,108,23,629.86,VND894C6368,2026-04-18,Low Stock
+AST1B05EE8B,important he,Machinery,San Diego,11,2,582.01,VNDA6643FA7,2025-05-22,Low Stock
+AST3F89744F,space future,Infrastructure,San Jose,65,9,33.29,VNDA957A7D0,2024-09-03,Active
+AST362AA8F4,whether human,Computers,Philadelphia,67,13,939.04,VND1DF7F1DC,2025-03-15,Active
+ASTB63E82B5,need few,Vehicles,Phoenix,104,26,869.31,VND4520F17A,2025-01-22,Active
+AST8CBC687A,country account,Vehicles,Phoenix,105,30,494.56,VND020FD5AF,2025-09-14,Active
+ASTEE42C6AD,training minute,Machinery,Chicago,48,8,440.34,VND97FA9A66,2024-07-22,Active
+AST0375E82A,miss program,Infrastructure,Houston,130,38,306.91,VNDE05F71D7,2024-05-15,Low Stock
+AST6CD8A04D,note beat,Furniture,Los Angeles,63,7,146.63,VNDA0E8AF6C,2026-01-01,Active
+ASTD32DD162,former home,Tools,Chicago,188,28,163.67,VND7B4F5D31,2025-01-13,Active
+AST41C9D81F,site able,Machinery,Austin,125,28,475.6,VND4D8ED92A,2024-10-08,Active
+ASTC54CEA04,social will,Infrastructure,Jacksonville,81,16,171.97,VNDBA0CC89B,2026-04-24,Active
+ASTAFB72422,television much,Tools,Los Angeles,109,21,292.84,VND3A80813D,2024-07-16,Active
+ASTFBB63C7F,vote own,Vehicles,San Antonio,124,26,133.57,VND97E5802F,2025-10-04,Low Stock
+AST52413A69,forget voice,Infrastructure,San Jose,64,17,807.45,VND34BC34BC,2024-01-29,Active
+AST30444776,buy election,Vehicles,New York,1,1,428.73,VND97FA9A66,2026-01-21,Active
+ASTA808D1FC,information still,Vehicles,Phoenix,142,16,862.82,VND7290C297,2025-10-23,Active
+AST38E7FE3C,next blood,Computers,Austin,122,13,324.56,VND9E3DBA67,2025-12-04,Discontinued
+AST2A95AB70,prevent amount,Computers,Houston,87,21,423.29,VND020FD5AF,2025-08-20,Active
+ASTDC56307E,education number,Infrastructure,Austin,77,12,315.09,VND048CF2D5,2025-12-03,Low Stock
+ASTF5FABEA3,bring south,Vehicles,Austin,125,26,216.71,VND19CF5E06,2025-05-07,Discontinued
+AST7BB20252,because heavy,Computers,Chicago,75,16,191.47,VNDF7A9FFF9,2026-07-09,Active
+AST9F116127,body top,Vehicles,Los Angeles,29,7,166.08,VND672E91CF,2025-02-25,Active
+AST1E64EC3E,vote rate,Furniture,Philadelphia,112,16,762.2,VND4DC2D394,2024-05-04,Active
+ASTAD71E1EA,out few,Furniture,Philadelphia,58,9,236.49,VNDE05F71D7,2025-01-06,Active
+AST8708C809,purpose different,Infrastructure,Dallas,128,38,593.67,VND5B2EC8F1,2026-01-21,Active
+ASTC25A8058,true write,Furniture,Jacksonville,206,40,687.21,VNDBC15E50D,2024-09-15,Active
+AST5638342B,sing ready,Computers,Jacksonville,144,37,969.37,VND7B8206C3,2024-12-08,Active
+AST90EBEA19,debate development,Machinery,Dallas,110,30,838.88,VND411B979D,2024-08-16,Active
+ASTFF406684,share yet,Machinery,San Antonio,76,20,91.16,VND1C52ED63,2024-07-09,Low Stock
+AST7BC98858,perform record,Furniture,Los Angeles,172,39,457.92,VNDD6FBFD33,2024-05-22,Active
+AST77FB97FD,spend admit,Infrastructure,New York,51,9,841.52,VNDAE27E9B6,2024-04-12,Active
+AST60A7F854,prevent meet,Computers,San Antonio,68,17,226.3,VND4EC61792,2024-04-06,Low Stock
+ASTDC7762F7,community role,Machinery,San Diego,48,6,505.6,VNDEB6F8ED3,2024-01-02,Active
+AST3EEED0C8,she establish,Machinery,New York,103,21,656.93,VND048CF2D5,2025-05-05,Active
+AST3A23B71A,color they,Tools,New York,31,4,281.23,VND97E5802F,2024-09-08,Active
+AST8E698204,opportunity attention,Computers,San Jose,62,12,659.12,VNDF909C443,2024-11-18,Discontinued
+AST7D9ED221,leg physical,Computers,Houston,135,23,154.54,VNDBC15E50D,2026-06-15,Discontinued
+ASTB36C6F29,wrong however,Furniture,San Antonio,35,7,274.83,VNDC178B24A,2025-11-27,Active
+AST4E574247,red interview,Machinery,Philadelphia,157,44,905.86,VND7DD7F0E9,2024-05-26,Active
+ASTA00C2E8F,marriage tree,Tools,Los Angeles,83,23,158.77,VND139B2EB5,2025-04-19,Active
+AST99767344,sure low,Vehicles,San Diego,97,22,685.12,VND34264845,2026-06-08,Active
+AST4E278F13,air value,Infrastructure,San Antonio,122,34,49.39,VND38095B8C,2025-09-19,Active
+ASTC853ECBC,account food,Machinery,San Diego,123,36,887.93,VND8CAEB48D,2024-12-14,Active
+AST23773B27,up type,Tools,Dallas,101,21,55.28,VND07F575C8,2025-01-09,Active
+AST8F6585CF,enter whom,Furniture,San Jose,92,18,682.49,VNDBC15E50D,2025-06-08,Active
+AST99896874,range floor,Infrastructure,San Diego,155,25,476.01,VNDF464A966,2026-04-22,Active
+AST05E7C995,appear science,Vehicles,Jacksonville,123,36,240.53,VNDC73A3BD4,2025-02-09,Active
+AST674EEFAC,though knowledge,Computers,San Diego,162,44,890.47,VND5B2EC8F1,2026-04-17,Active
+ASTD355C459,the big,Machinery,Houston,59,16,824.08,VND139B2EB5,2025-07-22,Active
+AST0B80F353,my response,Vehicles,Jacksonville,184,52,580.74,VND5FE97D0B,2025-12-01,Active
+ASTF1508D64,happen should,Vehicles,Dallas,182,21,201.23,VNDAE27E9B6,2024-12-10,Discontinued
+ASTDFD82BBD,something now,Machinery,Dallas,122,35,615.64,VNDDA6D8C81,2025-04-17,Active
+AST08F33C34,guy this,Furniture,Austin,165,30,382.29,VND18221D96,2025-10-01,Active
+AST4C4F4F5C,play yeah,Infrastructure,Phoenix,85,23,796.68,VND2500CE76,2025-03-26,Active
+ASTB6C96B53,herself dog,Computers,San Antonio,137,29,130.2,VNDA74DADEC,2025-07-03,Active
+AST7CBC68EB,a also,Infrastructure,Jacksonville,165,33,979.29,VND3D2A9A3A,2026-07-25,Active
+AST44B32047,charge concern,Vehicles,Phoenix,102,14,29.52,VNDE1A395FA,2025-09-04,Active
+AST455AEDE1,sense these,Computers,Philadelphia,101,26,951.38,VND109E5C6F,2024-12-29,Active
+AST094940BA,various fill,Furniture,Philadelphia,81,23,630.15,VNDA68A83A5,2026-02-21,Low Stock
+AST3770ED89,lawyer wall,Infrastructure,San Diego,111,30,60.28,VNDC995E3B7,2025-08-12,Discontinued
+AST7679A3D0,itself human,Computers,San Diego,102,19,415.52,VND616471F8,2025-11-09,Active
+ASTF185123A,reach simply,Infrastructure,Philadelphia,222,33,884.52,VNDA9CEA40D,2024-04-26,Active
+AST3FD6E9BD,loss treatment,Infrastructure,San Jose,63,14,216.14,VNDF78A924D,2024-07-20,Active
+AST22B89F62,instead pass,Infrastructure,San Antonio,54,10,978.03,VND859AA544,2024-08-17,Active
+AST2D089196,development speak,Computers,San Antonio,167,39,535.58,VNDA68A83A5,2024-08-28,Active
+ASTC48BF7B7,kind give,Machinery,San Antonio,90,26,734.97,VNDC939E188,2024-11-20,Active
+AST2F9B84CB,wish despite,Tools,Dallas,77,12,970.53,VND616471F8,2024-03-07,Active
+AST503AD19E,executive western,Computers,Los Angeles,63,14,351.94,VND9EBB9EB2,2026-05-16,Active
+AST1FECC009,he score,Vehicles,Houston,34,8,171.73,VNDE6156EFE,2025-02-20,Active
+ASTBF53E043,present finish,Tools,San Antonio,98,20,395.17,VND999ED598,2024-07-28,Active
+AST15921BDB,former school,Vehicles,Dallas,189,21,899.38,VNDCAF05089,2026-02-02,Active
+AST12F43CA1,price because,Vehicles,Philadelphia,126,27,623.5,VNDF7A9FFF9,2025-04-27,Discontinued
+AST0A86B5C6,executive cut,Computers,San Jose,148,41,557.12,VND97FA9A66,2024-05-13,Active
+ASTC523E817,later choose,Machinery,Dallas,108,24,291.85,VNDD6FBFD33,2025-10-18,Active
+AST0F0FCE65,environmental west,Computers,Dallas,110,20,136.58,VND80A0A536,2024-08-30,Active
+AST39CDAE38,see board,Infrastructure,Phoenix,74,8,242.29,VNDB732CC31,2024-05-23,Active
+AST7533462C,west look,Furniture,Los Angeles,118,13,665.4,VND6C887C82,2025-11-09,Active
+AST55E507C3,until instead,Computers,San Jose,86,9,304.52,VND0D050C25,2025-01-10,Active
+AST3CCBCA32,first four,Infrastructure,New York,116,16,617.9,VND3FC620C0,2024-06-22,Low Stock
+ASTB696CDAB,partner later,Computers,Austin,38,10,204.45,VND020FD5AF,2025-11-29,Active
+ASTD6A54E69,answer your,Machinery,San Diego,19,4,12.16,VNDB598AD91,2024-07-29,Low Stock
+ASTA9E30E9F,increase happy,Computers,Jacksonville,105,28,415.36,VND7B8206C3,2024-09-23,Active
+AST333212BB,adult environmental,Furniture,Austin,158,38,109.98,VNDCFB6DC09,2025-10-07,Active
+AST8B259876,worry reason,Machinery,Austin,28,7,174.26,VNDD24A1BC5,2024-07-13,Discontinued
+AST303F4273,natural event,Tools,San Jose,83,22,60.99,VND08CE8CA7,2025-12-31,Active
+AST6F2B7DD3,daughter answer,Furniture,New York,76,21,89.03,VND2258ABB1,2024-03-30,Active
+AST7D6DDD84,sign national,Machinery,Phoenix,54,9,993.33,VND97E5802F,2025-06-05,Active
+ASTF5504B65,thus determine,Computers,Jacksonville,110,30,550.38,VNDA74DADEC,2024-04-13,Active
+AST67F65CE8,trip near,Furniture,Chicago,83,12,227.0,VND3A746CBD,2025-01-17,Active
+ASTE3EF16E9,several success,Tools,Los Angeles,92,10,482.69,VNDE6A4DD03,2025-05-26,Active
+ASTBE7F1A05,lawyer others,Vehicles,San Antonio,26,3,281.52,VNDC178B24A,2024-06-12,Active
+AST25620642,candidate cost,Furniture,Los Angeles,50,9,159.36,VND139B2EB5,2025-12-06,Active
+AST9A308294,lead relationship,Furniture,Chicago,180,29,681.58,VND1DF449E3,2024-03-06,Low Stock
+AST4DF40783,partner protect,Infrastructure,San Antonio,81,21,876.83,VNDEB6F8ED3,2024-02-17,Active
+AST16C01A17,good turn,Infrastructure,San Jose,117,33,194.39,VND389A891A,2024-01-26,Active
+ASTA0817464,production structure,Tools,Phoenix,68,10,133.19,VND139B2EB5,2024-04-09,Active
+AST8BDFA8FB,it base,Computers,Jacksonville,17,4,12.42,VND0300765D,2024-06-04,Active
+AST362A8649,follow close,Computers,Chicago,52,7,949.04,VND65B60718,2025-10-02,Active
+ASTF2C3F038,not character,Vehicles,New York,62,9,386.75,VND1DF7F1DC,2025-03-27,Active
+AST5D4725CE,well letter,Machinery,San Diego,114,18,155.11,VND3D2A9A3A,2025-12-10,Active
+ASTBF1778B8,information offer,Machinery,Austin,69,18,323.63,VND489E103A,2025-06-30,Active
+AST5AED505A,nor yeah,Tools,San Jose,40,6,143.37,VNDF909C443,2025-07-26,Low Stock
+ASTA320BDC0,growth edge,Computers,New York,160,44,510.06,VNDD6FBFD33,2024-05-06,Active
+AST8C081F0A,college policy,Machinery,Los Angeles,153,44,315.63,VNDB1228DD8,2026-02-11,Discontinued
+AST0071B53F,sea argue,Vehicles,Los Angeles,134,37,74.84,VNDF549E284,2024-05-13,Active
+ASTF113DC02,economy occur,Computers,Jacksonville,98,23,58.04,VND1A32B030,2026-03-17,Active
+AST06123C09,indeed ready,Infrastructure,San Jose,95,16,274.8,VND6E96F23C,2025-03-04,Active
+AST1B7C4B37,attack blood,Computers,Jacksonville,140,35,113.74,VND1DF7F1DC,2026-03-29,Discontinued
+AST35632C91,type hair,Furniture,Philadelphia,106,25,310.89,VND2FE40F33,2024-08-29,Active
+AST7B6FFC18,forget area,Vehicles,San Diego,144,23,888.98,VND4D8ED92A,2024-03-26,Active
+AST2993CD80,word space,Vehicles,Phoenix,108,19,526.45,VND4706504E,2025-12-08,Active
+AST12FC5A89,training hundred,Tools,Austin,80,17,240.39,VND1C52ED63,2026-04-09,Active
+ASTAD32A90F,staff certain,Tools,San Jose,15,3,616.85,VND11B92497,2024-01-02,Active
+AST59F4E2CD,population guess,Computers,San Antonio,81,11,204.32,VND489E103A,2025-09-05,Active
+ASTA54E0843,into four,Machinery,Philadelphia,76,11,143.66,VNDAE27E9B6,2024-01-21,Active
+AST6F91A6B7,fact four,Tools,San Diego,106,11,662.11,VND557FD788,2026-04-19,Active
+AST0DF6EB6A,travel soon,Vehicles,Los Angeles,38,9,190.94,VNDA0E8AF6C,2026-03-19,Active
+AST20C3E77E,clearly image,Tools,Jacksonville,33,9,589.59,VND4A2B2E76,2026-07-27,Active
+AST1579E881,gun could,Machinery,Houston,202,39,828.79,VND6B54C68D,2025-09-21,Active
+ASTEA1CCDEE,probably attention,Tools,Philadelphia,21,5,111.19,VNDB732CC31,2025-07-06,Low Stock
+AST48663691,truth improve,Furniture,Houston,63,9,462.47,VND1DF449E3,2026-03-22,Active
+AST358D328B,article necessary,Computers,Phoenix,174,36,631.45,VND650A3AAA,2025-12-18,Active
+ASTABCEE0F6,picture record,Infrastructure,San Antonio,53,15,937.03,VND109E5C6F,2025-06-12,Active
+AST559DD554,modern try,Infrastructure,Jacksonville,63,12,102.16,VNDE3830203,2024-12-03,Active
+AST6812A4A1,other with,Infrastructure,San Diego,15,1,668.94,VNDC939E188,2025-11-08,Active
+ASTC31C0281,ahead computer,Computers,New York,182,31,460.7,VNDF549E284,2025-10-29,Active
+ASTCE640894,either feel,Tools,Jacksonville,45,10,420.86,VNDE6156EFE,2025-07-16,Active
+ASTC8DB1E71,level imagine,Computers,Dallas,49,7,913.99,VND8E10A670,2026-02-09,Active
+AST7BE32511,main table,Infrastructure,Los Angeles,82,17,494.18,VND07F575C8,2025-04-07,Low Stock
+AST3A96D7C2,amount plan,Machinery,Philadelphia,1,1,732.25,VNDDA6D8C81,2026-07-01,Active
+AST54C54A85,seat animal,Vehicles,Jacksonville,50,14,116.61,VND97E5802F,2025-12-20,Active
+AST90DF4A54,affect since,Infrastructure,Chicago,117,15,972.87,VND49FA8EB1,2025-02-23,Active
+AST6DB7ACA1,thousand product,Tools,San Jose,146,42,285.75,VND36436386,2024-01-13,Discontinued
+ASTD10903F5,by order,Tools,Chicago,53,10,437.44,VND048CF2D5,2024-08-26,Active
+ASTEF7BDAD4,suffer behavior,Furniture,Jacksonville,108,25,677.52,VND88584A44,2025-01-08,Active
+ASTA13825B7,like poor,Computers,New York,71,19,518.76,VNDF9F92F21,2024-04-23,Low Stock
+ASTA46C34B7,network force,Furniture,Houston,145,26,327.43,VNDF549E284,2024-11-20,Active
+ASTA0068FF7,bank question,Tools,Houston,99,24,207.22,VND8C1D087C,2026-06-26,Active
+AST042A6648,cold soon,Vehicles,Austin,157,43,454.89,VNDC178B24A,2024-01-10,Active
+AST82891A07,personal special,Computers,Dallas,110,25,184.35,VND7DD7F0E9,2024-06-20,Active
+AST94AEAEFF,send act,Computers,Dallas,145,40,138.2,VNDE4298A7B,2025-12-05,Active
+AST514A6F90,star interesting,Infrastructure,Los Angeles,99,17,491.92,VND27D705EA,2024-03-18,Active
+AST068E7F28,bag require,Computers,San Jose,82,21,811.61,VNDB3180A0E,2025-07-10,Active
+AST40482A1A,home rather,Vehicles,Jacksonville,141,21,284.3,VNDCAF05089,2024-12-07,Active
+AST2DA79759,long across,Computers,Dallas,80,21,291.98,VND57CA31A1,2026-04-08,Active
+ASTDDF76CD0,difference themselves,Tools,Jacksonville,143,29,785.24,VND9E3DBA67,2024-09-14,Active
+ASTA0B5912F,special last,Computers,Chicago,53,13,551.53,VND18221D96,2025-04-17,Active
+AST7D3FDE52,sport memory,Computers,Houston,70,11,619.23,VND590E7C93,2024-05-23,Active
+ASTAD2559AB,appear not,Infrastructure,San Jose,157,36,967.68,VNDD6FBFD33,2026-02-05,Active
+ASTE3A35EB5,contain event,Computers,Houston,92,25,734.51,VND11B92497,2025-07-11,Active
+AST1EFBB165,special really,Infrastructure,Houston,63,14,491.79,VND4EC61792,2025-11-15,Active
+AST0D908A98,consider describe,Tools,Dallas,188,39,616.41,VND76746C6A,2026-05-01,Active
+ASTDFE14F79,wind leader,Tools,Dallas,134,28,508.74,VND1A73FC33,2024-10-16,Active
+AST724628FD,effort today,Furniture,Chicago,86,14,493.27,VND6FADEC72,2025-02-17,Active
+AST7F8D188F,operation city,Furniture,San Diego,87,9,420.93,VNDF9F92F21,2025-02-04,Active
+ASTD45A6D7D,woman personal,Machinery,Phoenix,82,21,535.13,VND448E4836,2025-10-03,Active
+AST75624FDC,customer real,Tools,Phoenix,97,28,117.67,VND88584A44,2024-05-24,Active
+ASTE60C379F,explain reality,Tools,Houston,70,16,493.71,VND0300765D,2025-09-08,Active
+ASTB2EF7750,left total,Machinery,Houston,115,17,453.92,VND8CAEB48D,2024-02-11,Active
+AST0213CF67,social perform,Machinery,Jacksonville,4,1,596.2,VND7254F792,2025-08-23,Active
+AST0F8FFB17,level begin,Tools,Austin,128,24,788.06,VND4EA7F305,2025-04-11,Active
+ASTDAF0213F,Mr order,Vehicles,Chicago,116,15,746.1,VND6FADEC72,2024-08-21,Low Stock
+AST7BB3701F,yard single,Tools,New York,102,17,525.12,VNDF909C443,2024-03-14,Active
+ASTA03A6616,ok itself,Tools,Austin,116,30,511.78,VND1306F6E1,2025-03-12,Active
+AST35251557,sing sister,Vehicles,New York,118,21,866.52,VNDBC15E50D,2026-06-20,Active
+ASTC87DE2E6,wish away,Furniture,Los Angeles,173,28,986.44,VND9724A5FF,2024-06-12,Active
+AST0738BF5F,again red,Furniture,Philadelphia,140,34,956.13,VNDD2BB8334,2025-10-14,Active
+ASTCFC081E4,fear chance,Machinery,Philadelphia,90,18,664.44,VNDC995E3B7,2025-10-02,Active
+AST7FC07B6C,government future,Vehicles,Phoenix,36,5,370.02,VND7E4DB750,2024-10-27,Active
+ASTCCAF8D47,read newspaper,Machinery,New York,141,40,51.18,VND6E96F23C,2025-07-06,Active
+AST5237BFF4,read kind,Furniture,Philadelphia,16,3,791.93,VNDC73A3BD4,2024-08-25,Active
+AST8A4B66C8,morning music,Computers,San Antonio,145,15,474.68,VNDF981F27F,2025-11-14,Active
+AST6B033267,employee share,Computers,Jacksonville,51,13,840.71,VND3AF51314,2026-05-15,Active
+AST1AECD751,southern five,Tools,New York,154,33,87.41,VND6F35B3AD,2026-06-11,Active
+AST5CFA2A83,arrive shoulder,Computers,San Diego,159,21,107.44,VND4706504E,2024-07-09,Active
+ASTBE4FD869,fear community,Tools,San Antonio,118,15,419.47,VND23FDC749,2026-07-12,Low Stock
+ASTA53B2B10,indeed professional,Computers,Dallas,77,14,386.51,VNDA6643FA7,2024-03-05,Active
+ASTE083FECC,interest front,Furniture,Austin,146,17,780.41,VND439CBBCF,2024-06-06,Active
+ASTA759C6CC,mind since,Computers,Philadelphia,135,21,940.3,VNDAEE88F85,2025-07-02,Active
+ASTBBB3C348,when television,Infrastructure,Philadelphia,100,27,882.05,VND8539FA55,2025-10-29,Active
+AST58847E89,local treatment,Furniture,New York,1,1,316.84,VND3D2A9A3A,2024-09-25,Active
+ASTF624F02C,return despite,Furniture,Chicago,50,10,228.38,VND07F575C8,2026-06-21,Active
+ASTEF1202EE,development effect,Infrastructure,San Diego,70,20,93.46,VND590E7C93,2024-01-14,Active
+AST71E89870,security message,Computers,Austin,92,15,829.21,VND44174C92,2024-01-10,Active
+AST5EEAF5FD,address laugh,Infrastructure,Chicago,112,23,411.07,VNDA6643FA7,2024-12-21,Active
+AST3B2CB570,piece shoulder,Furniture,San Diego,68,15,168.13,VND8CAEB48D,2026-06-25,Active
+AST3AB5C1D1,beautiful high,Tools,Philadelphia,189,38,981.45,VNDF549E284,2024-10-30,Discontinued
+ASTC3CA3C70,effort seven,Computers,Chicago,117,18,29.82,VNDAB26D618,2025-09-22,Active
+ASTF9419A57,name see,Infrastructure,Dallas,154,16,324.06,VNDF545674F,2026-01-29,Active
+AST3AB501B7,summer visit,Tools,Phoenix,73,20,233.93,VND589660CD,2025-01-27,Active
+ASTD6ED095A,field upon,Tools,Los Angeles,109,17,108.03,VND5FBBF7E5,2024-05-08,Low Stock
+AST27023EF1,collection single,Computers,Austin,142,26,348.13,VND048CF2D5,2025-06-16,Active
+AST7D928473,draw new,Vehicles,Dallas,148,33,916.99,VND36436386,2026-06-27,Active
+AST8CADC636,watch inside,Tools,Houston,181,24,583.02,VND29251C8F,2025-05-21,Active
+ASTBC0BB2C2,consumer significant,Vehicles,Phoenix,106,14,259.73,VND507751E2,2024-01-17,Active
+ASTEF95AE6E,whether increase,Furniture,Phoenix,82,13,104.36,VND4F7B00FC,2025-05-04,Active
+AST174FEFB7,prepare occur,Infrastructure,Jacksonville,82,8,648.19,VND65B60718,2025-03-04,Active
+AST250C0951,week purpose,Tools,Jacksonville,79,14,729.19,VND38095B8C,2025-11-16,Active
+AST663B0A5F,government reality,Tools,New York,125,15,35.68,VND8C1D087C,2024-08-03,Active
+AST9CB0759D,authority particularly,Vehicles,Philadelphia,148,36,674.29,VND37AB5C39,2025-03-29,Active
+AST44DCA80D,fund none,Tools,Dallas,146,40,295.94,VND34BC34BC,2024-02-08,Active
+AST312FE3B3,home ten,Tools,Houston,124,24,76.82,VNDDFDF8860,2026-03-28,Active
+AST4F7D0FEF,scene put,Infrastructure,Phoenix,77,9,790.08,VND34BC34BC,2025-06-16,Active
+AST72354216,understand just,Tools,San Diego,101,24,425.68,VND18221D96,2024-02-27,Low Stock
+AST72DE76ED,hard message,Furniture,San Antonio,90,14,147.44,VND18221D96,2024-04-12,Active
+AST6AB5F9E7,candidate although,Tools,Chicago,90,19,715.33,VNDB520DAB7,2025-03-06,Active
+ASTD38C70C8,to there,Furniture,San Diego,131,34,511.94,VND590E7C93,2024-12-17,Low Stock
+ASTE8C245A7,stop easy,Vehicles,Philadelphia,74,16,362.73,VND4520F17A,2024-11-29,Active
+ASTE01090BC,heavy figure,Vehicles,Philadelphia,15,4,236.84,VND3B5BB0BC,2024-02-01,Low Stock
+AST486B5696,several peace,Infrastructure,Phoenix,179,47,996.96,VND29251C8F,2025-04-27,Active
+AST342C8D89,democratic impact,Machinery,Chicago,138,29,573.0,VND65B60718,2025-12-07,Discontinued
+AST2CF48935,education guess,Infrastructure,New York,123,15,681.49,VND66F3A422,2025-04-08,Active
+AST322CBB9C,everyone so,Tools,Dallas,89,20,654.03,VND466655B2,2024-05-21,Active
+ASTF097AEF6,others gas,Machinery,New York,82,11,678.33,VNDF7742C98,2025-03-20,Active
+AST655676A5,while manage,Machinery,Dallas,102,11,848.14,VND4DC2D394,2024-04-27,Active
+AST0407CDD0,onto move,Vehicles,San Diego,189,47,910.7,VNDB3180A0E,2025-12-08,Active
+AST94DC6A00,official message,Tools,San Antonio,113,18,894.82,VND0B515B0E,2024-09-05,Active
+AST2521D293,drive certainly,Vehicles,Dallas,66,11,302.58,VNDB8A208B5,2024-04-29,Active
+ASTF70C82A9,reduce leave,Computers,Dallas,103,28,664.26,VNDAB26D618,2024-06-13,Active
+AST0FC1DBD2,reality risk,Machinery,San Diego,179,43,231.22,VND5FBBF7E5,2025-09-08,Active
+AST3E0D83B7,account yeah,Machinery,Austin,109,29,740.61,VNDA957A7D0,2025-07-21,Active
+AST5665EC07,through market,Tools,Los Angeles,148,17,63.03,VND8539FA55,2026-06-19,Active
+ASTF26EF863,your officer,Furniture,Austin,55,9,139.62,VND11B92497,2025-04-05,Active
+AST9D746F06,win point,Infrastructure,Houston,111,31,917.68,VNDDA6D8C81,2024-06-26,Active
+AST9585883A,statement order,Machinery,Los Angeles,100,25,565.88,VND650A3AAA,2024-10-20,Low Stock
+ASTABBC1803,present wide,Computers,Austin,139,15,946.55,VNDAB26D618,2025-08-31,Active
+AST4E36D17B,image will,Vehicles,Austin,140,20,699.67,VND7290C297,2026-07-18,Active
+AST81AC8B85,difficult every,Tools,San Jose,118,19,84.63,VNDCFB6DC09,2025-06-24,Active
+ASTDC918314,feeling front,Machinery,New York,50,11,81.35,VND1DF449E3,2024-01-31,Active
+AST4C33A59D,good stock,Furniture,Dallas,138,24,490.04,VNDBA0CC89B,2024-09-22,Low Stock
+ASTCC1F6255,window as,Infrastructure,San Diego,90,24,896.94,VND154E8965,2024-03-28,Active
+ASTD26380BD,direction finally,Vehicles,San Jose,95,26,32.06,VND6FADEC72,2026-05-05,Active
+AST412EB721,control thought,Vehicles,Houston,141,28,210.85,VND220F792F,2026-06-30,Active
+ASTFD5A87DC,treatment technology,Infrastructure,New York,144,27,159.43,VNDB1228DD8,2026-08-05,Active
+AST17C1AD0F,every never,Tools,Houston,106,14,915.74,VND275CA511,2026-04-18,Low Stock
+AST8F81C186,responsibility safe,Infrastructure,Los Angeles,81,20,181.47,VNDD74D095B,2025-12-21,Active
+AST55BE797D,particularly must,Vehicles,Houston,12,2,605.51,VNDF10E17A7,2026-08-08,Active
+ASTBC1DF9E6,single commercial,Furniture,San Jose,75,10,261.75,VND97E5802F,2026-01-16,Active
+AST727279BF,own far,Computers,San Antonio,47,13,208.9,VND3A80813D,2024-09-17,Active
+AST79C11C02,bank billion,Tools,Houston,108,29,314.02,VND44174C92,2024-11-02,Active
+AST230D706A,daughter color,Furniture,Austin,49,13,848.49,VND8C1D087C,2024-11-11,Active
+ASTA09B8CBA,your choice,Computers,Dallas,167,37,495.43,VNDE6A4DD03,2026-06-16,Discontinued
+AST094B07DA,nature suggest,Infrastructure,Dallas,104,16,757.65,VNDDFDF8860,2025-02-17,Active
+ASTAD7B7BA7,hold theory,Machinery,New York,115,27,910.98,VND111F855A,2026-05-01,Active
+AST7DC4AE39,hear direction,Furniture,New York,142,28,414.17,VNDE13413E5,2024-12-26,Active
+ASTCD724903,woman great,Furniture,Chicago,73,8,887.45,VND75832916,2025-11-28,Active
+AST563F58DB,pay north,Tools,San Antonio,103,29,400.59,VND220F792F,2025-05-14,Active
+AST7C4AB245,three recognize,Infrastructure,Phoenix,88,12,235.78,VND111F855A,2024-10-30,Low Stock
+AST998AB999,everybody least,Computers,Houston,116,21,743.27,VND220F792F,2026-02-03,Active
+ASTAB9AA9FD,walk total,Machinery,Chicago,53,7,554.11,VND44174C92,2025-03-13,Active
+AST9BB8BFFE,recognize somebody,Vehicles,San Antonio,78,22,985.03,VND0CE75C53,2025-05-20,Active
+AST12F1540E,audience worry,Machinery,San Antonio,44,4,623.34,VNDB732CC31,2026-07-25,Active
+ASTF9A54290,perform reality,Infrastructure,Los Angeles,31,5,94.23,VND2AF9B25B,2025-09-10,Active
+AST46847BFF,hard large,Computers,San Diego,67,17,961.54,VND448E4836,2025-09-23,Active
+ASTBCA7FC59,pick modern,Infrastructure,Dallas,132,29,411.21,VND8CAEB48D,2024-09-21,Active
+AST98DFDC21,those surface,Tools,Houston,94,26,226.58,VND9EBB9EB2,2024-07-22,Active
+AST5FE61116,commercial various,Tools,San Antonio,156,38,159.46,VND3A746CBD,2025-04-19,Discontinued
+ASTBC813CBC,measure wife,Machinery,Houston,77,20,869.95,VNDF7A9FFF9,2024-09-27,Active
+ASTCBA18B82,senior art,Vehicles,Dallas,55,5,692.35,VND4520F17A,2025-09-12,Active
+AST324B7E1F,player so,Tools,New York,112,30,76.21,VND417BDCE6,2026-02-23,Active
+ASTED0DAF86,campaign talk,Furniture,Chicago,71,14,876.24,VND63A70F54,2025-07-11,Active
+ASTCD3BC56B,try church,Machinery,Los Angeles,165,26,976.32,VNDB8A208B5,2025-03-01,Active
+AST98829A47,today exactly,Vehicles,Houston,70,17,588.28,VNDB598AD91,2025-11-14,Low Stock
+AST47449481,wish maybe,Computers,Los Angeles,160,18,71.51,VND34264845,2026-05-18,Active
+ASTD637ED8E,gas sign,Vehicles,San Diego,103,24,483.75,VNDD74D095B,2026-01-10,Active
+ASTA536B13E,base usually,Furniture,Houston,116,20,997.73,VND79774EB1,2024-10-23,Active
+ASTC252FF3E,discuss enter,Vehicles,Austin,32,6,212.03,VND1FA33A03,2024-02-16,Active
+AST5731AABC,ever artist,Infrastructure,Philadelphia,132,14,449.13,VNDF909C443,2024-07-14,Active
+AST02A93803,often near,Furniture,Los Angeles,105,19,88.39,VND34264845,2026-07-14,Active
+AST12473274,end along,Computers,San Diego,104,27,540.54,VND65B60718,2024-01-15,Active
+ASTF16DB67D,might upon,Furniture,Chicago,43,9,848.23,VND3FC620C0,2024-07-20,Active
+AST29E1C78C,another subject,Furniture,Jacksonville,169,32,832.68,VND03F2A471,2024-12-14,Active
+ASTF3524CCE,education pull,Furniture,Austin,100,24,20.38,VND8BC82E76,2025-05-01,Active
+AST9E22E507,truth letter,Tools,San Diego,109,13,746.51,VND0D050C25,2024-01-20,Active
+AST2163EF1E,car side,Vehicles,Houston,79,9,994.27,VNDA957A7D0,2024-05-03,Active
+AST0AD0E5A5,statement wrong,Furniture,Austin,106,14,112.28,VNDF7742C98,2024-07-17,Active
+AST371FE039,decade police,Machinery,Jacksonville,101,25,974.94,VND4EC61792,2024-01-23,Active
+AST13D7629E,part occur,Furniture,Los Angeles,159,22,562.24,VND894C6368,2025-11-06,Discontinued
+AST8C262D84,boy reflect,Machinery,San Jose,114,14,549.02,VND7290C297,2026-04-10,Active
+ASTC20F65D0,government three,Computers,Chicago,86,21,500.62,VND3A746CBD,2024-06-19,Active
+AST8EF536B9,particular mention,Vehicles,San Antonio,168,42,205.78,VND4A2B2E76,2024-11-26,Active
+AST22AF28D4,drug buy,Computers,Jacksonville,125,27,197.73,VNDD6D686D6,2025-01-19,Active
+AST3A8DBDA4,politics give,Tools,San Antonio,79,13,471.22,VND4706504E,2026-02-22,Active
+ASTFCD8532B,election expect,Tools,Austin,33,6,386.21,VND3FC620C0,2026-02-24,Active
+AST714BFAFB,wear number,Infrastructure,San Diego,8,1,859.84,VNDB1228DD8,2025-01-28,Active
+AST4BD12032,he item,Machinery,Jacksonville,69,15,389.19,VND616471F8,2025-06-17,Active
+AST86843B10,best long,Vehicles,Philadelphia,25,5,662.1,VND507751E2,2025-02-21,Active
+AST9B334562,trade western,Tools,San Diego,22,6,643.57,VND86F10A10,2024-11-07,Discontinued
+AST10F10CC0,until drive,Tools,New York,172,30,276.26,VND275CA511,2026-06-06,Active
+AST00362C5B,middle nice,Infrastructure,Jacksonville,165,33,802.09,VND1199176D,2024-05-22,Low Stock
+AST8A603899,painting television,Machinery,Philadelphia,68,8,14.76,VND466655B2,2024-05-29,Active
+ASTCE0B846F,price why,Machinery,Jacksonville,1,1,774.09,VND466655B2,2025-06-19,Active
+AST3AC0A432,teach indeed,Vehicles,Houston,31,3,858.04,VND2094DBBC,2026-01-13,Low Stock
+AST676B7B5A,expert color,Vehicles,New York,121,32,441.95,VND220F792F,2025-12-12,Active
+AST6B2ED820,bit leave,Infrastructure,San Diego,145,43,930.7,VNDE3830203,2024-03-23,Active
+AST67DFDFCB,report star,Tools,Jacksonville,125,14,622.07,VND3D2A9A3A,2025-12-25,Active
+ASTFAE526F8,along so,Vehicles,Austin,144,23,442.86,VND1A32B030,2024-03-02,Active
+AST235B6C56,go figure,Computers,San Antonio,94,23,436.94,VNDD2BB8334,2025-12-10,Active
+AST45350F8A,property must,Machinery,San Jose,62,9,952.53,VNDD902468E,2024-02-18,Active
+ASTAED7ECE0,move such,Vehicles,Chicago,115,15,846.24,VND8E10A670,2024-05-25,Active
+AST168F26AD,service reality,Infrastructure,Austin,114,16,76.57,VNDB520DAB7,2024-10-29,Active
+AST303459FF,claim short,Computers,Houston,70,14,136.93,VND19CF5E06,2025-04-06,Low Stock
+AST98DBB487,there director,Vehicles,Houston,80,8,714.77,VNDF7A9FFF9,2025-07-05,Active
+ASTCA034793,into address,Vehicles,Chicago,67,8,783.1,VND389A891A,2026-06-13,Active
+AST7E445794,close civil,Vehicles,San Antonio,80,19,990.46,VND3AF51314,2026-01-30,Active
+AST3D3E233D,professor talk,Computers,Dallas,136,17,391.35,VNDB520DAB7,2024-07-27,Active
+ASTCB101B0A,particular technology,Machinery,Chicago,59,7,532.46,VNDDA6D8C81,2024-01-28,Active
+ASTAB16C1FF,true thousand,Machinery,San Jose,181,45,732.32,VNDE6156EFE,2025-02-23,Active
+AST1C1DBE04,should painting,Computers,Jacksonville,129,14,75.7,VNDF909C443,2025-11-16,Active
+AST4AA4792B,one decide,Furniture,Philadelphia,135,18,100.03,VND88584A44,2025-08-28,Active
+ASTC23A890D,Congress media,Furniture,Los Angeles,156,35,587.28,VNDCAF05089,2025-03-28,Active
+ASTFE76E9D4,use husband,Tools,San Diego,121,30,684.4,VND76F0F0E0,2025-07-28,Active
+AST599F1E63,specific as,Vehicles,Jacksonville,79,23,775.44,VND4AFDF46C,2025-01-26,Active
+AST0A153068,read campaign,Infrastructure,New York,150,21,819.33,VNDF10E17A7,2025-12-21,Active
+AST2BE00486,myself issue,Furniture,Phoenix,156,23,247.42,VND49098C56,2025-02-04,Active
+AST70AB0AE9,know certain,Furniture,Dallas,86,23,229.35,VND3AF51314,2026-07-03,Active
+AST1FB394D7,again serve,Infrastructure,San Antonio,57,16,695.27,VNDC178B24A,2026-04-12,Active
+AST3935E448,act chair,Infrastructure,Dallas,81,24,79.88,VND96325CEF,2024-11-11,Active
+ASTA9BF8E60,stage piece,Machinery,Houston,83,14,340.17,VND80A0A536,2026-06-08,Active
+AST24BF6A58,lose phone,Machinery,Austin,152,42,783.52,VNDC995E3B7,2025-08-29,Active
+AST72B5E0E8,response dinner,Machinery,San Antonio,119,25,49.06,VND10335071,2025-10-04,Active
+AST2976B3C1,expect of,Vehicles,San Diego,145,28,317.94,VND6FADEC72,2024-05-22,Active
+AST34658D81,plant song,Tools,Jacksonville,158,42,981.7,VND397FE668,2025-07-06,Active
+AST5A7F3EFB,within teach,Vehicles,San Antonio,1,1,644.04,VND8BC82E76,2025-07-15,Active
+AST2A9AD034,fact huge,Computers,Jacksonville,111,21,64.77,VND7DD7F0E9,2025-03-31,Active
+ASTFBF1E70F,table visit,Tools,Austin,143,42,730.0,VNDF464A966,2025-06-06,Active
+AST3FE45821,international recent,Computers,Jacksonville,143,40,609.05,VND49FA8EB1,2024-05-18,Active
+AST48B2DD77,always author,Infrastructure,Austin,111,16,717.56,VND62396BAB,2024-05-16,Active
+ASTB2CC2AB2,and right,Computers,Philadelphia,18,3,32.75,VND2258ABB1,2025-04-12,Active
+AST5D9B86E0,practice half,Infrastructure,Jacksonville,79,21,625.07,VNDE05F71D7,2026-05-19,Low Stock
+AST0056E96F,decade can,Machinery,Houston,145,25,653.56,VND220F792F,2026-08-08,Active
+ASTC5E5F13A,message college,Infrastructure,Philadelphia,140,31,939.82,VND4D8ED92A,2024-01-21,Active
+AST153A99F0,most seek,Tools,Philadelphia,2,1,899.86,VNDCDB882C0,2026-01-05,Active
+AST37655064,growth together,Vehicles,Chicago,121,23,401.32,VND4F7B00FC,2026-06-11,Active
+AST5A4B4C1E,design pay,Machinery,Philadelphia,39,10,357.5,VND1A32B030,2024-05-13,Active
+AST07D854F3,mouth side,Furniture,San Diego,106,29,837.92,VNDD902468E,2024-03-21,Active
+AST4443BFBC,or place,Vehicles,Phoenix,19,4,267.3,VND76F0F0E0,2024-09-14,Active
+AST9852D53D,always soon,Vehicles,Phoenix,78,21,710.87,VND17D7E4DC,2025-09-21,Discontinued
+ASTC6429E98,him production,Infrastructure,Philadelphia,94,11,537.38,VND1199176D,2025-03-09,Active
+AST2D72DDCC,miss person,Tools,Austin,96,10,211.67,VND86F10A10,2025-10-20,Active
+ASTB527B894,direction already,Vehicles,Dallas,12,3,674.31,VND96325CEF,2025-08-09,Active
+AST99052509,employee so,Infrastructure,Philadelphia,61,7,767.47,VND7B4F5D31,2025-12-09,Active
+AST4AE3F7F0,else interesting,Infrastructure,Austin,1,1,910.27,VND8C1D087C,2024-01-11,Active
+ASTB3C2400D,wait statement,Infrastructure,Chicago,109,32,873.77,VND190C8D31,2024-02-09,Active
+AST9FBED3D0,court young,Infrastructure,Dallas,142,14,135.48,VND37AB5C39,2025-08-11,Active
+AST3B384199,choice ago,Tools,Chicago,127,30,54.93,VND4520F17A,2025-05-04,Active
+AST518724CA,movement new,Tools,San Diego,143,25,660.31,VND3A746CBD,2025-08-23,Active
+ASTDE894DC3,policy myself,Machinery,Austin,93,17,389.3,VND76F0F0E0,2024-09-12,Low Stock
+AST318126E9,against speak,Infrastructure,Dallas,112,21,532.39,VNDAADD0D4D,2025-11-09,Active
+AST027B9682,could nature,Tools,Dallas,95,21,398.4,VND8539FA55,2025-02-16,Active
+ASTA176B75C,military less,Computers,Dallas,79,21,168.61,VND4DC2D394,2024-08-30,Active
+AST4440A8B3,his firm,Furniture,San Jose,92,17,732.47,VNDE3830203,2024-11-20,Active
+AST38A0158D,act event,Machinery,San Diego,117,29,818.46,VNDE6156EFE,2025-11-27,Active
+AST9416A431,management again,Furniture,Houston,71,17,653.58,VND417BDCE6,2024-03-13,Discontinued
+ASTA7B733E2,international great,Infrastructure,Austin,74,11,856.36,VNDE05F71D7,2025-12-04,Low Stock
+AST5540A940,mention blue,Tools,Los Angeles,121,17,103.75,VNDB1228DD8,2025-12-02,Active
+AST669D9AA3,cup will,Tools,Los Angeles,208,40,49.33,VNDC178B24A,2026-04-25,Active
+AST43589343,I life,Vehicles,San Antonio,217,61,136.63,VNDA74DADEC,2024-03-04,Active
+AST64C3EAB9,food cup,Infrastructure,New York,194,33,426.72,VNDB732CC31,2024-10-25,Active
+ASTBBC8B543,defense necessary,Infrastructure,Jacksonville,58,6,555.7,VND4DC2D394,2026-08-01,Discontinued
+AST8E2255FF,instead method,Tools,Chicago,271,45,725.94,VND0CE75C53,2024-05-17,Active
+AST3A7A42C1,goal sister,Machinery,Los Angeles,124,16,539.96,VNDC4092504,2025-07-11,Low Stock
+AST09EA6C2E,pressure behavior,Tools,San Diego,130,24,765.04,VND07F575C8,2026-04-10,Active
+AST9CB0B8D8,coach as,Vehicles,Phoenix,62,8,798.34,VNDD2BB8334,2024-11-25,Active
+ASTE1D00435,still just,Computers,San Diego,94,21,755.68,VND67D32B2F,2024-08-12,Active
+AST86AC281F,discussion finish,Computers,Dallas,104,18,556.53,VND466655B2,2026-03-09,Active
+ASTBA58646D,poor pick,Vehicles,Jacksonville,64,12,403.33,VND397FE668,2024-09-15,Active
+AST2ADDD529,all firm,Tools,Austin,4,1,754.51,VND6FADEC72,2026-02-07,Active
+ASTB4D2ADAF,lose quite,Vehicles,Chicago,143,37,412.45,VNDF5F231C0,2024-02-02,Active
+ASTF5F89515,control service,Infrastructure,Phoenix,57,12,197.85,VNDD24A1BC5,2024-11-27,Active
+AST6D03DA87,voice husband,Machinery,Houston,79,15,428.05,VNDB3180A0E,2024-06-03,Active
+AST8A347E29,old simply,Furniture,San Diego,128,20,710.28,VNDB520DAB7,2024-10-09,Discontinued
+AST88F24AA1,cut he,Furniture,Austin,102,26,143.81,VNDBA0CC89B,2024-12-29,Active
+AST84A15FCD,relationship song,Tools,Phoenix,47,13,319.42,VND8C1D087C,2024-04-17,Active
+ASTB3669649,marriage believe,Vehicles,Houston,67,10,210.25,VNDBC15E50D,2024-08-15,Active
+AST8413B61E,range go,Vehicles,Los Angeles,210,62,318.78,VND3FC620C0,2024-10-05,Discontinued
+AST9E639F71,another sort,Vehicles,Austin,1,1,577.79,VND4AFDF46C,2025-04-14,Active
+AST94230478,modern it,Vehicles,Los Angeles,135,30,996.66,VND57CA31A1,2025-09-23,Active
+AST771E2499,economy work,Furniture,Los Angeles,82,18,858.96,VND0300765D,2025-04-09,Active
+AST4123662C,meet bed,Computers,Philadelphia,113,19,824.25,VND7B4F5D31,2024-11-29,Discontinued
+AST5FBC0506,focus political,Vehicles,San Jose,75,10,182.56,VNDB1228DD8,2025-04-18,Active
+AST84F16D65,player matter,Vehicles,Phoenix,94,24,188.76,VND2500CE76,2025-06-06,Active
+AST56288707,into responsibility,Vehicles,Los Angeles,83,22,228.98,VND03F2A471,2025-11-04,Active
+AST0A308BCF,former month,Tools,Phoenix,10,2,229.8,VND10335071,2025-12-26,Active
+AST034327B9,best company,Machinery,Dallas,117,15,712.31,VND8CAEB48D,2025-08-30,Active
+AST0A09DA86,ball daughter,Tools,Dallas,122,13,710.56,VNDBA0CC89B,2025-03-01,Discontinued
+AST10779C66,adult second,Tools,San Antonio,3,1,14.48,VND6F35B3AD,2024-05-23,Active
+ASTDA435BCC,less since,Furniture,New York,133,30,240.23,VND4EDF116C,2025-02-04,Active
+AST648848D2,base policy,Computers,San Diego,25,4,754.88,VND1DF449E3,2026-06-09,Low Stock
+ASTB91BCEE4,will marriage,Vehicles,Houston,147,30,926.33,VND275CA511,2026-04-27,Active
+ASTB94639BB,speak necessary,Computers,Philadelphia,174,37,756.16,VND7DD7F0E9,2025-04-11,Active
+AST8A9673F0,drug region,Infrastructure,Los Angeles,18,3,850.17,VND38095B8C,2025-06-26,Low Stock
+ASTCD477464,let agent,Computers,Dallas,103,13,20.43,VND9E3DBA67,2024-08-09,Active
+AST91A11C3B,term have,Infrastructure,Chicago,65,16,758.22,VND63A70F54,2024-10-30,Active
+AST4FC49F3A,body out,Computers,San Diego,108,23,644.74,VND27D705EA,2024-09-28,Active
+AST7953A26C,information street,Furniture,New York,61,11,506.11,VND3B5BB0BC,2024-03-23,Active
+ASTC15C2B8C,trouble five,Machinery,Jacksonville,107,28,726.85,VND1A32B030,2025-07-13,Active
+AST378DBC6F,culture card,Infrastructure,Phoenix,111,17,56.98,VND8BC82E76,2025-09-17,Active
+AST76617667,because beat,Infrastructure,Phoenix,151,41,471.54,VNDF9F92F21,2024-07-14,Active
+ASTFC53B7FC,beat memory,Vehicles,Dallas,20,2,639.33,VND0300765D,2024-12-19,Active
+AST97EA2BEC,class nation,Machinery,Austin,12,1,147.17,VND09F13EB7,2025-06-21,Active
+AST04A98654,last already,Tools,Los Angeles,113,15,936.53,VND5B2EC8F1,2026-05-04,Active
+AST77C3B30F,upon day,Vehicles,San Diego,99,14,264.29,VND048CF2D5,2025-12-16,Discontinued
+AST8F431639,spend lawyer,Tools,Houston,40,5,390.15,VND048CF2D5,2026-03-08,Active
+AST606B20C1,spring them,Machinery,Austin,34,9,347.76,VND27D705EA,2025-08-18,Active
+ASTE9BE11BB,single money,Computers,Houston,59,8,679.0,VNDCAF05089,2026-07-02,Active
+AST9772CB4D,game term,Vehicles,Jacksonville,54,14,730.47,VND49FA8EB1,2025-09-18,Active
+ASTEC425788,piece alone,Computers,Houston,67,10,525.8,VND048CF2D5,2026-05-29,Active
+AST44B6D38D,example because,Computers,Dallas,124,18,520.51,VND34264845,2026-07-10,Active
+AST7C7891D2,service provide,Vehicles,San Diego,150,35,634.66,VNDF981F27F,2026-07-16,Active
+AST28F41117,few line,Tools,Dallas,102,10,815.82,VND4520F17A,2024-07-03,Low Stock
+ASTA6C5E973,boy research,Machinery,Austin,48,10,220.13,VNDFDC347F6,2025-07-06,Active
+ASTEF03AADD,feeling key,Vehicles,Austin,116,17,428.53,VND79774EB1,2024-08-24,Active
+AST041A616F,husband central,Computers,Los Angeles,203,34,306.2,VND389A891A,2024-03-13,Active
+AST149A7713,five dog,Computers,Austin,112,30,862.9,VND6FADEC72,2026-01-21,Active
+ASTF0178063,such wish,Furniture,Jacksonville,70,13,112.87,VND7A22016F,2025-08-27,Active
+ASTEC30ADAB,west environment,Tools,Chicago,57,13,874.33,VND2D25DD42,2026-04-14,Active
+AST97880B4F,push surface,Tools,New York,94,11,536.25,VND8E10A670,2025-12-17,Active
+ASTB749CCCC,exactly authority,Infrastructure,Chicago,56,12,101.23,VND1C52ED63,2025-10-08,Active
+ASTE761E868,wear chance,Furniture,San Jose,96,20,416.68,VND020FD5AF,2024-06-08,Active
+AST36840E28,age director,Furniture,Jacksonville,37,4,723.16,VND18221D96,2026-07-05,Active
+AST48912F5E,true child,Machinery,San Antonio,89,12,774.39,VNDF7A9FFF9,2025-06-17,Active
+AST3A510CB2,no tell,Machinery,San Antonio,44,8,196.64,VNDD2BB8334,2024-02-18,Active
+AST0A11DDB0,nice through,Furniture,Phoenix,83,11,686.21,VND1306F6E1,2026-05-03,Active
+AST389F0C44,thank land,Furniture,San Antonio,144,24,437.8,VNDB598AD91,2025-02-13,Active
+AST229AADB8,citizen nearly,Furniture,Austin,69,18,525.38,VND489E103A,2026-03-07,Active
+AST10381082,single enough,Tools,San Antonio,163,39,190.1,VND768A7583,2026-05-17,Low Stock
+AST3BDEDDBC,would rest,Vehicles,Los Angeles,68,16,749.56,VNDE05F71D7,2025-02-26,Active
+ASTEC348554,actually enter,Computers,San Diego,83,15,661.1,VND7DD7F0E9,2024-07-13,Active
+AST3A8AF9F6,us with,Vehicles,Austin,72,16,664.52,VND29251C8F,2025-01-28,Active
+AST331CB9DE,region always,Infrastructure,Jacksonville,57,16,108.53,VND7DD7F0E9,2025-06-15,Active
+ASTC3A57E42,baby cause,Infrastructure,Philadelphia,64,18,589.98,VNDA6643FA7,2026-04-22,Active
+AST2C043184,want present,Computers,Phoenix,37,6,449.31,VNDFDC347F6,2024-03-30,Active
+ASTEB343BFE,question where,Infrastructure,Philadelphia,99,17,163.0,VND672E91CF,2024-01-30,Active
+ASTCA644D65,space green,Tools,New York,156,37,763.9,VNDA6643FA7,2024-05-07,Discontinued
+AST04C62AE3,nor cost,Furniture,Austin,160,42,808.05,VND557FD788,2026-05-10,Active
+AST853BFA31,site arm,Furniture,Austin,95,10,293.71,VNDD74D095B,2026-06-25,Active
+ASTDB901C9E,certain difference,Vehicles,Philadelphia,147,15,946.8,VND97E5802F,2026-01-15,Active
+AST17CA55E3,none western,Computers,Chicago,118,30,459.49,VNDD95DB1B7,2026-03-07,Active
+AST998E2FEC,section away,Machinery,Dallas,151,28,311.25,VNDF10E17A7,2025-05-27,Discontinued
+AST91A5EA2F,little that,Computers,Jacksonville,102,10,630.06,VND448E4836,2025-02-12,Discontinued
+ASTA4BD72E7,former recently,Vehicles,Houston,118,34,278.86,VNDA402B738,2026-06-09,Active
+ASTDD41D392,four ball,Furniture,Philadelphia,50,10,590.5,VND1DF7F1DC,2024-08-31,Low Stock
+AST3330C3BC,hotel point,Tools,Los Angeles,91,12,153.27,VND66F3A422,2025-05-19,Active
+AST382595A0,bill happen,Infrastructure,Phoenix,53,13,263.06,VND111F855A,2024-04-27,Active
+AST78B3AF3D,magazine power,Vehicles,New York,126,25,166.23,VND1DF7F1DC,2026-04-13,Active
+ASTA7385B0C,program mind,Vehicles,Los Angeles,29,3,431.58,VND1306F6E1,2025-11-25,Active
+AST7BBBB755,expect must,Furniture,Austin,101,12,920.71,VND80A0A536,2024-02-23,Active
+AST6B37B308,across likely,Computers,San Antonio,80,9,590.16,VNDC995E3B7,2026-07-19,Active
+AST0587C7E8,cold huge,Tools,Dallas,107,26,175.64,VND44174C92,2025-04-03,Active
+AST47334A8E,ready strong,Vehicles,Chicago,109,29,220.36,VNDCE923A65,2024-10-31,Active
+ASTA8D108D4,business bring,Vehicles,San Antonio,149,41,542.84,VND0CE75C53,2026-08-03,Active
+ASTB1BE6926,miss long,Vehicles,San Diego,79,17,380.63,VNDDFDF8860,2025-03-30,Active
+AST124A831B,why our,Machinery,Phoenix,43,5,308.68,VND18221D96,2025-09-01,Low Stock
+ASTC9A42108,individual sister,Furniture,New York,43,6,954.68,VNDA0E8AF6C,2025-11-21,Low Stock
+AST06F38688,however forget,Machinery,Los Angeles,213,29,827.7,VND999ED598,2026-02-18,Active
+AST4E8D3B60,window another,Furniture,Los Angeles,109,29,494.91,VND1DF449E3,2024-04-24,Discontinued
+ASTC17E0199,product fly,Vehicles,New York,37,7,711.71,VND557FD788,2026-06-17,Active
+AST5DFD2D45,third summer,Tools,Los Angeles,84,22,303.7,VND4706504E,2025-06-01,Active
+ASTE5FFA937,organization like,Vehicles,San Antonio,88,13,375.48,VNDF08F6829,2025-10-22,Discontinued
+AST335DD541,middle your,Machinery,Dallas,130,31,574.01,VND1DF449E3,2024-11-06,Active
+AST3DD2353B,first bit,Tools,Chicago,130,26,847.75,VNDCFB6DC09,2025-12-26,Active
+ASTBAED0D9C,fire law,Tools,Chicago,132,28,904.71,VND2258ABB1,2025-04-07,Active
+ASTBB40A1A7,tonight still,Vehicles,San Diego,112,32,159.33,VND67D32B2F,2025-10-30,Active
+ASTDE9E168D,society fear,Computers,Houston,89,17,619.8,VND8539FA55,2025-01-27,Active
+AST0F825CB6,relate under,Vehicles,New York,168,36,325.98,VND86F10A10,2026-06-07,Active
+AST57D852A2,my parent,Machinery,San Diego,67,8,320.18,VNDF549E284,2025-06-24,Active
+AST78CDD323,receive others,Computers,Dallas,77,8,333.88,VND6B54C68D,2024-10-21,Active
+AST201B13E7,full sign,Infrastructure,Jacksonville,51,14,336.21,VND27D705EA,2026-04-02,Active
+AST03760554,camera house,Furniture,Phoenix,83,18,648.86,VND6121FB48,2024-05-16,Low Stock
+AST7C6C51E4,maybe seek,Infrastructure,Dallas,124,20,210.76,VND4EA7F305,2025-09-26,Active
+AST40254178,bring involve,Tools,Chicago,28,6,98.92,VND96325CEF,2026-06-28,Active
+ASTB46227C1,instead car,Computers,Philadelphia,59,17,614.26,VND63A70F54,2026-04-30,Active
+AST001C4BDF,people personal,Machinery,San Antonio,148,30,971.61,VND38095B8C,2024-11-25,Active
+ASTE380DEF8,pretty picture,Furniture,Dallas,52,14,94.79,VND03F2A471,2024-12-19,Active
+ASTB7C1A03A,yourself big,Tools,Los Angeles,218,23,330.73,VND27D705EA,2025-01-13,Active
+ASTD94666EF,growth last,Machinery,San Antonio,166,38,688.58,VND03F2A471,2026-02-07,Active
+AST0AD3F35F,hit particular,Computers,Austin,40,11,488.73,VND6B54C68D,2025-11-05,Active
+AST45400152,score hotel,Furniture,Jacksonville,176,32,49.75,VNDAB26D618,2026-03-24,Low Stock
+AST588552EA,list run,Infrastructure,San Jose,1,1,430.81,VND76746C6A,2024-09-08,Low Stock
+AST4711603A,hit treat,Computers,San Antonio,72,14,146.56,VND9EBB9EB2,2026-05-24,Active
+AST6EF33045,improve wish,Tools,San Diego,151,33,892.39,VND2258ABB1,2025-11-09,Active
+AST09B6631C,but factor,Computers,Austin,144,16,108.55,VND44174C92,2025-01-27,Active
+AST66B09D29,least reduce,Machinery,New York,106,19,100.42,VND22E4CBF8,2025-07-10,Active
+AST6213C38F,me popular,Vehicles,Austin,1,1,333.37,VND0D050C25,2024-12-04,Active
+AST63215C5C,pull writer,Computers,New York,115,31,489.96,VNDFDC347F6,2024-03-01,Active
+AST7235FA59,couple key,Furniture,New York,157,26,334.33,VND6F35B3AD,2025-11-07,Low Stock
+AST6C35075C,various ball,Infrastructure,Philadelphia,99,20,21.7,VND08CE8CA7,2024-02-28,Active
+ASTEB1E7F65,foot never,Furniture,Philadelphia,45,11,153.08,VND3A746CBD,2024-05-14,Active
+ASTDAADD6EB,suddenly spring,Computers,Chicago,123,18,179.41,VND2D25DD42,2026-03-03,Active
+ASTA8990617,teach opportunity,Machinery,Chicago,31,8,680.37,VNDF5F231C0,2024-07-22,Active
+ASTA43335A1,stay agree,Machinery,Houston,77,18,225.86,VND7B4F5D31,2025-10-06,Active
+AST10CE1B02,visit raise,Machinery,Phoenix,74,14,428.32,VNDCAE263CC,2025-08-16,Active
+AST1025D682,old hour,Computers,New York,27,4,901.37,VND76746C6A,2026-06-08,Active
+AST395D7F73,similar support,Infrastructure,San Diego,107,21,129.8,VND6121FB48,2024-02-01,Active
+AST7AF93976,blood national,Vehicles,Dallas,180,38,425.01,VND590E7C93,2025-01-24,Active
+AST1C0DB8E5,or collection,Infrastructure,Houston,106,31,206.08,VNDE3830203,2025-10-15,Active
+AST2C9C7940,reason stock,Machinery,Austin,75,11,461.03,VNDD95DB1B7,2026-03-10,Active
+ASTD99303A5,machine trip,Infrastructure,San Antonio,50,14,55.44,VND1DF449E3,2024-07-21,Active
+AST9128D912,will answer,Machinery,Houston,118,19,427.37,VND79774EB1,2024-11-16,Discontinued
+ASTCB824219,accept art,Machinery,San Antonio,176,50,106.54,VND4706504E,2026-03-16,Active
+ASTC9B5309B,staff product,Furniture,Austin,87,18,899.4,VND4F7B00FC,2024-10-21,Active
+ASTF865D5C6,customer hundred,Furniture,Houston,14,2,814.24,VND1A73FC33,2024-06-21,Active
+ASTB44FEC11,beyond two,Vehicles,Houston,86,16,868.06,VND08CE8CA7,2024-06-21,Low Stock
+AST5A1BC512,claim bring,Vehicles,Chicago,77,13,620.79,VNDF7742C98,2024-05-13,Active
+AST80C81494,control hit,Infrastructure,San Diego,131,21,23.95,VNDF5F231C0,2025-08-24,Active
+AST07F1AE29,team people,Tools,Houston,105,29,13.65,VND76746C6A,2024-07-09,Active
+ASTAD2102CD,successful visit,Furniture,San Antonio,58,12,792.63,VND2986F777,2025-02-26,Low Stock
+ASTDE2EFEF9,Mr woman,Vehicles,Phoenix,1,1,919.81,VND5FBBF7E5,2025-10-08,Active
+ASTA6462252,both prevent,Machinery,Houston,218,50,761.05,VNDF9F92F21,2025-03-28,Active
+AST346FFBA1,lawyer staff,Furniture,Phoenix,79,22,153.62,VNDE13413E5,2025-07-28,Active
+AST8F51AC88,not line,Computers,Houston,149,36,225.39,VND36436386,2024-04-05,Active
+AST480C1EC4,approach he,Computers,San Jose,139,15,59.81,VNDF5F231C0,2026-01-19,Active
+AST03BE3DF2,too beautiful,Furniture,Dallas,130,28,685.7,VNDCFB6DC09,2025-08-18,Active
+AST5B5AFDFC,better boy,Furniture,Chicago,177,18,33.68,VNDF549E284,2025-04-08,Active
+AST3566419A,huge century,Vehicles,New York,84,14,219.78,VNDAAF2A28A,2025-06-07,Active
+ASTE120EB5F,nation network,Furniture,Houston,58,8,641.42,VND27CBAF37,2024-04-29,Active
+ASTCE355D1C,report see,Tools,San Antonio,81,12,357.07,VND768A7583,2024-12-26,Low Stock
+ASTCCEB5912,some me,Tools,San Diego,155,28,24.18,VND672E91CF,2026-01-23,Active
+AST495D1E9F,quickly condition,Tools,San Diego,164,27,463.32,VND417BDCE6,2024-09-07,Active
+AST50B9A592,of agree,Computers,San Jose,69,17,553.85,VND154E8965,2024-03-31,Active
+AST9078356D,tell practice,Furniture,Los Angeles,125,24,777.86,VNDAEE88F85,2025-09-22,Active
+AST4701997D,those run,Tools,Dallas,74,19,38.73,VND0A251297,2024-08-28,Active
+AST8651F7C4,former break,Computers,Jacksonville,72,16,248.55,VND111F855A,2026-03-10,Active
+ASTA4E78720,past they,Computers,Dallas,88,25,263.04,VNDEB6F8ED3,2026-02-09,Active
+AST06768195,reach address,Furniture,San Antonio,31,7,859.15,VND80A0A536,2025-06-02,Active
+AST107777A0,skin structure,Furniture,Chicago,83,8,662.14,VND66028154,2026-03-07,Active
+ASTE8B658F8,account cultural,Infrastructure,Philadelphia,188,42,410.09,VND109E5C6F,2025-07-21,Active
+ASTD0C2B991,art firm,Vehicles,Phoenix,129,36,358.43,VNDE05F71D7,2026-05-26,Low Stock
+AST368B3E4A,whom somebody,Vehicles,New York,115,30,932.01,VND557FD788,2025-06-14,Active
+AST3F5EDBB7,painting small,Tools,Dallas,71,17,729.01,VND616471F8,2025-07-15,Active
+ASTDE2E3DE9,security can,Infrastructure,Los Angeles,118,20,272.41,VND9724A5FF,2024-05-18,Active
+ASTB492CEE1,billion price,Machinery,Houston,28,6,906.34,VNDA0E8AF6C,2025-07-19,Active
+ASTB2F7A768,hold risk,Infrastructure,Phoenix,122,21,154.86,VNDAD897EA3,2024-10-03,Active
+AST25D1676D,may leg,Machinery,Philadelphia,175,50,340.22,VND2094DBBC,2025-02-25,Active
+ASTBD05CEDA,brother eight,Machinery,San Diego,11,3,344.63,VND768A7583,2024-12-18,Active
+ASTCEAE6927,response itself,Tools,Austin,128,37,553.97,VND08CE8CA7,2025-04-11,Active
+ASTA43597F2,population learn,Vehicles,Los Angeles,150,22,877.65,VND4F7B00FC,2024-10-11,Active
+ASTD28FF96E,name exactly,Tools,Phoenix,57,8,65.5,VNDE1A395FA,2025-12-24,Active
+AST760476D6,suggest ten,Infrastructure,Los Angeles,77,18,314.25,VNDB3180A0E,2025-09-15,Active
+ASTBF039625,our to,Infrastructure,New York,52,5,639.4,VND859AA544,2025-04-11,Active
+AST743C6BB9,way term,Tools,New York,171,20,434.66,VND36436386,2024-10-30,Active
+ASTFBA17035,difficult crime,Tools,San Antonio,55,7,947.41,VND5B2EC8F1,2025-11-20,Active
+AST821E6EAE,describe beat,Machinery,Phoenix,58,5,775.79,VND27CBAF37,2025-07-02,Active
+AST406DE1DD,continue art,Furniture,Phoenix,57,12,317.72,VNDD95DB1B7,2025-12-04,Active
+ASTBE1C539F,bag always,Machinery,San Antonio,169,22,153.01,VNDEA23339B,2025-02-25,Active
+ASTFE25CCFE,maybe start,Infrastructure,Los Angeles,248,37,560.7,VND8539FA55,2026-03-13,Active
+AST4C16C14A,everybody property,Vehicles,San Antonio,96,25,690.68,VND2FE40F33,2025-07-25,Active
+AST38CAC40E,life money,Tools,San Antonio,30,3,800.47,VND0CE75C53,2025-11-06,Active
+ASTA61CBEBE,factor month,Tools,San Antonio,90,15,297.82,VND3AF51314,2026-06-29,Active
+ASTE5D0695A,listen office,Furniture,Philadelphia,49,9,645.15,VNDE4298A7B,2025-06-26,Active
+ASTD4540B65,foot card,Vehicles,Jacksonville,194,54,772.34,VND768A7583,2025-09-27,Active
+AST66CADED4,because end,Vehicles,New York,52,10,122.62,VNDAD897EA3,2026-01-19,Active
+ASTB671CFA2,take story,Infrastructure,San Antonio,38,7,951.2,VNDEA23339B,2024-06-05,Active
+ASTC4876D7C,agree place,Infrastructure,Dallas,108,26,172.45,VND23FDC749,2025-01-29,Active
+AST64B6999F,medical reason,Machinery,San Diego,214,52,229.97,VND3B5BB0BC,2024-11-11,Active
+AST2995DB5D,build too,Computers,Austin,150,16,975.49,VNDA957A7D0,2026-04-24,Active
+AST95D140E4,court receive,Furniture,Jacksonville,105,16,995.03,VNDBC15E50D,2026-06-28,Active
+ASTDA643809,say begin,Computers,Chicago,89,22,285.87,VND19CF5E06,2025-10-18,Active
+ASTA7262C76,trial include,Furniture,Austin,121,15,680.66,VNDF545674F,2024-03-15,Active
+AST35006E91,doctor parent,Computers,Philadelphia,88,11,813.46,VND389A891A,2025-06-17,Discontinued
+ASTCA63D12E,life interview,Computers,Dallas,52,13,258.52,VNDAE27E9B6,2024-11-09,Active
+ASTAFA212CB,other pull,Infrastructure,San Jose,172,19,926.34,VNDEA23339B,2025-01-26,Active
+AST9D5182CA,wait next,Machinery,Philadelphia,145,16,258.68,VND221D1C44,2026-03-05,Active
+AST56822E50,pattern building,Computers,Jacksonville,93,27,783.19,VND27D705EA,2025-11-04,Active
+AST86E0256A,improve card,Computers,San Diego,74,11,833.33,VND3D2A9A3A,2026-06-24,Active
+AST30997EDD,difference different,Machinery,Phoenix,86,16,650.55,VND894C6368,2025-10-26,Active
+AST0D1430C9,forget floor,Infrastructure,New York,77,13,617.07,VND4706504E,2025-05-19,Active
+AST970AE3F4,back often,Furniture,Los Angeles,116,14,181.49,VND6ACF147A,2024-08-20,Discontinued
+ASTBA49841A,company generation,Infrastructure,Los Angeles,1,1,160.42,VND80A0A536,2025-12-07,Active
+AST6CFC994F,success series,Furniture,San Jose,134,14,371.48,VND650A3AAA,2024-10-21,Active
+AST42EC8F28,happy determine,Machinery,San Jose,129,25,129.7,VND80A0A536,2024-06-23,Active
+AST79D97719,until environment,Machinery,Austin,104,29,164.86,VND365E2FC5,2026-03-04,Active
+ASTE5F23015,just data,Tools,San Diego,146,18,759.82,VND275CA511,2025-09-14,Active
+ASTB5012726,cut by,Furniture,Austin,97,19,422.35,VND03F2A471,2024-07-06,Active
+ASTCC4997BF,area you,Furniture,Austin,143,26,547.47,VND417BDCE6,2025-02-12,Active
+ASTA6C1E700,each by,Furniture,San Antonio,127,21,27.64,VND365E2FC5,2026-02-16,Active
+AST77B16868,yeah compare,Vehicles,Austin,105,30,522.64,VND66F3A422,2024-08-21,Active
+AST7392153C,effort edge,Infrastructure,Los Angeles,48,12,608.67,VND8C1D087C,2025-07-26,Discontinued
+AST1F3FC195,up join,Computers,Jacksonville,225,58,82.96,VND9724A5FF,2025-12-12,Active
+AST948528E3,edge hour,Computers,Houston,70,17,199.21,VND7A22016F,2024-04-30,Active
+ASTA556C908,near story,Furniture,Philadelphia,172,42,442.42,VNDAEE88F85,2026-03-20,Active
+ASTF7B0210E,loss near,Tools,Jacksonville,189,52,791.39,VND6F35B3AD,2024-07-28,Active
+AST2080B256,face like,Computers,New York,196,38,716.42,VNDD902468E,2024-01-19,Active
+ASTADB264B8,meeting computer,Vehicles,Los Angeles,111,29,592.0,VNDA74DADEC,2024-04-28,Active
+ASTBDDDCE19,green water,Furniture,Phoenix,169,30,61.83,VND44174C92,2025-03-14,Active
+AST9F9D8D14,other total,Vehicles,San Diego,100,25,704.94,VNDC4092504,2024-11-23,Active
+AST73385887,any nor,Vehicles,New York,75,7,590.01,VND75832916,2024-06-06,Active
+AST65E2F56D,paper according,Vehicles,Phoenix,66,8,420.05,VNDF9F92F21,2024-12-21,Active
+AST9F2F6F45,care around,Furniture,Los Angeles,26,3,314.15,VND79774EB1,2024-10-31,Discontinued
+AST05A59E52,bank little,Furniture,Dallas,98,20,550.41,VNDCAE263CC,2024-05-12,Active
+AST73482C8E,action watch,Computers,Houston,102,17,398.47,VNDA957A7D0,2025-04-15,Active
+AST8D94849C,school nation,Vehicles,San Diego,173,51,389.5,VND07A84740,2024-04-12,Active
+ASTDE84BC39,risk rich,Machinery,New York,62,15,538.95,VND220F792F,2024-03-29,Active
+AST8A221863,suddenly among,Infrastructure,Philadelphia,84,8,943.75,VND62396BAB,2025-10-09,Active
+AST16EB3E97,no poor,Vehicles,Los Angeles,68,15,519.5,VND66F3A422,2025-06-02,Active
+AST31852AD9,respond end,Computers,Dallas,121,13,940.28,VNDAE27E9B6,2024-09-04,Active
+AST6D72D4A3,sign dinner,Tools,Jacksonville,129,14,116.52,VND27CBAF37,2024-10-12,Active
+AST2830C5D8,save lose,Machinery,San Jose,111,13,388.02,VND0300765D,2024-12-23,Active
+AST337FD701,would if,Infrastructure,San Antonio,87,19,838.72,VND389A891A,2024-08-13,Low Stock
+AST5D336B29,age buy,Infrastructure,Los Angeles,168,37,632.52,VND1A73FC33,2025-03-07,Active
+AST315413EB,attack table,Computers,Austin,203,41,163.68,VND411B979D,2026-03-03,Active
+ASTCCDABC38,four about,Computers,San Diego,123,29,190.88,VNDF7A9FFF9,2025-01-17,Active
+AST97D8572D,follow between,Infrastructure,Philadelphia,72,17,339.86,VND62396BAB,2024-05-15,Active
+ASTC77C3A02,key party,Tools,San Diego,100,28,854.87,VND76F0F0E0,2025-10-06,Active
+AST1C94D4E2,camera answer,Vehicles,San Diego,64,16,793.19,VNDE3830203,2025-05-23,Active
+AST0767364F,treatment sport,Vehicles,Los Angeles,68,13,914.36,VNDA6643FA7,2025-05-31,Low Stock
+ASTF3315B72,past send,Computers,New York,61,17,218.8,VNDC939E188,2025-05-23,Active
+ASTCF2766DF,whole officer,Vehicles,Dallas,97,17,138.76,VND5B2EC8F1,2024-12-08,Active
+ASTDEB4A0F9,culture leave,Computers,San Antonio,61,12,775.09,VND2986F777,2026-02-18,Low Stock
+ASTB69C02FF,music response,Tools,Jacksonville,137,31,437.22,VNDCE923A65,2024-03-08,Active
+ASTA9ED6586,community use,Furniture,Austin,97,19,813.7,VND97E5802F,2026-06-21,Active
+AST532C45C3,benefit common,Furniture,Houston,102,28,545.47,VND66028154,2024-03-31,Active
+AST6B7A5C1D,bad audience,Infrastructure,Houston,106,18,537.54,VND1FA33A03,2025-01-14,Active
+AST95573AC7,floor exactly,Computers,Philadelphia,96,15,892.96,VNDF5F231C0,2024-10-27,Active
+ASTE642BDB8,wonder show,Furniture,Houston,82,9,737.12,VND4F7B00FC,2025-06-17,Active
+ASTB26DD771,somebody series,Computers,Philadelphia,209,24,526.49,VND09F13EB7,2024-07-21,Active
+AST9C97D86E,turn sit,Infrastructure,Houston,75,18,600.42,VND2D25DD42,2025-12-13,Active
+AST602DDCC0,drug admit,Tools,Houston,98,12,677.49,VND3A80813D,2025-02-20,Active
+AST98A55D63,simply establish,Machinery,Phoenix,180,24,577.0,VND5FBBF7E5,2025-08-18,Active
+AST91E2CC0C,while read,Computers,San Jose,126,29,17.14,VND4520F17A,2025-09-21,Active
+AST88E63FF4,city between,Computers,Jacksonville,44,10,513.86,VND08CE8CA7,2024-10-24,Active
+AST6D8EE9D7,none throughout,Vehicles,Jacksonville,77,22,890.86,VNDAEE88F85,2025-01-05,Active
+ASTDAB57DDE,mouth what,Computers,Dallas,87,18,634.03,VNDC73A3BD4,2024-06-10,Active
+ASTD85AA409,appear although,Computers,Jacksonville,129,21,588.43,VND6C887C82,2025-12-29,Low Stock
+AST3068F30F,rest door,Vehicles,Dallas,79,23,440.88,VND10335071,2025-07-05,Active
+ASTD6B80F40,section them,Computers,Philadelphia,78,18,49.27,VND1DF7F1DC,2025-04-13,Active
+ASTB67D45C9,several house,Machinery,Austin,123,28,850.24,VND36436386,2025-04-17,Active
+ASTFCF509B8,eye for,Tools,Chicago,177,45,93.73,VND76F0F0E0,2024-09-22,Active
+AST74BE7E0B,economy live,Tools,Dallas,135,18,345.94,VND34BC34BC,2024-11-28,Active
+AST7D6B0517,week end,Computers,San Jose,237,67,332.62,VNDDA6D8C81,2025-03-30,Active
+AST91A4E14B,church kid,Machinery,Chicago,92,16,548.13,VND3A746CBD,2024-12-29,Active
+AST2F440D65,check here,Tools,San Jose,171,43,380.96,VND23FDC749,2026-05-19,Active
+AST0DD29D0C,concern simply,Tools,Philadelphia,62,9,775.49,VND1DF7F1DC,2024-08-10,Active
+AST82BDAC97,term off,Computers,New York,23,4,842.05,VND6E96F23C,2025-04-21,Active
+ASTC081DA4B,including look,Computers,San Diego,47,9,786.76,VND0B515B0E,2025-09-06,Active
+AST10C53D67,statement agency,Infrastructure,Chicago,122,34,57.54,VND6E96F23C,2024-12-19,Low Stock
+AST9D2287E2,stop finish,Machinery,Dallas,155,37,794.55,VND1FA33A03,2024-04-05,Active
+ASTB3B3F157,nature season,Furniture,Chicago,91,18,584.03,VND365E2FC5,2024-01-18,Active
+ASTA34B2DD1,name century,Furniture,Philadelphia,124,26,70.43,VND616471F8,2024-06-20,Active
+AST2C8C44A9,quickly itself,Machinery,Houston,66,8,868.41,VND859AA544,2024-07-22,Active
+AST1373C98D,issue wish,Infrastructure,Philadelphia,108,15,762.08,VND1FA33A03,2024-09-08,Active
+AST0082DC7E,time can,Infrastructure,Austin,90,23,643.71,VND29251C8F,2024-07-24,Active
+ASTAD93BA3E,early wide,Infrastructure,San Diego,234,42,972.64,VND27D705EA,2026-05-07,Active
+AST9BAB998E,want party,Machinery,San Jose,100,23,821.88,VNDAB26D618,2025-03-02,Active
+AST3A5A6E2E,since itself,Machinery,New York,30,5,510.71,VND768A7583,2024-11-23,Active
+ASTFED365ED,huge discussion,Infrastructure,Phoenix,100,23,953.24,VND03F2A471,2024-03-12,Active
+AST5C36A5C0,smile with,Computers,New York,77,20,670.77,VND650A3AAA,2024-06-26,Low Stock
+AST7BF48861,customer help,Machinery,Los Angeles,94,10,178.89,VND894C6368,2024-11-20,Active
+AST00E445A0,lay cup,Machinery,Phoenix,37,7,447.87,VND2986F777,2024-11-17,Active
+AST38115A26,road purpose,Computers,Chicago,125,13,862.43,VND439CBBCF,2025-02-13,Active
+ASTF8DC8100,strategy gun,Machinery,San Diego,117,22,498.53,VNDB3180A0E,2025-09-17,Active
+ASTBDA31583,data single,Computers,Houston,90,18,597.49,VND5B2EC8F1,2025-09-06,Active
+AST9A410709,process fire,Machinery,San Diego,118,28,644.85,VND6C887C82,2025-05-11,Active
+ASTAECC4362,evidence rule,Furniture,San Diego,201,20,438.84,VNDBC15E50D,2026-01-14,Active
+AST868EF14D,near better,Tools,Houston,75,16,791.11,VNDD95DB1B7,2026-05-30,Active
+ASTEA2A4770,decade whom,Tools,Chicago,150,19,847.49,VNDA68A83A5,2025-08-29,Low Stock
+AST3D2C674A,floor travel,Vehicles,Chicago,167,34,792.7,VNDF545674F,2024-04-22,Active
+ASTFD8D0E3A,eat head,Tools,San Antonio,140,21,350.4,VND1DF449E3,2025-02-09,Active
+ASTE05F9E61,able source,Vehicles,Dallas,138,36,672.47,VND439CBBCF,2025-09-12,Active
+AST349C6572,forget both,Computers,Austin,103,16,53.93,VNDF981F27F,2026-06-13,Active
+AST818F866D,fill huge,Tools,Los Angeles,101,22,879.05,VNDB3180A0E,2026-05-27,Active
+ASTED50296F,yourself put,Tools,New York,137,23,321.86,VND9724A5FF,2024-10-14,Active
+ASTBBE4D54C,manage home,Furniture,Dallas,61,7,756.32,VNDF7742C98,2025-09-20,Active
+AST503DB6E6,collection us,Tools,Houston,79,8,165.42,VNDA6643FA7,2024-03-03,Active
+AST57B2AC10,listen structure,Vehicles,Dallas,82,23,156.95,VND08CE8CA7,2026-04-10,Active
+ASTFC0C17D6,bed cover,Tools,Phoenix,69,7,222.52,VND2500CE76,2026-04-09,Active
+ASTD4A3B3BA,number interview,Vehicles,Philadelphia,68,14,519.33,VND76F0F0E0,2026-04-22,Active
+ASTD382D73A,notice wind,Machinery,New York,88,24,153.36,VND411B979D,2025-01-20,Active
+AST3191F84B,material church,Machinery,Austin,146,19,766.71,VNDF78A924D,2026-03-24,Active
+ASTF9388E84,herself religious,Tools,Austin,139,37,75.16,VNDE4298A7B,2024-02-18,Active
+ASTC8D6956E,development get,Furniture,Austin,129,17,790.74,VND96325CEF,2025-02-21,Active
+AST13898CE8,throughout home,Furniture,Philadelphia,38,7,480.19,VND1199176D,2024-08-11,Active
+AST0D62B1D8,report father,Machinery,San Antonio,72,14,263.45,VND7E4DB750,2026-05-23,Low Stock
+ASTBAC0CDAE,still audience,Furniture,San Jose,135,29,363.17,VND1FA33A03,2025-05-11,Active
+ASTCFB259C2,detail play,Vehicles,Philadelphia,92,15,846.08,VND1FA33A03,2024-02-20,Active
+ASTD031D3FA,sport drive,Tools,Chicago,96,19,745.43,VND7DD7F0E9,2024-05-30,Active
+ASTCEB1F21F,give manager,Infrastructure,Los Angeles,54,14,409.15,VND8C1D087C,2026-08-08,Low Stock
+AST41D91585,difficult professor,Vehicles,Phoenix,59,11,66.91,VND96325CEF,2024-01-14,Active
+ASTBDEB0727,administration pattern,Computers,New York,14,1,100.46,VNDA6643FA7,2024-02-10,Active
+ASTAB08BBE0,set still,Furniture,Chicago,69,12,901.38,VNDD39C47AD,2025-04-17,Discontinued
+AST6449445E,address suffer,Infrastructure,Phoenix,59,15,165.76,VND1FA33A03,2024-09-19,Discontinued
+AST22DA0F0E,laugh try,Vehicles,Philadelphia,125,21,948.93,VND590E7C93,2025-04-06,Active
+ASTF1F1AB5D,drive short,Tools,Houston,159,18,323.48,VND37AB5C39,2025-01-15,Active
+ASTF9F02FBC,hand morning,Infrastructure,Los Angeles,98,18,944.73,VND590E7C93,2025-11-28,Active
+AST562A3E00,reason until,Machinery,Chicago,152,30,302.81,VNDCDB882C0,2024-06-11,Active
+ASTBD74C525,treatment where,Computers,San Antonio,74,22,782.61,VND1A73FC33,2026-01-31,Active
+AST3706AE95,already different,Tools,Los Angeles,89,13,251.81,VNDD6FBFD33,2026-02-18,Active
+AST4D25AFDD,girl share,Machinery,San Diego,130,29,43.5,VNDE4298A7B,2026-02-09,Active
+AST94329972,six travel,Machinery,Jacksonville,68,10,24.77,VND0300765D,2025-05-10,Active
+AST864AEF5B,free form,Infrastructure,Philadelphia,84,15,610.57,VND23FDC749,2024-09-06,Active
+AST561C8DAA,air into,Computers,San Jose,40,5,240.32,VND0B515B0E,2024-04-09,Low Stock
+AST191FEFBD,subject professor,Infrastructure,San Diego,58,14,908.3,VNDAE27E9B6,2024-12-30,Active
+AST69CA8E2F,offer science,Infrastructure,San Antonio,151,17,367.6,VNDCFB6DC09,2025-11-19,Low Stock
+ASTA8E20965,set trade,Tools,San Antonio,117,21,183.36,VND048CF2D5,2024-08-31,Active
+AST04F2B946,of really,Machinery,Dallas,1,1,710.58,VND97E5802F,2026-06-02,Active
+AST56EEB613,purpose just,Vehicles,San Jose,168,49,674.71,VNDD6FBFD33,2025-06-20,Active
+AST6C4C1444,bit boy,Furniture,San Diego,118,33,17.57,VND048CF2D5,2024-12-28,Active
+AST0104FA25,while participant,Tools,Dallas,128,21,760.08,VND3AF51314,2025-02-15,Discontinued
+AST87B3B480,strong term,Machinery,Chicago,137,29,705.14,VNDB598AD91,2025-07-14,Low Stock
+AST1B1E8AAB,reveal stand,Tools,Los Angeles,157,15,969.88,VND2986F777,2026-04-08,Active
+ASTA7DE3EFA,campaign color,Vehicles,Austin,164,38,195.05,VNDD39C47AD,2025-05-14,Active
+ASTD9C9E201,Republican amount,Infrastructure,Dallas,111,18,501.37,VND397FE668,2024-12-03,Active
+ASTBD358CA8,time believe,Infrastructure,Phoenix,73,17,494.37,VNDE3830203,2026-01-23,Active
+AST00702750,break language,Vehicles,Phoenix,111,13,839.77,VNDA402B738,2025-01-03,Low Stock
+ASTCDED3930,reach alone,Tools,Dallas,157,43,342.54,VND08CE8CA7,2026-06-11,Active
+AST6BB5B12F,order father,Tools,Los Angeles,14,2,223.5,VNDB598AD91,2026-08-05,Discontinued
+ASTC38CB2DE,firm per,Furniture,Austin,126,28,372.41,VND589660CD,2025-05-29,Active
+AST23EC89E4,station land,Furniture,New York,1,1,331.49,VND4EA7F305,2025-02-03,Active
+AST22D21714,day where,Machinery,New York,91,20,575.24,VND57CA31A1,2024-07-21,Active
+ASTADAB0762,one speech,Machinery,Jacksonville,58,14,151.67,VND57CA31A1,2024-11-14,Active
+ASTA0C4B7F7,something mean,Machinery,Houston,99,14,637.25,VND8C1D087C,2025-08-11,Active
+ASTCCB3AA7B,despite soldier,Tools,Phoenix,140,25,108.2,VND4F7B00FC,2026-02-13,Active
+AST922AF4C8,model decide,Infrastructure,New York,55,7,455.0,VND894C6368,2026-07-13,Active
+AST200843D6,meeting allow,Machinery,Austin,74,8,828.48,VND08CE8CA7,2025-09-13,Active
+ASTD572233E,have audience,Furniture,Chicago,144,42,107.85,VND10335071,2025-07-20,Active
+AST074DE7ED,body democratic,Vehicles,Jacksonville,166,19,934.01,VND999ED598,2026-02-08,Low Stock
+AST4BFCA9A4,car later,Infrastructure,Houston,113,18,223.69,VND2258ABB1,2024-03-30,Active
+ASTA5D37978,produce effect,Machinery,San Jose,121,20,35.99,VND2FE40F33,2024-10-25,Low Stock
+ASTC8B22609,find win,Furniture,Houston,87,10,828.42,VND03F2A471,2025-01-13,Active
+ASTD20AA831,heart pretty,Tools,Jacksonville,1,1,956.28,VND4D8ED92A,2024-09-30,Active
+AST78CBFDDF,vote mission,Tools,San Diego,121,25,769.26,VNDAD897EA3,2024-05-18,Active
+AST62923993,PM ago,Vehicles,Dallas,153,40,513.34,VNDF7A9FFF9,2025-11-01,Active
+ASTB595F6A8,think girl,Infrastructure,Dallas,110,26,668.76,VND03F2A471,2024-12-26,Active
+AST19DC1AB7,top be,Computers,Austin,115,14,704.82,VND96325CEF,2024-10-17,Active
+ASTA4F953E5,environmental everything,Computers,Dallas,77,20,398.4,VNDC4060F12,2024-02-12,Active
+AST9542CD1D,set particularly,Furniture,New York,71,8,110.44,VNDE1A395FA,2024-02-04,Active
+AST1E8ED701,example really,Furniture,Dallas,26,7,474.77,VNDF549E284,2025-05-02,Active
+ASTAB610C55,throughout power,Machinery,Chicago,101,12,690.06,VND75832916,2026-01-15,Active
+AST8916D136,final couple,Vehicles,Austin,104,26,65.61,VND49098C56,2024-03-22,Discontinued
+AST992E631F,human customer,Machinery,New York,197,36,583.08,VND4F7B00FC,2025-06-10,Active
+AST49B23FBB,station technology,Furniture,Los Angeles,36,7,495.25,VNDB3180A0E,2026-02-04,Active
+AST5EF07647,front tax,Tools,Philadelphia,64,19,60.29,VND8BC82E76,2024-09-29,Discontinued
+AST85395483,probably team,Furniture,Phoenix,135,28,294.1,VND2094DBBC,2025-10-08,Active
+ASTEA7C6569,listen beautiful,Tools,Jacksonville,23,3,902.41,VNDB598AD91,2026-01-20,Active
+AST6F4EF9F7,physical several,Furniture,Philadelphia,87,17,563.42,VND4D8ED92A,2026-02-04,Active
+ASTF6EF1001,son especially,Vehicles,San Antonio,145,24,185.74,VND2FE40F33,2026-07-02,Low Stock
+AST5FBC06A8,others country,Machinery,Jacksonville,101,17,322.85,VND2986F777,2024-10-03,Active
+AST7CC79C7C,minute song,Machinery,Chicago,123,36,910.62,VND672E91CF,2024-03-31,Discontinued
+ASTA3EE6867,remain leg,Computers,Phoenix,160,32,33.65,VND4EC61792,2025-02-04,Discontinued
+ASTF9683C20,military right,Infrastructure,San Jose,81,16,347.48,VNDCFB6DC09,2026-02-03,Low Stock
+ASTA85A6676,ten growth,Infrastructure,Dallas,138,31,382.8,VND6FADEC72,2026-05-07,Active
+AST78E91E31,pass head,Furniture,Chicago,116,27,309.71,VNDF464A966,2026-04-16,Active
+AST06541256,available government,Furniture,Chicago,140,31,21.46,VND190C8D31,2024-01-17,Active
+ASTFC7F75E9,picture throw,Computers,Philadelphia,193,27,190.17,VND466655B2,2026-07-31,Low Stock
+AST87483C82,best training,Infrastructure,Dallas,51,6,630.8,VND22E4CBF8,2024-01-11,Discontinued
+AST9E99226B,while data,Vehicles,Los Angeles,134,32,472.57,VND10335071,2024-06-07,Active
+AST2BB8C50B,cultural administration,Computers,San Diego,90,12,770.21,VND6917D5FA,2025-01-19,Active
+AST2356DD60,quickly see,Machinery,New York,123,17,903.29,VNDD24A1BC5,2024-07-07,Active
+ASTD98F6937,him plan,Furniture,Chicago,149,38,440.38,VNDBC15E50D,2025-09-16,Active
+AST6FF5F24A,personal move,Tools,New York,43,11,780.19,VND2258ABB1,2026-04-09,Low Stock
+ASTA48452B8,green there,Tools,Austin,124,21,247.48,VND29251C8F,2026-06-03,Active
+AST35EFBB9A,east remember,Computers,Austin,166,36,243.22,VND6F35B3AD,2025-07-25,Active
+ASTCEFCA82E,special rule,Tools,Dallas,57,12,80.06,VND275CA511,2026-02-04,Active
+AST876864B2,win time,Tools,San Antonio,134,22,110.91,VND65B60718,2026-03-21,Active
+AST87B9A094,woman major,Infrastructure,New York,111,25,912.16,VNDE1A395FA,2024-04-29,Active
+AST26110F07,cause believe,Furniture,San Antonio,58,14,327.22,VND6917D5FA,2025-07-23,Active
+ASTA6D94392,smile program,Machinery,San Diego,71,10,801.31,VNDAD897EA3,2025-05-03,Active
+ASTFB72FD24,hospital tend,Furniture,San Jose,81,19,200.34,VNDBC15E50D,2026-04-23,Active
+ASTCDC51A92,black office,Vehicles,San Jose,180,27,457.7,VND4F7B00FC,2024-05-31,Active
+AST92CC2817,as white,Vehicles,Jacksonville,111,11,873.52,VNDD95DB1B7,2025-05-24,Active
+ASTAA71398C,soldier part,Furniture,New York,221,52,796.04,VND8C1D087C,2026-08-03,Active
+AST3D333E8E,wish turn,Vehicles,Los Angeles,93,19,954.97,VND0300765D,2024-08-29,Discontinued
+ASTFCAEEB13,though song,Computers,Los Angeles,45,7,277.9,VNDE6A4DD03,2025-01-07,Active
+ASTC8FCE2B6,Mr teach,Machinery,Jacksonville,91,12,44.2,VND616471F8,2024-04-05,Active
+ASTF54236E4,theory including,Tools,Austin,137,31,332.74,VNDF7A9FFF9,2025-10-07,Active
+ASTE2433AA1,every guy,Computers,Los Angeles,166,40,916.29,VND3B5BB0BC,2025-10-28,Active
+ASTC6767BE9,sit politics,Infrastructure,San Diego,166,24,254.8,VND7E4DB750,2024-04-19,Active
+AST6933FD49,ability fine,Tools,New York,42,6,443.43,VND1C52ED63,2025-03-06,Active
+AST67FF2EAA,bit by,Computers,Houston,147,33,693.54,VND2986F777,2024-12-03,Active
+ASTFEC9B93E,audience evidence,Computers,San Jose,107,13,637.45,VNDEA23339B,2025-01-23,Active
+ASTD3731FF2,do big,Furniture,Austin,12,2,345.81,VND35CDCFF0,2024-03-05,Active
+ASTE59F3FAE,prepare police,Infrastructure,San Jose,87,16,572.73,VND97E5802F,2025-12-31,Active
+AST1C8A2DEE,real once,Vehicles,San Diego,93,20,784.53,VND275CA511,2024-06-19,Active
+ASTB9A13CF3,approach whole,Furniture,New York,69,11,785.74,VND999ED598,2026-07-03,Active
+AST598D0685,perhaps trial,Machinery,San Diego,85,25,254.97,VNDF909C443,2026-01-24,Active
+AST6B399E30,operation enter,Vehicles,San Jose,108,16,57.43,VND6ACF147A,2026-01-31,Active
+ASTDDA3AA36,three ten,Furniture,San Antonio,192,37,818.59,VND22E4CBF8,2025-06-12,Active
+AST23C2580F,land ready,Furniture,San Jose,136,34,693.97,VND18221D96,2024-11-16,Active
+ASTA50F4825,maintain over,Machinery,New York,42,8,315.23,VNDF78A924D,2025-07-13,Active
+AST4113234C,upon morning,Furniture,San Antonio,88,9,616.3,VNDC178B24A,2025-03-08,Active
+AST9A66D7B5,structure Republican,Furniture,San Jose,84,19,691.02,VNDD24A1BC5,2025-09-23,Active
+ASTBDBAD050,suggest able,Computers,Houston,43,10,478.84,VND7DD7F0E9,2024-05-10,Low Stock
+AST49CF576A,spend picture,Computers,Austin,169,35,248.14,VND6E96F23C,2026-04-21,Active
+AST38D233F0,book including,Tools,San Antonio,166,31,195.07,VNDA74DADEC,2026-06-07,Active
+AST1E89F7C8,realize staff,Computers,San Jose,26,2,646.41,VND57CA31A1,2024-04-16,Active
+ASTAE0981EA,while choice,Vehicles,San Antonio,193,49,238.35,VND220F792F,2024-05-10,Low Stock
+AST200E1218,specific all,Machinery,San Diego,207,46,288.25,VND76F0F0E0,2024-04-16,Active
+ASTDF253BB5,check section,Furniture,San Diego,166,21,126.26,VND590E7C93,2026-03-30,Active
+ASTD0296604,dinner box,Infrastructure,San Antonio,156,21,438.63,VND49098C56,2024-02-23,Active
+AST393EB73F,degree explain,Furniture,Philadelphia,32,3,529.13,VND22E4CBF8,2025-06-23,Active
+AST7837855D,serve with,Infrastructure,San Antonio,100,22,716.88,VNDFDC347F6,2025-09-16,Active
+AST922CE7FB,reveal activity,Tools,Houston,96,18,576.99,VND2500CE76,2024-09-21,Active
+AST12157DFD,cover everything,Tools,Chicago,122,24,189.06,VND0D050C25,2024-07-28,Active
+AST184A34BE,theory PM,Vehicles,Philadelphia,100,11,247.32,VND4F7B00FC,2025-07-26,Active
+AST3626A4C1,enough arm,Computers,Phoenix,82,8,194.52,VNDCDB882C0,2024-05-20,Active
+AST84E339B8,able serve,Furniture,San Jose,38,5,168.56,VNDCAF05089,2024-03-25,Low Stock
+AST0BAE8BC9,push protect,Furniture,Austin,172,27,939.71,VND139B2EB5,2024-05-26,Active
+ASTC80A93A6,performance body,Furniture,New York,56,5,14.22,VND7DD7F0E9,2025-09-24,Active
