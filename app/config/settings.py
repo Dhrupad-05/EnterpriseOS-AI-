@@ -14,6 +14,9 @@ class Settings(BaseSettings):
     gemini_api_key: str | None = None
     groq_api_key: str | None = None
     openrouter_api_key: str | None = None
+    resend_api_key: str | None = None
+    slack_bot_token: str | None = None
+    notification_from_email: str = "noreply@enterpriseos.local"
     model_config = SettingsConfigDict(env_file=".env", case_sensitive=False, extra="ignore")
 
 @lru_cache

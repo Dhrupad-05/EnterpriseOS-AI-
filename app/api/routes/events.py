@@ -8,6 +8,8 @@ from app.db.session import get_db
 from app.schemas.events import EventCreate, EventRead
 from app.services.events import EventService
 from app.workflows.graph import WorkflowOrchestrator
+from app.workflows.persistence import WorkflowPersistence
+from app.notifications.service import NotificationService
 from app.models.entities import Approval, BusinessEvent
 router=APIRouter(prefix="/events",tags=["Business Events"])
 @router.post("",response_model=EventRead,status_code=status.HTTP_201_CREATED)
@@ -18,11 +20,11 @@ async def orchestrate_event(event_id:UUID,request:Request,db:AsyncSession=Depend
     event=await db.get(BusinessEvent,event_id)
     if not event: return {"error":"Event not found"}
     checkpointer=getattr(request.app.state,"workflow_checkpointer",None) or MemorySaver(); request.app.state.workflow_checkpointer=checkpointer
-    graph=WorkflowOrchestrator().build(checkpointer); config={"configurable":{"thread_id":str(event_id)}}
+    graph=WorkflowOrchestrator(snapshot_store=WorkflowPersistence(db)).build(checkpointer); config={"configurable":{"thread_id":str(event_id)}}
     result=await graph.ainvoke({"workflow_id":str(event_id),"event":{"event_type":event.event_type,"source":event.source,"title":event.title,"description":event.description,"severity":event.severity,"payload":event.payload}},config)
     interrupt=result.get("__interrupt__")
     if interrupt:
-        approval=Approval(event_id=event.id,requested_by=UUID(user["sub"]),expires_at=datetime.now(timezone.utc)+timedelta(minutes=30),urgency="critical" if event.severity=="critical" else "normal",proposed_action=result.get("recommendations",{})); db.add(approval); await db.commit()
+        approval=Approval(event_id=event.id,requested_by=UUID(user["sub"]),expires_at=datetime.now(timezone.utc)+timedelta(minutes=30),urgency="critical" if event.severity=="critical" else "normal",proposed_action=result.get("recommendations",{})); db.add(approval); await db.commit(); await NotificationService().send_approval_request(approval,event.payload.get("approver_email","approvals@enterpriseos.local"))
     return {"event_id":str(event_id),"status":result.get("status"),"interrupt":bool(interrupt),"state":result}
 @router.get("/{event_id}",response_model=EventRead)
 async def get_event(event_id:UUID,db:AsyncSession=Depends(get_db),user=Depends(current_user)):
