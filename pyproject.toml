@@ -7,6 +7,9 @@ dependencies = ["fastapi>=0.115.0", "uvicorn[standard]>=0.30.0", "sqlalchemy[asy
 [build-system]
 requires = ["setuptools>=75"]
 build-backend = "setuptools.build_meta"
+[tool.setuptools.packages.find]
+include = ["app*"]
+exclude = ["generated_datasets*"]
 [tool.pytest.ini_options]
 asyncio_mode = "auto"
 testpaths = ["tests"]
