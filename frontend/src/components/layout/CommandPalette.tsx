@@ -3,6 +3,7 @@ import { useApp } from "@/context/AppContext"
 import { Search, LayoutGrid, Flame, ShieldCheck, Bot, PackageSearch } from "lucide-react"
 import { useNavigate } from "react-router-dom"
 import { useEffect, useState } from "react"
+import { canAccess } from "@/lib/access"
 
 const commands = [
   { label: "Go to Dashboard", path: "/app", icon: LayoutGrid },
@@ -13,7 +14,7 @@ const commands = [
 ]
 
 export function CommandPalette() {
-  const { paletteOpen, setPaletteOpen } = useApp()
+  const { role, paletteOpen, setPaletteOpen } = useApp()
   const [query, setQuery] = useState("")
   const navigate = useNavigate()
 
@@ -29,7 +30,9 @@ export function CommandPalette() {
     return () => window.removeEventListener("keydown", handler)
   }, [paletteOpen, setPaletteOpen])
 
-  const filtered = commands.filter((c) => c.label.toLowerCase().includes(query.toLowerCase()))
+  const filtered = commands
+    .filter((c) => canAccess(role, c.path))
+    .filter((c) => c.label.toLowerCase().includes(query.toLowerCase()))
 
   return (
     <AnimatePresence>
