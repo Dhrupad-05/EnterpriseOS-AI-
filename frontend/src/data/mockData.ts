@@ -111,3 +111,21 @@ export const chatSuggestions = [
   "Summarize today's operations",
   "Simulate a supplier failure",
 ]
+
+export interface Notification {
+  id: string
+  title: string
+  body: string
+  time: string
+  severity: "low" | "medium" | "high" | "critical"
+  read: boolean
+}
+
+export const notifications: Notification[] = [
+  { id: "n-1", title: "Critical: Power outage — Chennai facility", body: "Grid failure at 04:12 IST halted line 2 and 3. Backup generators covering 40% load.", time: "6m ago", severity: "critical", read: false },
+  { id: "n-2", title: "Approval needed: Emergency PO $18,400", body: "Replacement compressor unit for Line 3 requires CFO sign-off per policy EP-04.", time: "11m ago", severity: "high", read: false },
+  { id: "n-3", title: "Vendor delay — Meridian Steel Co.", body: "Shipment ETA slipped 4 days. Alternate supplier shortlist generated.", time: "22m ago", severity: "medium", read: false },
+  { id: "n-4", title: "Low stock — Industrial lubricant SKU-2210", body: "Reorder threshold crossed at 3 of 6 warehouses.", time: "34m ago", severity: "low", read: false },
+  { id: "n-5", title: "Predictive failure — CNC Mill #4", body: "Vibration sensors trending toward bearing failure within 72h.", time: "51m ago", severity: "medium", read: true },
+  { id: "n-6", title: "Customer escalation resolved — Order #88213", body: "Resolved with expedited shipping credit, logged and closed.", time: "1h ago", severity: "low", read: true },
+]
